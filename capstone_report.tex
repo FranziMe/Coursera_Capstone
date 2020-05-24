@@ -1,0 +1,53 @@
+\documentclass[11pt,a4paper,final]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Franziska Metge}
+\title{Predicting population size based on abundance of different venues} 
+\begin{document}
+\maketitle
+\section{Introduction}
+In this Capstone project I want to investigate if the population size of a city can be estimated by the amount of different venues within a 5km radius around the city center. Furthermore, I want to determine which type of venue is the best predictor for population size and what type of model is the most accurate. Therefore, I will implement different models introduced in the Machine Learning Course using an Ipython Notebook and the python specific libraries such as numpy, pandas, and sklearn.\\\\
+This analysis could reveal crucial correlations between venues and population size. It could identify outlier cities. Cities with a higher density of venues to population size could possibly be interesting for tourism agencies, while cities with a lower density of venues to population size could possibly be interesting for business developers.\\
+
+\section{Data}
+I will use the population data made publicly available by the United Nations (\href{https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2018/table08.xls}{Demographic Yearbook – 2018}\footnote{\url{https://unstats.un.org/unsd/demographic-social/products/dyb/dyb_2018/}}). I will use numpy and pandas libraries to clean the data. Secondly, I will use the geopy library to acquire the coordinates for all cities. I will separate cities into different classes/groups based on their population size, i.e. $ < 0.5\text{ Mio}, 0.5-1\text{ Mio}, 1-5\text{ Mio}, 5-10\text{ Mio}, 10-20\text{ Mio}, \text{and} >20\text{ Mio}$.\\
+I will use the foursquare app to look for all venues within a 5km radius of the city's center. In order to deal with the limited amount of requests that can be made to foursquare, I will only use a subset of all cities. The data will be stored in a table with one row per city containing the cities name, country, coordinates, population size, population size category, number of venues from different categories in one-hot encoding.\\
+Finally, this data set will be split into a training and test data set to train different models and evaluate their accuracy.
+
+
+
+\section{Methods}
+%\begin{itemize}
+%\item models
+%\begin{itemize}
+%\item KNN
+%\item Decision Tree
+%\item multiple linear regression
+%\item Supported Vector Machines
+%\item NN?
+%\end{itemize}
+%\item Evaluation scores
+%\begin{itemize}
+%\item F1 score
+%\item Jaccard
+%\item Rsquare
+%\end{itemize}
+%\item pictures:
+%\begin{itemize}
+%\item ...
+%\end{itemize}
+%\end{itemize}
+Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
+\section{Results}
+Results section where you discuss the results.
+\section{Discussion}
+Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+\section{Conclusion}
+Conclusion section where you conclude the report.
+
+\end{document}
