@@ -18,7 +18,7 @@
 # only keeping necessary code from part 1
 
 import pandas as pd
-df = pd.read_html('https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M')[0]
+df = pd.read_html('https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M')[0]df = pd.read_html('https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M')[0]
 df.drop(df[df['Borough'] == "Not assigned" ].index , inplace=True)
 print(df.head())
 df.shape
