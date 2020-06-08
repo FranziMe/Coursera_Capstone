@@ -41,6 +41,14 @@ import folium # map rendering library
 print('Libraries imported.')
 # }}}
 
+# ## Step 1: Data aquisition
+# 1.1 read and clean city/population data from UN  
+# 1.2 get coordinates for all cities using `geopy.geocoder`  
+# 1.3 bin population size  
+# 1.4 for each city get all venues within 5km radius of city center using `foursquare` API
+
+# ### 1.1 read and clean city/population data from UN
+
 # {{{
 # possibly need to clean up the table a bit before. add countries to cities and remove footnotes
 
@@ -56,15 +64,18 @@ print(population.shape)
 population.head()
 # }}}
 
-# {{{
+# ### 1.2 get coordinates for all cities using `geopy.geocoder`
+
 # add longitude and latitude to table
 # initialize column, only necessary because it is using the column before it's first assignment
-population['Country'] = np.nan
+population['Country'] = ''
 
+# {{{
 for i in population.index:
     city = population.at[i,'City']
     country = population.at[i,'Country']
-    if not pd.notnull(country):
+    if country == '':
+        #print(city)
         geolocator = Nominatim(user_agent="foursquare_agent")
         location = geolocator.geocode(city)
         if not location == None:
@@ -82,14 +93,19 @@ for i in population.index:
         else:
             latitude = np.nan
             longitude = np.nan
+            country = np.nan
         population.at[i, 'Country'] = country
         population.at[i, 'Latitude'] = latitude
         population.at[i, 'Longitude'] = longitude
 
 print(population.shape)
 population.head()
-
 # }}}
+
+population.tail()
+
+
+# ### 1.3 bin population size  
 
 # {{{
 # drop cities without location
@@ -142,6 +158,8 @@ print('Your credentails:')
 print('CLIENT_ID: ' + CLIENT_ID)
 print('CLIENT_SECRET:' + CLIENT_SECRET)
 # }}}
+
+# ### 1.4 for each city get all venues within 5km radius of city center using `foursquare` API
 
 # {{{
 # function that extracts the category of the venue
@@ -238,99 +256,144 @@ print(city_venues.shape)
 city_venues.head()
 # }}}
 
+# read in table
+city_venues = pd.read_excel('city_venues.xlsx', index_col= 0)
+city_venues.dropna(inplace = True)
 city_venues.head()
 
 population.head()
 
+# ## Step 2: Data wrangeling
+# 2.1 redefine groups  
+# 2.2 get one-hot encoding for Venue Category and/or Grouped Venue Category  
+# 2.3 summarize by ciy either mean or sum  
+# 2.4 merge with population data  
 
-def group_category(x, category_group):
-    if category_group.upper() in x.upper():
-        category = category_group
-    else:
-        category = x
-    return category
-
-
-# {{{
-# group Venue Categories
-# city_venues.dropna(inplace = True)
-city_venues['grouped Venue Category'] = city_venues['Venue Category']
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Restaurant'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Store'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'House'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Museum'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Airport'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Joint'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Boutique'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Art'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Shop'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Bar'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Stadium'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Field'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Place'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Court'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Cafe'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Market'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Service'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Studio'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Gym'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Park'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Club'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Center'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Garden'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Salon'))
-city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Rink'))
+# ### 2.1 redefine groups (not doing that for now)
 
 
 
-
-
-
-city_venues.head()
-# }}}
-
-# create a dictionary grouping some of the rest of the categories
-grouped_categries_dict = {
-    cd /bio
-}
-
-print(len(set(city_venues['grouped Venue Category'])))
-print(len(set(city_venues['Venue Category'])))
-
-
-set(city_venues['grouped Venue Category'])
+# ### 2.2 get one-hot encoding for Venue Category (and or Grouped Venue Category)
 
 # {{{
 # one hot encoding
 city_onehot = pd.get_dummies(city_venues[['Venue Category']], prefix="", prefix_sep="")
 
+city_onehot.drop(['City'], axis = 1, inplace = True)
 # add neighborhood column back to dataframe
 city_onehot['City'] = city_venues['City'] 
 
 # move neighborhood column to the first column
-#fixed_columns = [city_onehot.columns[-1]] + list(city_onehot.columns[:-1])
-#city_onehot = city_onehot[fixed_columns]
+fixed_columns = [city_onehot.columns[-1]] + list(city_onehot.columns[:-1])
+city_onehot = city_onehot[fixed_columns]
 
 city_onehot.head()
 # }}}
 
+# ### 2.3 summarize by ciy either sum (or mean)  
+#
 
+city_grouped = city_onehot.groupby('City').sum().reset_index()
+city_grouped.head()
 
-city_onehot.loc[city_onehot['City'] == 'BERLIN']
+# ### 2.4 merge with population data  
 
-# group by neighborhood but keep number not mean
-toronto_grouped = toronto_onehot.groupby('Neighborhood').mean().reset_index()
-toronto_grouped.head()
+# add population and location data to data, and save table
+population_venue_data = population.merge(city_grouped, on = 'City')
+population_venue_data.to_excel('population_venue_data.xlsx')
+population_venue_data.head()
+
+# ## Step 3: Visualize data
+# 3.1 PCA  
+# 3.2 TSNE  
+# 3.3 barplot or boxplot for group Venues  
+# 3.4 plot number of venues vs. number of categories (showing diversity)  
+
+# ### 3.1 PCA
 
 # {{{
-# set number of clusters
-kclusters = 5
+# look at data with PCA and TSNE
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
 
-toronto_grouped_clustering = toronto_grouped.drop('Neighborhood', 1)
+# remove city and country for the PCA
+X = population_venue_data.drop(population_venue_data.iloc[:, 0:6], inplace=False, axis=1)
+print(X.shape)
 
-# run k-means clustering
-kmeans = KMeans(n_clusters=kclusters, random_state=0).fit(toronto_grouped_clustering)
+x_pca = StandardScaler().fit_transform(X) # normalizing the features
+pca_cities = PCA(n_components=2)
+principalComponents_cities = pca_cities.fit_transform(x_pca)
+PC_cities_Df = pd.DataFrame(data = principalComponents_cities
+             , columns = ['principal component 1', 'principal component 2'])
+print('Explained variation per principal component: {}'.format(pca_cities.explained_variance_ratio_))
 
-# check cluster labels generated for each row in the dataframe
-kmeans.labels_[0:10] 
+plt.figure()
+plt.figure(figsize=(10,10))
+plt.xticks(fontsize=12)
+plt.yticks(fontsize=14)
+plt.xlabel('Principal Component - 1',fontsize=20)
+plt.ylabel('Principal Component - 2',fontsize=20)
+plt.title("Principal Component Analysis of Population City Dataset",fontsize=20)
+targets = population_venue_data['population_bin'].unique()
+colors = ['black','red', 'green', 'blue', 'yellow']
+for target, color in zip(targets,colors):
+    indicesToKeep = population_venue_data['population_bin'] == target
+    plt.scatter(PC_cities_Df.loc[indicesToKeep, 'principal component 1']
+               , PC_cities_Df.loc[indicesToKeep, 'principal component 2'], c = color, s = 50)
+
+plt.legend(targets,prop={'size': 15})
 # }}}
+
+# ### 3.2 TSNE
+
+# {{{
+import numpy as np
+from sklearn.manifold import TSNE
+from matplotlib import pyplot as plt
+import seaborn as sns
+
+X = population_venue_data.drop(population_venue_data.iloc[:, 0:6], inplace=False, axis=1)
+
+tsne = TSNE(perplexity = 30)
+X_embedded = tsne.fit_transform(X)
+
+plt.figure()
+plt.figure(figsize=(10,10))
+plt.xticks(fontsize=12)
+plt.yticks(fontsize=14)
+plt.xlabel('Principal Component - 1',fontsize=20)
+plt.ylabel('Principal Component - 2',fontsize=20)
+plt.title("Principal Component Analysis of Population City Dataset",fontsize=20)
+
+targets = population_venue_data['population_bin'].unique()
+colors = ['black','red', 'green', 'blue', 'yellow']
+
+for target, color in zip(targets,colors):
+    indicesToKeep = population_venue_data['population_bin'] == target
+    plt.scatter(X_embedded[indicesToKeep,0]
+               , X_embedded[indicesToKeep,1], c = color, s = 50)
+
+plt.legend(targets,prop={'size': 15})
+
+#sns.scatterplot(, X_embedded[:,1])
+# }}}
+
+# ## Step 4: Write function to find similar city
+# 4.1 input: population/venue data, favorite city, number of similar cities, choice of algorithm, select or deselect categories  
+# 4.2 remove or select specified categories  
+# 4.3 use hierachical clustering to find x similar cities  
+# 4.4 return similar cities  
+# 4.5 make a heatmap showing similar cities and features (!=0)  
+
+# ## Step 5: Apply functions
+# 5.1 show the result for 5 examples  
+# 5.2 pretend to select a city  
+# 5.3 use `foursquare` to get more information on an example city  
+
+# ## Possible discussion points and future directions. 
+# - select more cities and create an average of input cities
+# - select more cities and use K-means clustering with selected cities as input
+#   - show top venues for each cluster
+#   - build recommender engine for selecting multiple cities
+
+
