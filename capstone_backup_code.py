@@ -13,7 +13,58 @@
 #     name: python3
 # ---
 
+# {{{
+def group_category(x, category_group):
+    if category_group.upper() in x.upper():
+        category = category_group
+    else:
+        category = x
+    return category
 
+# group Venue Categories
+city_venues.dropna(inplace = True)
+city_venues['grouped Venue Category'] = city_venues['Venue Category']
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Restaurant'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Store'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'House'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Museum'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Airport'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Joint'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Boutique'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Art'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Shop'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Bar'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Stadium'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Field'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Place'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Court'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Cafe'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Market'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Service'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Studio'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Gym'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Park'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Club'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Center'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Garden'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Salon'))
+city_venues['grouped Venue Category'] = city_venues['grouped Venue Category'].apply(lambda x: group_category(x, 'Rink'))
+
+
+
+
+# create a dictionary grouping some of the rest of the categories
+defined_categories = pd.read_excel('categories.xlsx')
+defined_categories.head(n = 20)
+city_venues = city_venues.merge(defined_categories, how = 'left', on = ['grouped Venue Category'])
+print(city_venues.head())
+
+city_venues_tmp = city_venues[['Venue Category','grouped Venue Category', 'defined Venue Category']].drop_duplicates()
+print(city_venues_tmp.head())
+
+city_venues_tmp.to_excel('categories_for_refinement.xlsx')
+# manually curate categories and add to table
+# }}}
 
 def group_category(x, category_group):
     if category_group.upper() in x.upper():
@@ -212,8 +263,6 @@ for target, color in zip(targets,colors):
                , population_venue_data.loc[indicesToKeep, 'Latitude'], c = color, s = 50)
 
 plt.legend(targets,prop={'size': 15})
-
-
 # }}}
 
 X_test.head()
