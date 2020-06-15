@@ -1,0 +1,2344 @@
+City & Population Size & Country & Latitude & Longitude & population_bin & ATM & Fast Food Restaurant & Zoo Exhibit \\
+Ain Temouchent & 299341.0 & Algeria & 35.26665705 & -1.149927622407504 & 1 & 0 & 1 & 0 \\
+ALGIERS (EL DJAZAIR) & 2712944.0 & Algeria & 36.7753606 & 3.0601882 & 3 & 0 & 0 & 0 \\
+Annaba & 442230.0 & Algeria & 36.8982165 & 7.7549272 & 1 & 0 & 0 & 0 \\
+Bejaïa & 559981.0 & Algeria & 36.7511783 & 5.0643687 & 2 & 0 & 0 & 0 \\
+Bordj Bou Arreridj & 422986.0 & Algeria & 36.095506 & 4.661100173631754 & 1 & 0 & 0 & 0 \\
+El Bayadh & 192958.0 & Algeria & 33.63785225 & 1.012203911250456 & 1 & 0 & 0 & 0 \\
+Guelma & 363716.0 & Algeria & 36.3491635 & 7.409498952760461 & 1 & 0 & 0 & 0 \\
+Jijel & 391096.0 & Algeria & 36.8167305 & 5.771494 & 1 & 0 & 0 & 0 \\
+Laghouat & 371204.0 & Algeria & 33.8063518 & 2.8808616 & 1 & 0 & 0 & 0 \\
+Qacentina (Constantine) & 717646.0 & Algeria & 36.364519 & 6.60826 & 2 & 0 & 0 & 0 \\
+Sidi-bel-Abbès & 517836.0 & Algeria & 35.205684 & -0.628540023566879 & 2 & 0 & 0 & 0 \\
+Souq Ahras & 308319.0 & Algeria & 36.284832 & 7.9515466 & 1 & 0 & 0 & 0 \\
+Tbessa (Tébessa) & 515786.0 & Algeria & 35.4035956 & 8.1212322 & 2 & 0 & 0 & 0 \\
+Tihert (Tiaret) & 637991.0 & Algeria & 35.3661448 & 1.3194687 & 2 & 0 & 0 & 0 \\
+Tilimsen (Tlemcen) & 672490.0 & Algeria & 34.881789 & -1.316699 & 2 & 0 & 0 & 0 \\
+Tizi Ouzou & 585775.0 & Algeria & 36.6816175 & 4.237186047040007 & 2 & 0 & 0 & 0 \\
+Cotonou & 679012.0 & Benin & 6.3676953 & 2.4252507 & 2 & 0 & 0 & 0 \\
+Parakou & 255478.0 & Benin & 9.3400159 & 2.6278258 & 1 & 0 & 0 & 0 \\
+PORTO-NOVO & 264320.0 & Benin & 6.4990718 & 2.6253361 & 1 & 0 & 2 & 0 \\
+Francistown & 110077.0 & Botswana & -21.16636 & 27.502515 & 1 & 0 & 0 & 0 \\
+GABORONE & 264311.0 & Botswana & -24.6581357 & 25.9088474 & 1 & 0 & 1 & 0 \\
+Banfora & 75917.0 & Burkina Faso & 10.642703 & -4.752639 & 1 & 0 & 0 & 0 \\
+Bobo Dioulasso & 489967.0 & Burkina Faso & 11.1757783 & -4.2957591 & 1 & 0 & 0 & 0 \\
+Fada N'gourma & 41785.0 & Burkina Faso & 12.0570943 & 0.3593297 & 1 & 0 & 0 & 0 \\
+Kaya & 54365.0 & Burkina Faso & 13.085603 & -1.0839593 & 1 & 0 & 0 & 0 \\
+Koudougou & 88184.0 & Burkina Faso & 12.2503992 & -2.3657338 & 1 & 0 & 0 & 0 \\
+OUAGADOUGOU & 1475223.0 & Burkina Faso & 12.3681873 & -1.5270944 & 3 & 0 & 0 & 0 \\
+Ouahigouya & 73153.0 & Burkina Faso & 13.580982 & -2.417699 & 1 & 0 & 0 & 0 \\
+Tenkodogo & 44491.0 & Burkina Faso & 11.7828079 & -0.3651416 & 1 & 0 & 0 & 0 \\
+BUJUMBURA & 497169.0 & Burundi & -3.3638125 & 29.3675028 & 1 & 0 & 0 & 0 \\
+Douala & 2948464.0 & Cameroon & 4.0429408 & 9.706203 & 3 & 0 & 0 & 0 \\
+YAOUNDE & 2873567.0 & Cameroon & 3.8689867 & 11.5213344 & 3 & 0 & 2 & 0 \\
+Abidjan & 4395243.0 & Côte d'Ivoire & 5.320357 & -4.016107 & 3 & 0 & 1 & 0 \\
+Bouake & 536719.0 & Côte d'Ivoire & 7.6906058 & -5.0298408 & 2 & 0 & 0 & 0 \\
+Daloa & 245360.0 & Côte d'Ivoire & 6.8766904 & -6.4516096 & 1 & 0 & 1 & 0 \\
+Divo & 105397.0 & Côte d'Ivoire & 5.8294045 & -5.3592251 & 1 & 0 & 0 & 0 \\
+Gagnoa & 160465.0 & Côte d'Ivoire & 6.1329749 & -5.9517697 & 1 & 0 & 0 & 0 \\
+Korhogo & 243048.0 & Côte d'Ivoire & 9.4574719 & -5.6342471 & 1 & 0 & 0 & 0 \\
+Man & 148945.0 & Côte d'Ivoire & 7.4090813 & -7.5501702 & 1 & 0 & 0 & 0 \\
+Soubre & 101196.0 & Côte d'Ivoire & 5.7852673 & -6.5928329 & 1 & 0 & 0 & 0 \\
+YAMOUSSOUKRO & 212670.0 & Côte d'Ivoire & 6.809107 & -5.273263 & 1 & 0 & 0 & 0 \\
+ASMARA & 501203.0 & Eritrea & 15.3389667 & 38.9326763 & 2 & 0 & 0 & 0 \\
+ADDIS ABABA & 4215965.41463451 & Ethiopia & 9.0107934 & 38.7612525 & 3 & 0 & 0 & 0 \\
+Awassa & 241825.244096661 & Ethiopia & 9.0124095 & 38.7501195 & 1 & 0 & 0 & 0 \\
+Bahir Dar & 239192.142240029 & Ethiopia & 11.5947981 & 37.3879783 & 1 & 0 & 0 & 0 \\
+Dessie & 184817.280813729 & Ethiopia & 11.122604 & 39.634982 & 1 & 0 & 0 & 0 \\
+Dire Dawa & 358914.405266673 & Ethiopia & 9.5913193 & 41.8566373 & 1 & 0 & 0 & 0 \\
+Gondar & 318625.330686521 & Ethiopia & 12.610368 & 37.466766 & 1 & 0 & 0 & 0 \\
+Harar & 152919.968024469 & Ethiopia & 9.3118397 & 42.1284445 & 1 & 0 & 0 & 0 \\
+Mekele & 471545.29871099 & Ethiopia & 13.5032145 & 39.46763519305963 & 1 & 0 & 0 & 0 \\
+Nazareth & 338889.904180464 & Ethiopia & 9.0391284 & 38.7580103 & 1 & 0 & 0 & 0 \\
+ACCRA & 1594419.0 & Ghana & 5.5600141 & -0.2057437 & 3 & 0 & 4 & 0 \\
+Ashiaman & 190972.0 & Ghana & 5.6917929 & -0.0259307 & 1 & 0 & 2 & 0 \\
+Koforidua & 122300.0 & Ghana & 6.1104472 & -0.2673795 & 1 & 0 & 0 & 0 \\
+Kumasi & 1730249.0 & Ghana & 6.698081 & -1.6230404 & 3 & 0 & 6 & 0 \\
+Madina & 111926.0 & Ghana & 5.6864962 & -0.1677052 & 1 & 0 & 1 & 0 \\
+Obuasi & 168641.0 & Ghana & 6.211542 & -1.6894045 & 1 & 0 & 0 & 0 \\
+Tamale & 223252.0 & Ghana & 9.4051992 & -0.8423986 & 1 & 0 & 0 & 0 \\
+Tema & 292773.0 & Ghana & 5.698692149999999 & 0.04035107031393203 & 1 & 0 & 0 & 0 \\
+CONAKRY & 1659785.0 & Guinea & 9.5170602 & -13.6998434 & 3 & 0 & 0 & 0 \\
+Dubreka & 157017.0 & Guinea & 9.7889809 & -13.5169725 & 1 & 0 & 0 & 0 \\
+Siguiri & 127492.0 & Guinea & 11.4195265 & -9.1751513 & 1 & 0 & 0 & 0 \\
+BISSAU & 387909.0 & Guinea-Bissau & 11.861324 & -15.583055 & 1 & 0 & 0 & 0 \\
+Eldoret & 247500.0 & Kenya & 0.5198329 & 35.2715481 & 1 & 0 & 0 & 0 \\
+Kangundo & 13119.0 & Kenya & -1.3033777 & 37.3472931 & 1 & 0 & 0 & 0 \\
+Karuri & 107754.0 & Kenya & -0.713372 & 37.035695 & 1 & 0 & 0 & 0 \\
+Kikuyu & 200285.0 & Kenya & -1.2438971 & 36.6645832 & 1 & 0 & 0 & 0 \\
+Kisumu & 254016.0 & Kenya & -0.1029109 & 34.7541761 & 1 & 0 & 2 & 0 \\
+Machakos & 40819.0 & Kenya & -1.27900465 & 37.39526976452546 & 1 & 0 & 0 & 0 \\
+Mombasa & 905627.0 & Kenya & -4.05052 & 39.667169 & 2 & 0 & 2 & 0 \\
+NAIROBI & 3109861.0 & Kenya & -1.2832533 & 36.8172449 & 3 & 0 & 2 & 0 \\
+Nakuru & 343395.0 & Kenya & -0.2802724 & 36.0712048 & 1 & 0 & 0 & 0 \\
+Ngong & 103927.0 & Kenya & -1.3666 & 36.65 & 1 & 0 & 0 & 0 \\
+Ruiru & 238329.0 & Kenya & -1.1472712 & 36.9604486 & 1 & 0 & 0 & 0 \\
+Thika & 136386.0 & Kenya & -1.036648 & 37.077523 & 1 & 0 & 1 & 0 \\
+MASERU & 330760.0 & Lesotho & -29.310054 & 27.478222 & 1 & 0 & 0 & 0 \\
+Blantyre City & 800264.0 & Malawi & -15.7862543 & 35.0035694 & 2 & 0 & 1 & 0 \\
+LILONGWE & 989318.0 & Malawi & -13.9875107 & 33.768144 & 2 & 0 & 0 & 0 \\
+Mzuzu City & 221272.0 & Malawi & -11.4607518 & 34.0226422 & 1 & 0 & 0 & 0 \\
+Zomba City & 105013.0 & Malawi & -15.3863208 & 35.3268273 & 1 & 0 & 1 & 0 \\
+Nouadhibou & 118167.0 & Mauritania & 20.9131304 & -17.0501015 & 1 & 0 & 0 & 0 \\
+NOUAKCHOTT & 958399.0 & Mauritania & 18.0792379 & -15.9780071 & 2 & 0 & 1 & 0 \\
+Beau Bassin - Rose Hill & 104086.0 & Mauritius & -20.234269 & 57.4693447 & 1 & 0 & 1 & 0 \\
+PORT LOUIS & 147448.0 & Mauritius & -20.1637281 & 57.5045331 & 1 & 0 & 2 & 0 \\
+Vacoas - Phoenix & 106022.0 & Mauritius & -20.2988802 & 57.4927689 & 1 & 0 & 2 & 0 \\
+Agadir & 505765.0 & Morocco & 30.42203615 & -9.55950887633639 & 2 & 0 & 3 & 0 \\
+Al Hoceima & 137024.0 & Morocco & 35.245114 & -3.930186 & 1 & 0 & 2 & 0 \\
+Azilal & 100327.0 & Morocco & 31.959295 & -6.570991 & 1 & 0 & 0 & 0 \\
+Béni-Mellal & 325405.0 & Morocco & 32.334193 & -6.353335 & 1 & 0 & 0 & 0 \\
+Benslimane & 113341.0 & Morocco & 33.6168709 & -7.123036042233153 & 1 & 0 & 0 & 0 \\
+Berkane & 182203.0 & Morocco & 34.9266755 & -2.3294087 & 1 & 0 & 0 & 0 \\
+Berrechid & 272356.0 & Morocco & 33.2676746 & -7.5811465 & 1 & 0 & 0 & 0 \\
+El Hajeb & 121226.0 & Morocco & 33.690156 & -5.371938 & 1 & 0 & 0 & 0 \\
+El Kelâa des Sraghna & 152900.0 & Morocco & 32.05433 & -7.40676 & 1 & 0 & 0 & 0 \\
+El-Jadida & 311038.0 & Morocco & 33.2336952 & -8.500424800741666 & 1 & 0 & 1 & 0 \\
+Errachidia & 193748.0 & Morocco & 31.929089 & -4.4340807 & 1 & 0 & 0 & 0 \\
+Essaouira & 106319.0 & Morocco & 31.5118281 & -9.7620903 & 1 & 0 & 0 & 0 \\
+Fès & 1126551.0 & Morocco & 34.0346534 & -5.0161926 & 3 & 0 & 1 & 0 \\
+Guelmim & 138788.0 & Morocco & 28.9863852 & -10.0574351 & 1 & 0 & 0 & 0 \\
+Inezgane ait Melloul & 511209.0 & Morocco & 30.3562929 & -9.5459347 & 2 & 0 & 0 & 0 \\
+Kénitra & 604206.0 & Morocco & 34.26457 & -6.570169 & 2 & 0 & 2 & 0 \\
+Khemisset & 279890.0 & Morocco & 33.830287 & -6.072605 & 1 & 0 & 0 & 0 \\
+Khénifra & 228509.0 & Morocco & 32.9357718 & -5.6696504 & 1 & 0 & 0 & 0 \\
+Khouribga & 376829.0 & Morocco & 32.885508 & -6.909238 & 1 & 0 & 1 & 0 \\
+Laayoune & 234870.0 & Morocco & 27.154512 & -13.1953921 & 1 & 0 & 1 & 0 \\
+Larache & 264802.0 & Morocco & 35.1952327 & -6.152913 & 1 & 0 & 0 & 0 \\
+Marrakech & 978045.0 & Morocco & 31.6258257 & -7.9891608 & 2 & 0 & 0 & 0 \\
+M'Diq-Fnideq & 196586.0 & Morocco & 35.6833598 & -5.3232161 & 1 & 0 & 0 & 0 \\
+Médiouna & 119054.0 & Morocco & 33.456251 & -7.51944 & 1 & 0 & 0 & 0 \\
+Meknès & 685408.0 & Morocco & 33.8968225 & -5.531844 & 2 & 0 & 1 & 0 \\
+Midelt & 124684.0 & Morocco & 32.680347 & -4.739897 & 1 & 0 & 0 & 0 \\
+Mohammedia & 288131.0 & Morocco & 33.6958383 & -7.3893292 & 1 & 0 & 1 & 0 \\
+Nouaceur & 271052.0 & Morocco & 33.379465 & -7.618914 & 1 & 0 & 0 & 0 \\
+Ouarzazate & 113230.0 & Morocco & 30.920193 & -6.910923 & 1 & 0 & 0 & 0 \\
+Oujda & 504480.0 & Morocco & 34.677874 & -1.929306 & 2 & 0 & 2 & 0 \\
+RABAT & 578644.0 & Morocco & 34.022405 & -6.834543 & 2 & 0 & 0 & 0 \\
+Rehamna & 102715.0 & Morocco & 32.46374355 & -7.908782194847937 & 1 & 0 & 0 & 0 \\
+Salé & 912957.0 & Morocco & 34.044889 & -6.814017 & 2 & 0 & 1 & 0 \\
+Sefrou & 154973.0 & Morocco & 33.824898 & -4.833336 & 1 & 0 & 0 & 0 \\
+Settat & 215665.0 & Morocco & 33.002397 & -7.619867 & 1 & 0 & 1 & 0 \\
+Sidi Kacem & 168302.0 & Morocco & 34.226412 & -5.711434 & 1 & 0 & 0 & 0 \\
+Sidi Slimane & 130576.0 & Morocco & 34.259878 & -5.927253 & 1 & 0 & 0 & 0 \\
+Skhirate-Témara & 512867.0 & Morocco & 33.8581487 & -7.044169530864169 & 2 & 0 & 0 & 0 \\
+Tanger & 998972.0 & Morocco & 35.777103 & -5.803792 & 2 & 0 & 2 & 0 \\
+Taourirt & 149604.0 & Morocco & 34.40528225 & -2.895245484643286 & 1 & 0 & 0 & 0 \\
+Taroudannt & 247428.0 & Morocco & 30.4719434 & -8.8669276 & 1 & 0 & 0 & 0 \\
+Taza & 207719.0 & Morocco & 34.230155 & -4.010104 & 1 & 0 & 0 & 0 \\
+Tétouan & 396806.0 & Morocco & 35.570175 & -5.3742776 & 1 & 0 & 0 & 0 \\
+Youssoufia & 100617.0 & Morocco & 32.245801 & -8.532439 & 1 & 0 & 0 & 0 \\
+Beira & 460904.232348069 & Mozambique & -19.828707 & 34.841782 & 1 & 0 & 0 & 0 \\
+Chimoio & 314751.068625649 & Mozambique & -19.110921 & 33.476659 & 1 & 0 & 0 & 0 \\
+Lichinga & 214613.890891649 & Mozambique & -13.2999118 & 35.2458642 & 1 & 0 & 0 & 0 \\
+MAPUTO & 1241702.0 & Mozambique & -25.966213 & 32.56745 & 3 & 0 & 4 & 0 \\
+Matola & 927123.484500845 & Mozambique & -25.966917 & 32.466956 & 2 & 0 & 1 & 0 \\
+Maxixe & 127372.135214175 & Mozambique & -23.861561 & 35.348934 & 1 & 0 & 0 & 0 \\
+Nacala & 241065.773765736 & Mozambique & -14.5583059 & 40.6863816 & 1 & 0 & 0 & 0 \\
+Pemba & 199457.010666893 & Mozambique & -12.9735663 & 40.5214905 & 1 & 0 & 0 & 0 \\
+Quelimane & 241076.703996154 & Mozambique & -17.87751 & 36.890216 & 1 & 0 & 0 & 0 \\
+Xai-Xai & 128946.06957616 & Mozambique & -25.044479 & 33.64073 & 1 & 0 & 0 & 0 \\
+WINDHOEK & 325858.0 & Namibia & -22.5743922 & 17.0790688 & 1 & 0 & 1 & 0 \\
+Maradi & 267249.0 & Niger & 13.501206 & 7.102534 & 1 & 0 & 0 & 0 \\
+NIAMEY & 1026848.0 & Niger & 13.524834 & 2.109823 & 3 & 0 & 1 & 0 \\
+Zinder & 322935.0 & Niger & 13.8063421 & 8.9891659 & 1 & 0 & 0 & 0 \\
+JUBA & 230195.0 & South Sudan & 4.8472017 & 31.5951655 & 1 & 0 & 0 & 0 \\
+Malakal & 114528.0 & South Sudan & 9.5410608 & 31.6504255 & 1 & 0 & 0 & 0 \\
+Wau & 118331.0 & South Sudan & 7.6999269 & 27.9910035 & 1 & 0 & 0 & 0 \\
+SAINT-DENIS & 146985.0 & Reunion & -20.8799889 & 55.448137 & 1 & 0 & 0 & 0 \\
+Saint-Paul & 105967.0 & Reunion & -21.0006099 & 55.2771585 & 1 & 0 & 0 & 0 \\
+JAMESTOWN & 657.0 & Saint Helena & -15.9277296 & -5.7160872 & 1 & 0 & 0 & 0 \\
+DAKAR & 1056009.0 & Senegal & 14.693425 & -17.447938 & 3 & 0 & 1 & 0 \\
+Guediawaye & 317464.0 & Senegal & 14.7771207 & -17.390071 & 1 & 0 & 1 & 0 \\
+Mbour & 605346.0 & Senegal & 14.411794 & -16.9657124 & 2 & 0 & 0 & 0 \\
+Pikine & 941245.0 & Senegal & 14.751544 & -17.396413 & 2 & 0 & 0 & 0 \\
+Rufisque & 333032.0 & Senegal & 14.716417 & -17.273844 & 1 & 0 & 1 & 0 \\
+Thiès & 618436.0 & Senegal & 14.7948093 & -16.9529272 & 2 & 0 & 0 & 0 \\
+Bo & 174369.0 & Sierra Leone & 7.962065 & -11.73665 & 1 & 0 & 0 & 0 \\
+FREETOWN & 1055964.0 & Sierra Leone & 8.479004 & -13.26795 & 3 & 0 & 0 & 0 \\
+Kenema & 200443.0 & Sierra Leone & 7.885936 & -11.18639 & 1 & 0 & 0 & 0 \\
+Makeni & 124634.0 & Sierra Leone & 8.88474 & -12.04912 & 1 & 0 & 0 & 0 \\
+MOGADISHU & 1212000.0 & Somalia & 2.042778 & 45.338564 & 3 & 0 & 0 & 0 \\
+Durban & 595061.0 & South Africa & -29.861825 & 31.009909 & 2 & 0 & 1 & 0 \\
+Johannesburg & 957441.0 & South Africa & -26.205 & 28.049722 & 2 & 0 & 1 & 0 \\
+Sokode & 101900.0 & Togo & 8.9833194 & 1.1438149 & 1 & 0 & 0 & 0 \\
+KAMPALA & 1507114.0 & Uganda & 0.3177137 & 32.5813539 & 3 & 0 & 3 & 0 \\
+Dar es Salaam & 5147070.0 & Western Sahara & -33.9631556 & 18.48392868879806 & 4 & 0 & 0 & 0 \\
+EL AAIUN & 169000.0 & Morocco & 27.154512 & -13.1953921 & 1 & 0 & 1 & 0 \\
+Chingola & 216626.0 & Zambia & -12.5474926 & 27.8600422 & 1 & 0 & 0 & 0 \\
+Chipata & 455783.0 & Zambia & -13.6390687 & 32.6457228 & 1 & 0 & 0 & 0 \\
+Kabwe & 202360.0 & Zambia & -14.441525 & 28.4441831 & 1 & 0 & 1 & 0 \\
+Kasama & 231824.0 & Zambia & -10.2088378 & 31.188255 & 1 & 0 & 0 & 0 \\
+Kitwe & 517543.0 & Zambia & -12.8104186 & 28.2068361 & 2 & 0 & 1 & 0 \\
+Livingstone & 139509.0 & Zambia & -17.853135 & 25.861429 & 1 & 0 & 0 & 0 \\
+Luanshya & 156059.0 & Zambia & -13.1383264 & 28.4179933 & 1 & 0 & 0 & 0 \\
+LUSAKA & 1747152.0 & Zambia & -15.4164488 & 28.2821535 & 3 & 0 & 3 & 0 \\
+Mufulira & 162889.0 & Zambia & -12.5512171 & 28.2408844 & 1 & 0 & 0 & 0 \\
+Ndola & 451246.0 & Zambia & -12.9693056 & 28.6365894 & 1 & 0 & 0 & 0 \\
+Bulawayo & 653337.0 & Zimbabwe & -20.1053948 & 28.5426856 & 2 & 0 & 0 & 0 \\
+Chitungwiza & 356840.0 & Zimbabwe & -18.0143462 & 31.0726737 & 1 & 0 & 0 & 0 \\
+HARARE & 1485231.0 & Zimbabwe & -17.831773 & 31.045686 & 3 & 0 & 3 & 0 \\
+THE VALLEY & 2812.0 & Anguilla & 18.2145861 & -63.0517759 & 1 & 0 & 0 & 0 \\
+ORANJESTAD & 28295.0 & Aruba & 12.5268736 & -70.0356845 & 1 & 0 & 3 & 0 \\
+NASSAU & 266100.0 & Bahamas & 25.0783456 & -77.3383331 & 1 & 0 & 0 & 0 \\
+BELMOPAN & 23038.0 & Belize & 17.250199 & -88.770018 & 1 & 0 & 0 & 0 \\
+HAMILTON & 854.0 & Bermuda & 32.2956076 & -64.7827048 & 1 & 0 & 1 & 0 \\
+Abbotsford & 153745.0 & Canada & 49.0521162 & -122.3294792 & 1 & 0 & 1 & 0 \\
+Ajax & 126924.0 & Canada & 43.850374 & -79.024658 & 1 & 0 & 1 & 0 \\
+Barrie & 147685.0 & Canada & 44.3893113 & -79.6901736 & 1 & 0 & 3 & 0 \\
+Belleville & 53971.0 & Canada & 44.1633264 & -77.3852556 & 1 & 0 & 6 & 0 \\
+Brampton & 656977.0 & Canada & 43.6858146 & -79.7599337 & 2 & 0 & 1 & 0 \\
+Brantford & 104231.0 & Canada & 43.1408157 & -80.2631733 & 1 & 0 & 3 & 0 \\
+Burnaby & 248071.0 & Canada & 49.2433804 & -122.9725459 & 1 & 0 & 3 & 0 \\
+Calgary & 1311833.0 & Canada & 51.0534234 & -114.0625892 & 3 & 0 & 0 & 0 \\
+Cambridge & 136945.0 & Canada & 43.3600536 & -80.3123023 & 1 & 0 & 2 & 0 \\
+Chatham-Kent & 105445.0 & Canada & 42.41833 & -82.0898417 & 1 & 0 & 0 & 0 \\
+Chilliwack & 91346.0 & Canada & 49.157677 & -121.9514307 & 1 & 0 & 9 & 0 \\
+Coquitlam & 149391.0 & Canada & 49.2842958 & -122.793281 & 1 & 0 & 1 & 0 \\
+Delta & 108724.0 & Canada & 49.0846258 & -123.0579384 & 1 & 0 & 0 & 0 \\
+Edmonton & 1004947.0 & Canada & 53.535411 & -113.507996 & 3 & 0 & 1 & 0 \\
+Gatineau & 282596.0 & Canada & 45.4283596 & -75.7106204 & 1 & 0 & 2 & 0 \\
+Greater Sudbury / Grand Sudbury & 168141.0 & Canada & 46.5814969 & -81.06853818206032 & 1 & 0 & 1 & 0 \\
+Guelph & 140683.0 & Canada & 43.5460516 & -80.2493276 & 1 & 0 & 1 & 0 \\
+Halifax & 430230.0 & Canada & 44.648618 & -63.5859487 & 1 & 0 & 0 & 0 \\
+Hamilton & 567979.0 & Canada & 43.2560802 & -79.8728583 & 2 & 0 & 5 & 0 \\
+Hamilton & 169300.0 & New Zealand & -37.7879076 & 175.2818068 & 1 & 0 & 5 & 0 \\
+Kamloops & 97842.0 & Canada & 50.6758269 & -120.3394159 & 1 & 0 & 2 & 0 \\
+Kelowna & 138513.0 & Canada & 49.889326 & -119.498291 & 1 & 0 & 1 & 0 \\
+Kingston & 132943.0 & Canada & 44.230687 & -76.481323 & 1 & 0 & 1 & 0 \\
+Kitchener & 254740.0 & Canada & 43.453168 & -80.494423 & 1 & 0 & 0 & 0 \\
+Langley & 128487.0 & Canada & 49.10647185000001 & -122.5501311568147 & 1 & 0 & 2 & 0 \\
+Laval & 432858.0 & Canada & 45.60558895 & -73.73441730569056 & 1 & 0 & 2 & 0 \\
+Lethbridge & 98960.0 & Canada & 49.694285 & -112.851562 & 1 & 0 & 8 & 0 \\
+Lévis V & 146080.0 & Canada & 46.7910096 & -71.1753274 & 1 & 0 & 0 & 0 \\
+London & 414959.0 & Canada & 42.9836747 & -81.2496068 & 1 & 0 & 0 & 0 \\
+Longueuil & 243921.0 & Canada & 45.5172382 & -73.4467466 & 1 & 0 & 6 & 0 \\
+Markham & 336445.0 & Canada & 43.854336 & -79.326782 & 1 & 0 & 0 & 0 \\
+Milton & 120558.0 & Canada & 43.513671 & -79.882817 & 1 & 0 & 0 & 0 \\
+Mississauga & 747651.0 & Canada & 43.590338 & -79.645729 & 2 & 0 & 0 & 0 \\
+Moncton & 75613.0 & Canada & 46.097995 & -64.80011 & 1 & 0 & 2 & 0 \\
+Montréal & 1784420.0 & Canada & 45.4972159 & -73.6103642 & 3 & 0 & 0 & 0 \\
+Nanaimo & 97826.0 & Canada & 49.1637594 & -123.9379719 & 1 & 0 & 6 & 0 \\
+Oakville & 206452.0 & Canada & 43.447436 & -79.666672 & 1 & 0 & 1 & 0 \\
+Oshawa & 169509.0 & Canada & 43.91768 & -78.862953 & 1 & 0 & 2 & 0 \\
+OTTAWA & 1007501.0 & Canada & 45.421106 & -75.690308 & 3 & 0 & 0 & 0 \\
+Peterborough & 86538.0 & Canada & 44.3048009 & -78.3199496 & 1 & 0 & 1 & 0 \\
+Red Deer & 104493.0 & Canada & 52.269838 & -113.818359 & 1 & 0 & 9 & 0 \\
+Regina & 233170.0 & Canada & 50.44876 & -104.61731 & 1 & 0 & 3 & 0 \\
+Richmond & 209838.0 & Canada & 49.163168 & -123.137414 & 1 & 0 & 1 & 0 \\
+Richmond Hill & 199496.0 & Canada & 43.880078 & -79.439392 & 1 & 0 & 0 & 0 \\
+Saanich & 121032.0 & Canada & 48.4594315 & -123.3764946 & 1 & 0 & 2 & 0 \\
+Saguenay & 146436.0 & Canada & 48.405959 & -71.069183 & 1 & 0 & 4 & 0 \\
+Saint John & 70455.0 & Canada & 45.278752 & -66.058044 & 1 & 0 & 5 & 0 \\
+Saskatoon & 268188.0 & Canada & 52.131802 & -106.660767 & 1 & 0 & 1 & 0 \\
+Sherbrooke & 166863.0 & Canada & 45.403271 & -71.889038 & 1 & 0 & 5 & 0 \\
+St. Catharines & 139168.0 & Canada & 43.1579812 & -79.2441003 & 1 & 0 & 1 & 0 \\
+St. John's & 110999.0 & Canada & 47.561701 & -52.715149 & 1 & 0 & 4 & 0 \\
+Surrey & 568158.0 & Canada & 49.1913033 & -122.8491439 & 2 & 0 & 1 & 0 \\
+Terrebonne & 115484.0 & Canada & 45.7081005 & -73.6515157 & 1 & 0 & 5 & 0 \\
+Thunder Bay & 112014.0 & Canada & 48.406414 & -89.259796 & 1 & 0 & 3 & 0 \\
+Toronto & 2956024.0 & Canada & 43.6534817 & -79.3839347 & 3 & 0 & 0 & 0 \\
+Trois-Rivières & 136954.0 & Canada & 46.332706 & -72.556458 & 1 & 0 & 3 & 0 \\
+Vancouver & 676593.0 & Canada & 49.2608724 & -123.1139529 & 2 & 0 & 0 & 0 \\
+Vaughan & 318279.0 & Canada & 43.7941544 & -79.5268023 & 1 & 0 & 8 & 0 \\
+Victoria & 92292.0 & Canada & 48.4283182 & -123.3649533 & 1 & 0 & 1 & 0 \\
+Waterloo & 115921.0 & Canada & 43.466874 & -80.524635 & 1 & 0 & 0 & 0 \\
+Whitby & 135345.0 & Canada & 43.899871 & -78.940201 & 1 & 0 & 0 & 0 \\
+Windsor & 229787.0 & Canada & 42.317099 & -83.0353434 & 1 & 0 & 0 & 0 \\
+Winnipeg & 753674.0 & Canada & 49.8955367 & -97.1384584 & 2 & 0 & 0 & 0 \\
+GEORGE TOWN & 28089.0 & Cayman Islands & 19.2953549 & -81.3807776 & 1 & 0 & 0 & 0 \\
+Alajuela & 306206.0 & Costa Rica & 10.6916755 & -84.7561318 & 1 & 0 & 0 & 0 \\
+Cartago & 161727.0 & Costa Rica & 9.7410738 & -83.7122812 & 1 & 0 & 0 & 0 \\
+Desamparados & 240671.0 & Costa Rica & 9.811982700000002 & -84.06924175525202 & 1 & 0 & 0 & 0 \\
+Goicoechea & 136112.0 & Costa Rica & 9.9670623 & -83.9818366 & 1 & 0 & 4 & 0 \\
+Heredia & 140131.0 & Costa Rica & 10.3768307 & -84.068391 & 1 & 0 & 0 & 0 \\
+La Unión & 110194.0 & Costa Rica & 9.9133715 & -83.98392968999697 & 1 & 0 & 0 & 0 \\
+Pérez Zeledón & 142789.0 & Costa Rica & 9.33921865 & -83.64458558172157 & 1 & 0 & 1 & 0 \\
+Pococí & 146482.0 & Costa Rica & 10.40707515 & -83.77215717499999 & 1 & 0 & 0 & 0 \\
+Puntarenas & 136328.0 & Costa Rica & 10.0730022 & -84.8622981 & 1 & 0 & 0 & 0 \\
+San Carlos & 194207.0 & Costa Rica & 10.6204181 & -84.42581545828966 & 1 & 0 & 0 & 0 \\
+SAN JOSÉ & 342188.0 & Costa Rica & 9.9325427 & -84.0795782 & 1 & 0 & 1 & 0 \\
+Bayamo & 159797.298902928 & Cuba & 20.3734232 & -76.6491893 & 1 & 0 & 0 & 0 \\
+Camagüey & 307527.18641163 & Cuba & 21.3824634 & -77.9187382 & 1 & 0 & 0 & 0 \\
+Cienfuegos & 151287.165640015 & Cuba & 22.1457501 & -80.4526242 & 1 & 0 & 0 & 0 \\
+Guantánamo & 215847.154901444 & Cuba & 20.1431797 & -75.2034783 & 1 & 0 & 0 & 0 \\
+LA HABANA & 2130516.5 & Cuba & 23.135305 & -82.3589631 & 3 & 0 & 0 & 0 \\
+Matanzas & 141908.556207161 & Cuba & 23.0469365 & -81.5785643 & 1 & 0 & 0 & 0 \\
+Santa Clara & 216497.993560697 & Cuba & 22.4115177 & -79.92284048271688 & 1 & 0 & 0 & 0 \\
+Santiago de Cuba & 433539.660182045 & Cuba & 20.0214637 & -75.8294928 & 1 & 0 & 0 & 0 \\
+Bajos de Haina & 136157.0 & Dominican Republic & 18.4321727 & -70.0310060487165 & 1 & 0 & 0 & 0 \\
+Baní & 166522.0 & Dominican Republic & 18.2777204 & -70.3320746 & 1 & 0 & 0 & 0 \\
+Boca Chica & 167784.0 & Dominican Republic & 18.4570748 & -69.61487003494634 & 1 & 0 & 0 & 0 \\
+Bonao & 131036.0 & Dominican Republic & 18.9383504 & -70.405431 & 1 & 0 & 0 & 0 \\
+Higüey & 311001.0 & Dominican Republic & 18.6127983 & -68.7119822 & 1 & 0 & 2 & 0 \\
+La Romana & 152344.0 & Dominican Republic & 18.4975148 & -68.9766638 & 1 & 0 & 0 & 0 \\
+La Vega & 257145.0 & Dominican Republic & 19.0520669 & -70.6316324 & 1 & 0 & 0 & 0 \\
+Los Alcarrizos & 322256.0 & Dominican Republic & 18.5312496 & -70.03916125684819 & 1 & 0 & 0 & 0 \\
+Moca & 184611.0 & Dominican Republic & 19.394647 & -70.5261566 & 1 & 0 & 1 & 0 \\
+Puerto Plata & 163663.0 & Dominican Republic & 19.7444333 & -70.8000756 & 1 & 0 & 0 & 0 \\
+San Cristóbal & 255184.0 & Dominican Republic & 18.5200904 & -70.2076771 & 1 & 0 & 4 & 0 \\
+San Cristóbal & 282830.0 & Venezuela & 7.7756663 & -72.2214154 & 1 & 0 & 4 & 0 \\
+San Francisco de Macoris & 193244.0 & Dominican Republic & 19.2972812 & -70.2533206 & 1 & 0 & 1 & 0 \\
+San Juan de la Maguana & 127548.0 & Dominican Republic & 18.8068129 & -71.2276951 & 1 & 0 & 0 & 0 \\
+Santiago de los Caballeros & 739631.0 & Dominican Republic & 19.4503932 & -70.6909047 & 2 & 0 & 3 & 0 \\
+SANTO DOMINGO & 1029607.0 & Dominican Republic & 18.4801972 & -69.942111 & 3 & 0 & 4 & 0 \\
+Ahuachapán & 129750.0 & El Salvador & 13.9234192 & -89.8462907 & 1 & 0 & 0 & 0 \\
+Apopa & 185073.0 & El Salvador & 13.8013036 & -89.1790784 & 1 & 0 & 0 & 0 \\
+Ciudad Delgado & 128012.0 & El Salvador & 13.722637 & -89.1705245 & 1 & 0 & 6 & 0 \\
+Ilopango & 135703.0 & El Salvador & 13.6941885 & -89.1104745 & 1 & 0 & 4 & 0 \\
+Mejicanos & 144872.0 & El Salvador & 13.722484 & -89.1869905 & 1 & 0 & 6 & 0 \\
+San Martin & 103245.0 & El Salvador & 13.7386182 & -89.055216 & 1 & 0 & 1 & 0 \\
+San Miguel & 265921.0 & El Salvador & 13.4803899 & -88.17722 & 1 & 0 & 5 & 0 \\
+SAN SALVADOR & 238244.0 & El Salvador & 13.6989939 & -89.1914249 & 1 & 0 & 4 & 0 \\
+Santa Ana & 272554.0 & El Salvador & 13.9947208 & -89.5566796 & 1 & 0 & 3 & 0 \\
+Santa Tecla & 138695.0 & El Salvador & 13.64152105 & -89.30814051774473 & 1 & 0 & 0 & 0 \\
+Soyapango & 283223.0 & El Salvador & 13.7036727 & -89.1502584 & 1 & 0 & 6 & 0 \\
+NUUK (GODTHAB) & 17798.0 & Greenland & 64.175029 & -51.7355386 & 1 & 0 & 0 & 0 \\
+BASSE-TERRE & 12377.0 & Guadeloupe & 16.0000778 & -61.7333373 & 1 & 0 & 1 & 0 \\
+Cap-Haitien & 113555.0 & Haiti & 19.7595236 & -72.2008068 & 1 & 0 & 0 & 0 \\
+Carrefour & 336222.0 & Haiti & 18.5345373 & -72.4092495 & 1 & 0 & 0 & 0 \\
+Delmas & 284079.0 & Haiti & 18.5518464 & -72.2920071 & 1 & 0 & 7 & 0 \\
+PORT-AU-PRINCE & 990558.0 & Haiti & 18.547327 & -72.3395928 & 2 & 0 & 2 & 0 \\
+Catacamas & 117493.0 & Honduras & 14.8483829 & -85.8935619 & 1 & 0 & 0 & 0 \\
+Choloma & 231669.0 & Honduras & 15.6127426 & -87.950694 & 1 & 0 & 1 & 0 \\
+Comayagua & 144785.0 & Honduras & 14.55509585 & -87.67794635681561 & 1 & 0 & 0 & 0 \\
+Danlí & 195916.0 & Honduras & 14.0324698 & -86.5682844 & 1 & 0 & 0 & 0 \\
+El Progreso & 188366.0 & Honduras & 15.4009458 & -87.8120187 & 1 & 0 & 1 & 0 \\
+Juticalpa & 124828.0 & Honduras & 14.6672029 & -86.2195829 & 1 & 0 & 0 & 0 \\
+La Ceiba & 197267.0 & Honduras & 15.7833743 & -86.7917749 & 1 & 0 & 2 & 0 \\
+Olanchito & 104609.0 & Honduras & 15.4840687 & -86.5678931 & 1 & 0 & 0 & 0 \\
+Puerto Cortés & 122426.0 & Honduras & 15.8783188 & -87.93425116048164 & 1 & 0 & 1 & 0 \\
+San Pedro Sula & 719064.0 & Honduras & 15.49479015 & -88.06713860966599 & 2 & 0 & 0 & 0 \\
+TEGUCIGALPA & 1157509.0 & Honduras & 14.1056861 & -87.204676 & 3 & 0 & 0 & 0 \\
+Villanueva & 149977.0 & Honduras & 15.3157045 & -87.9932276 & 1 & 0 & 3 & 0 \\
+FORT-DE-FRANCE & 82502.0 & Martinique & 14.6367927 & -61.01582685063731 & 1 & 0 & 10 & 0 \\
+CIUDAD DE PANAMÁ & 481993.0 & Panama & 8.9714493 & -79.5341802 & 1 & 0 & 0 & 0 \\
+San Miguelito & 370009.0 & Panama & 9.0552226 & -79.4930756 & 1 & 0 & 3 & 0 \\
+Bayamón & 179565.0 & Puerto Rico & 18.34495825 & -66.16837400269127 & 1 & 0 & 6 & 0 \\
+Caguas & 129604.0 & Puerto Rico & 18.2214149 & -66.41328179513847 & 1 & 0 & 1 & 0 \\
+Carolina & 154489.0 & Puerto Rico & 18.3794415 & -65.957695 & 1 & 0 & 7 & 0 \\
+Ponce & 140859.0 & Puerto Rico & 18.2214149 & -66.41328179513847 & 1 & 0 & 1 & 0 \\
+SAN JUAN & 337288.0 & Puerto Rico & 18.465299 & -66.116666 & 1 & 0 & 0 & 0 \\
+CASTRIES & 4173.0 & Saint Lucia & 13.95258925 & -60.98782353129866 & 1 & 0 & 0 & 0 \\
+SAINT-PIERRE & 5415.0 & Saint Pierre and Miquelon & 46.78324689999999 & -56.19515890748409 & 1 & 0 & 0 & 0 \\
+PORT-OF-SPAIN & 37074.0 & Trinidad and Tobago & 10.6572678 & -61.5180173 & 1 & 0 & 0 & 0 \\
+GRAND TURK & 4831.0 & Turks and Caicos Islands & 21.467964 & -71.13872175290959 & 1 & 0 & 0 & 0 \\
+Abilene (TX) & 122225.0 & United States of America & 32.44645 & -99.7475905 & 1 & 0 & 5 & 0 \\
+Akron (OH) & 197633.0 & United States of America & 41.083064 & -81.518485 & 1 & 0 & 0 & 0 \\
+Albuquerque (NM) & 559277.0 & United States of America & 35.0841034 & -106.6509851 & 2 & 0 & 0 & 0 \\
+Alexandria (VA) & 155810.0 & United States of America & 33.7237617 & -116.2673237 & 1 & 0 & 2 & 0 \\
+Allentown (PA) & 120443.0 & United States of America & 40.6022059 & -75.4712794 & 1 & 0 & 1 & 0 \\
+Amarillo (TX) & 199582.0 & United States of America & 35.2072185 & -101.8338246 & 1 & 0 & 5 & 0 \\
+Anaheim (CA) & 351043.0 & United States of America & 33.8347516 & -117.911732 & 1 & 0 & 4 & 0 \\
+Anchorage (AK) & 298192.0 & United States of America & 61.2163129 & -149.8948523 & 1 & 0 & 0 & 0 \\
+Ann Arbor (MI) & 120782.0 & United States of America & 42.2681569 & -83.7312291 & 1 & 0 & 0 & 0 \\
+Antioch (CA) & 110898.0 & United States of America & 38.0049214 & -121.805789 & 1 & 0 & 7 & 0 \\
+Arlington (TX) & 392772.0 & United States of America & 32.701939 & -97.10562379033699 & 1 & 0 & 3 & 0 \\
+Arvada (CO) & 117453.0 & United States of America & 39.8211225 & -105.2207429904459 & 1 & 1 & 1 & 0 \\
+Athens (GA) & 123371.0 & United States of America & 33.9597677 & -83.376398 & 1 & 0 & 3 & 0 \\
+Atlanta (GA) & 472522.0 & United States of America & 33.7490987 & -84.3901849 & 1 & 0 & 0 & 0 \\
+Augusta (GA) & 197081.0 & United States of America & 33.4709714 & -81.9748429 & 1 & 0 & 3 & 0 \\
+Aurora (CO) & 361710.0 & United States of America & 43.6963371 & -98.5722461 & 1 & 0 & 0 & 0 \\
+Aurora (IL) & 201110.0 & United States of America & 41.7571701 & -88.3147539 & 1 & 0 & 4 & 0 \\
+Austin (TX) & 947890.0 & United States of America & 30.2711286 & -97.7436995 & 2 & 0 & 0 & 0 \\
+Bakersfield (CA) & 376380.0 & United States of America & 35.3738712 & -119.0194639 & 1 & 0 & 2 & 0 \\
+Beaumont (TX) & 118299.0 & United States of America & 30.0860459 & -94.1018461 & 1 & 0 & 5 & 0 \\
+Bellevue (WA) & 141400.0 & United States of America & 47.6144219 & -122.1923372 & 1 & 0 & 1 & 0 \\
+Berkeley (CA) & 121240.0 & United States of America & 37.8708393 & -122.2728639 & 1 & 0 & 0 & 0 \\
+Billings (MT) & 110323.0 & United States of America & 45.7874957 & -108.49607 & 1 & 1 & 1 & 0 \\
+Boise City (ID) & 223154.0 & United States of America & 43.6166163 & -116.200886 & 1 & 0 & 3 & 0 \\
+Boston (MA) & 673184.0 & United States of America & 42.3602534 & -71.0582912 & 2 & 0 & 0 & 0 \\
+Boulder (CO) & 108090.0 & United States of America & 40.102555 & -105.3632079 & 1 & 0 & 0 & 0 \\
+Bridgeport (CT) & 145936.0 & United States of America & 46.6741398 & -67.9942996 & 1 & 0 & 3 & 0 \\
+Broken Arrow (OK) & 107403.0 & United States of America & 36.0525993 & -95.7908195 & 1 & 0 & 2 & 0 \\
+Buffalo (NY) & 256902.0 & United States of America & 42.8867166 & -78.8783922 & 1 & 0 & 0 & 0 \\
+Burbank (CA) & 104447.0 & United States of America & 34.1816482 & -118.3258554 & 1 & 0 & 2 & 0 \\
+Cambridge (MA) & 110651.0 & United States of America & 42.3750997 & -71.1056157 & 1 & 0 & 0 & 0 \\
+Cape Coral (FL) & 179804.0 & United States of America & 26.6059432 & -81.9806771 & 1 & 0 & 2 & 0 \\
+Carlsbad (CA) & 113952.0 & United States of America & 33.1580933 & -117.3505966 & 1 & 0 & 0 & 0 \\
+Carrollton (TX) & 133351.0 & United States of America & 32.9537349 & -96.8902816 & 1 & 0 & 4 & 0 \\
+Cary (NC) & 162320.0 & United States of America & 35.7883046 & -78.7811964 & 1 & 0 & 3 & 0 \\
+Cedar Rapids (IA) & 131127.0 & United States of America & 41.9758872 & -91.6704053 & 1 & 0 & 2 & 0 \\
+Centennial (CO) & 109932.0 & United States of America & 39.5680644 & -104.9778308128503 & 1 & 0 & 5 & 0 \\
+Chandler (AZ) & 247477.0 & United States of America & 33.3062223 & -111.8413317 & 1 & 0 & 5 & 0 \\
+Charleston (SC) & 134385.0 & United States of America & 32.7876012 & -79.9402728 & 1 & 0 & 0 & 0 \\
+Charlotte (NC) & 842051.0 & United States of America & 35.2270869 & -80.8431268 & 2 & 0 & 0 & 0 \\
+Chesapeake (VA) & 237940.0 & United States of America & 36.7183708 & -76.2466798 & 1 & 0 & 3 & 0 \\
+Chicago (IL) & 2704958.0 & United States of America & 41.8755616 & -87.6244212 & 3 & 0 & 0 & 0 \\
+Chula Vista (CA) & 267172.0 & United States of America & 32.6400541 & -117.0841955 & 1 & 0 & 5 & 0 \\
+Cincinnati (OH) & 298800.0 & United States of America & 39.1014537 & -84.5124602 & 1 & 0 & 0 & 0 \\
+Clarksville (TN) & 150287.0 & United States of America & 36.5277607 & -87.3588703 & 1 & 0 & 6 & 0 \\
+Clearwater (FL) & 114361.0 & United States of America & 27.9658533 & -82.8001026 & 1 & 0 & 0 & 0 \\
+Cleveland (OH) & 385809.0 & United States of America & 41.5051613 & -81.6934446 & 1 & 0 & 0 & 0 \\
+Clovis (CA) & 106583.0 & United States of America & 36.8252277 & -119.7029194 & 1 & 0 & 1 & 0 \\
+College Station (TX) & 112141.0 & United States of America & 30.5955289 & -96.3071042 & 1 & 0 & 6 & 0 \\
+Colorado Springs (CO) & 465101.0 & United States of America & 38.8339578 & -104.8253485 & 1 & 0 & 0 & 0 \\
+Columbia (MO) & 120612.0 & United States of America & 38.951883 & -92.3337366 & 1 & 0 & 1 & 0 \\
+Columbia (SC) & 134309.0 & United States of America & 34.0007493 & -81.0343313 & 1 & 0 & 1 & 0 \\
+Columbus (GA) & 197485.0 & United States of America & 32.4609764 & -84.9877094 & 1 & 0 & 5 & 0 \\
+Columbus (OH) & 860090.0 & United States of America & 39.9622601 & -83.0007065 & 2 & 0 & 0 & 0 \\
+Concord (CA) & 128726.0 & United States of America & 37.9768525 & -122.0335624 & 1 & 0 & 1 & 0 \\
+Coral Springs (FL) & 130059.0 & United States of America & 26.26485615 & -80.26534203798758 & 1 & 0 & 2 & 0 \\
+Costa Mesa (CA) & 112822.0 & United States of America & 33.6633386 & -117.903317 & 1 & 0 & 3 & 0 \\
+Dallas (TX) & 1317929.0 & United States of America & 32.7762719 & -96.7968559 & 3 & 0 & 0 & 0 \\
+Daly City (CA) & 106472.0 & United States of America & 37.6904826 & -122.4726708 & 1 & 0 & 2 & 0 \\
+Davenport (IA) & 102612.0 & United States of America & 41.5236436 & -90.5776368 & 1 & 1 & 2 & 0 \\
+Davie (FL) & 101871.0 & United States of America & 26.075729 & -80.28410897530864 & 1 & 0 & 1 & 0 \\
+Dayton (OH) & 140489.0 & United States of America & 39.7589478 & -84.1916069 & 1 & 0 & 0 & 0 \\
+Denton (TX) & 133808.0 & United States of America & 33.1838787 & -97.1413417 & 1 & 0 & 2 & 0 \\
+Denver (CO) & 693060.0 & United States of America & 39.7348381 & -104.9653271 & 2 & 0 & 1 & 1 \\
+Des Moines (IA) & 215472.0 & United States of America & 41.5910641 & -93.6037149 & 1 & 0 & 0 & 0 \\
+Detroit (MI) & 672795.0 & United States of America & 42.3315509 & -83.0466403 & 2 & 0 & 0 & 0 \\
+Downey (CA) & 113267.0 & United States of America & 33.942215 & -118.1235646 & 1 & 0 & 2 & 0 \\
+Durham (NC) & 263016.0 & United States of America & 35.996653 & -78.9018053 & 1 & 0 & 0 & 1 \\
+El Cajon (CA) & 103768.0 & United States of America & 32.7947731 & -116.9625269 & 1 & 0 & 4 & 0 \\
+El Monte (CA) & 115807.0 & United States of America & 34.0751571 & -118.036849 & 1 & 0 & 2 & 0 \\
+El Paso (TX) & 683080.0 & United States of America & 31.7754152 & -106.4646348 & 2 & 0 & 1 & 0 \\
+Elgin (IL) & 112123.0 & United States of America & 42.03726 & -88.2810994 & 1 & 0 & 3 & 0 \\
+Elizabeth (NJ) & 128640.0 & United States of America & 40.6639916 & -74.2107006 & 1 & 0 & 3 & 0 \\
+Elk Grove (CA) & 169743.0 & United States of America & 38.4087993 & -121.3716178 & 1 & 0 & 2 & 0 \\
+Escondido (CA) & 151613.0 & United States of America & 33.1216751 & -117.0814849 & 1 & 0 & 6 & 0 \\
+Eugene (OR) & 166575.0 & United States of America & 44.0505054 & -123.0950506 & 1 & 0 & 1 & 0 \\
+Evansville (IN) & 119477.0 & United States of America & 37.9747645 & -87.5558483 & 1 & 0 & 4 & 0 \\
+Everett (WA) & 109043.0 & United States of America & 47.9673056 & -122.2013998 & 1 & 0 & 1 & 0 \\
+Fairfield (CA) & 114756.0 & United States of America & 38.2493581 & -122.0399663 & 1 & 0 & 8 & 0 \\
+Fargo (ND) & 120762.0 & United States of America & 46.877229 & -96.789821 & 1 & 0 & 2 & 0 \\
+Fayetteville (NC) & 204759.0 & United States of America & 35.0525759 & -78.878292 & 1 & 0 & 5 & 0 \\
+Fontana (CA) & 209665.0 & United States of America & 34.0922335 & -117.435048 & 1 & 0 & 10 & 0 \\
+Fort Collins (CO) & 164207.0 & United States of America & 40.5508527 & -105.0668085 & 1 & 0 & 2 & 0 \\
+Fort Lauderdale (FL) & 178752.0 & United States of America & 26.1223084 & -80.1433786 & 1 & 0 & 0 & 0 \\
+Fort Wayne (IN) & 264488.0 & United States of America & 41.0799898 & -85.1386015 & 1 & 0 & 0 & 1 \\
+Fort Worth (TX) & 854113.0 & United States of America & 32.753177 & -97.3327459 & 2 & 0 & 1 & 0 \\
+Fremont (CA) & 233136.0 & United States of America & 37.5482697 & -121.9885719 & 1 & 0 & 2 & 0 \\
+Fresno (CA) & 522053.0 & United States of America & 36.7295295 & -119.7088612607559 & 2 & 0 & 11 & 0 \\
+Frisco (TX) & 163656.0 & United States of America & 33.1506744 & -96.8236116 & 1 & 0 & 4 & 0 \\
+Gainesville (FL) & 131591.0 & United States of America & 29.67357765 & -82.32337460192167 & 1 & 0 & 1 & 0 \\
+Garden Grove (CA) & 174858.0 & United States of America & 33.7746292 & -117.9463717 & 1 & 0 & 1 & 0 \\
+Garland (TX) & 234943.0 & United States of America & 32.912624 & -96.6388833 & 1 & 0 & 2 & 0 \\
+Gilbert (AZ) & 237133.0 & United States of America & 33.3527632 & -111.7890373 & 1 & 0 & 2 & 0 \\
+Glendale (AZ) & 245895.0 & United States of America & 33.5386858 & -112.1859941 & 1 & 0 & 6 & 0 \\
+Glendale (CA) & 200831.0 & United States of America & 34.1469416 & -118.2478471 & 1 & 0 & 2 & 0 \\
+Grand Prairie (TX) & 190682.0 & United States of America & 32.65736800000001 & -97.02846624175038 & 1 & 0 & 5 & 0 \\
+Grand Rapids (MI) & 196445.0 & United States of America & 42.9142413 & -85.533004 & 1 & 0 & 4 & 0 \\
+Green Bay (WI) & 105139.0 & United States of America & 44.5126379 & -88.0125794 & 1 & 0 & 1 & 0 \\
+Greensboro (NC) & 287027.0 & United States of America & 36.0726355 & -79.7919754 & 1 & 0 & 1 & 0 \\
+Gresham (OR) & 111523.0 & United States of America & 45.4997475 & -122.4309766 & 1 & 0 & 1 & 0 \\
+Hampton (VA) & 135410.0 & United States of America & 37.0300969 & -76.3452057 & 1 & 0 & 3 & 0 \\
+Hartford (CT) & 123243.0 & United States of America & 43.648048 & -70.241416 & 1 & 0 & 0 & 0 \\
+Hayward (CA) & 158937.0 & United States of America & 37.6688205 & -122.0807964 & 1 & 0 & 2 & 0 \\
+Henderson (NV) & 292969.0 & United States of America & 36.0301134 & -114.9826194 & 1 & 2 & 5 & 0 \\
+Hialeah (FL) & 236387.0 & United States of America & 25.8575963 & -80.2781057 & 1 & 0 & 2 & 0 \\
+High Point City (NC) & 111223.0 & United States of America & 35.9556924 & -80.0053176 & 1 & 0 & 6 & 0 \\
+Hillsboro (OR) & 105164.0 & United States of America & 45.5228939 & -122.989827 & 1 & 2 & 2 & 0 \\
+Hollywood (FL) & 151998.0 & United States of America & 26.0112014 & -80.1494901 & 1 & 0 & 0 & 0 \\
+Houston (TX) & 2303482.0 & United States of America & 29.7589382 & -95.3676974 & 3 & 0 & 1 & 0 \\
+Huntington Beach (CA) & 200652.0 & United States of America & 33.6783336 & -118.0000166 & 1 & 0 & 3 & 0 \\
+Huntsville (AL) & 193079.0 & United States of America & 33.554113 & -86.804219 & 1 & 0 & 3 & 0 \\
+Independence (MO) & 117030.0 & United States of America & 39.0924792 & -94.4137923 & 1 & 1 & 7 & 0 \\
+Indianapolis (IN) & 855164.0 & United States of America & 39.7683331 & -86.1583502 & 2 & 0 & 0 & 1 \\
+Inglewood (CA) & 110654.0 & United States of America & 33.9562003 & -118.353132 & 1 & 0 & 6 & 0 \\
+Irvine (CA) & 266122.0 & United States of America & 33.6856969 & -117.8259819 & 1 & 0 & 3 & 0 \\
+Irving (TX) & 238289.0 & United States of America & 32.8295183 & -96.9442177 & 1 & 0 & 8 & 0 \\
+Jacksonville (FL) & 880619.0 & United States of America & 30.3321838 & -81.655651 & 2 & 0 & 0 & 0 \\
+Jersey City (NJ) & 264152.0 & United States of America & 40.7281575 & -74.0776417 & 1 & 0 & 0 & 0 \\
+Joliet (IL) & 148262.0 & United States of America & 41.5263603 & -88.0840212 & 1 & 0 & 5 & 0 \\
+Jurupa Valley (CA) & 103541.0 & United States of America & 33.9798472 & -117.4515754 & 1 & 1 & 11 & 0 \\
+Kansas City (KS) & 151709.0 & United States of America & 39.1134562 & -94.626497 & 1 & 0 & 0 & 0 \\
+Kansas City (MO) & 481420.0 & United States of America & 39.100105 & -94.5781416 & 1 & 0 & 0 & 0 \\
+Kent (WA) & 127514.0 & United States of America & 47.3826903 & -122.2270272 & 1 & 0 & 2 & 0 \\
+Killeen (TX) & 143400.0 & United States of America & 31.1171441 & -97.727796 & 1 & 0 & 7 & 0 \\
+Knoxville (TN) & 186239.0 & United States of America & 35.9603948 & -83.9210261 & 1 & 0 & 0 & 0 \\
+Lafayette (LA) & 127626.0 & United States of America & 30.2240897 & -92.0198427 & 1 & 0 & 2 & 0 \\
+Lakeland (FL) & 106420.0 & United States of America & 28.0470594 & -81.95391393602787 & 1 & 0 & 1 & 0 \\
+Lakewood (CO) & 154393.0 & United States of America & 39.6311085 & -105.1100581822301 & 1 & 0 & 1 & 0 \\
+Lancaster (CA) & 160106.0 & United States of America & 34.6981064 & -118.1366153 & 1 & 0 & 4 & 0 \\
+Lansing (MI) & 116020.0 & United States of America & 42.7338147 & -84.5207088 & 1 & 0 & 1 & 0 \\
+Laredo (TX) & 257156.0 & United States of America & 27.5199841 & -99.4953764 & 1 & 0 & 5 & 0 \\
+Las Cruces (NM) & 101759.0 & United States of America & 32.3140354 & -106.7798078 & 1 & 0 & 4 & 0 \\
+Las Vegas (NV) & 632912.0 & United States of America & 36.1672559 & -115.1485163 & 2 & 0 & 2 & 0 \\
+League City (TX) & 102010.0 & United States of America & 29.5074538 & -95.0949303 & 1 & 0 & 2 & 0 \\
+Lewisville (TX) & 104659.0 & United States of America & 33.046233 & -96.994174 & 1 & 0 & 3 & 0 \\
+Lexington-Fayette (KY) & 318449.0 & United States of America & 38.0464066 & -84.4970393 & 1 & 0 & 2 & 0 \\
+Lincoln (NE) & 280364.0 & United States of America & 40.8088861 & -96.7077751 & 1 & 0 & 3 & 0 \\
+Little Rock (AR) & 198541.0 & United States of America & 34.7464809 & -92.2895948 & 1 & 0 & 0 & 0 \\
+Long Beach (CA) & 470130.0 & United States of America & 33.7690164 & -118.1916048 & 1 & 0 & 0 & 0 \\
+Los Angeles (CA) & 3976322.0 & United States of America & 34.0536909 & -118.2427666 & 3 & 0 & 0 & 0 \\
+Louisville (KY) & 616261.0 & United States of America & 38.2542376 & -85.759407 & 2 & 0 & 0 & 0 \\
+Lowell (MA) & 110558.0 & United States of America & 42.6334247 & -71.3161718 & 1 & 0 & 0 & 0 \\
+Lubbock (TX) & 252506.0 & United States of America & 33.5635206 & -101.879336 & 1 & 0 & 4 & 0 \\
+Macon-Bibb (GA) & 152555.0 & United States of America & 32.8406946 & -83.6324022 & 1 & 0 & 3 & 0 \\
+Madison (WI) & 252551.0 & United States of America & 43.074761 & -89.3837613 & 1 & 0 & 0 & 0 \\
+Manchester (NH) & 110506.0 & United States of America & 42.9956397 & -71.4547891 & 1 & 0 & 0 & 0 \\
+McAllen (TX) & 142212.0 & United States of America & 26.2043691 & -98.230082 & 1 & 0 & 1 & 0 \\
+McKinney City (TX) & 172298.0 & United States of America & 33.1976496 & -96.6154471 & 1 & 0 & 1 & 0 \\
+Memphis (TN) & 652717.0 & United States of America & 35.1490215 & -90.0516285 & 2 & 0 & 0 & 0 \\
+Mesquite (TX) & 143736.0 & United States of America & 32.7666103 & -96.599472 & 1 & 0 & 1 & 0 \\
+Miami Gardens (FL) & 113058.0 & United States of America & 25.9423108 & -80.23976495072381 & 1 & 0 & 4 & 0 \\
+Midland City (TX) & 134610.0 & United States of America & 31.3187878 & -85.4938975 & 1 & 0 & 0 & 0 \\
+Milwaukee (WI) & 595047.0 & United States of America & 43.0349931 & -87.922497 & 2 & 0 & 0 & 0 \\
+Minneapolis (MN) & 413651.0 & United States of America & 44.9772995 & -93.2654692 & 1 & 0 & 0 & 0 \\
+Miramar (FL) & 138449.0 & United States of America & 25.97591145 & -80.33472128115224 & 1 & 0 & 2 & 0 \\
+Mobile (AL) & 192904.0 & United States of America & 39.092585 & -84.853229 & 1 & 2 & 9 & 0 \\
+Modesto (CA) & 212175.0 & United States of America & 37.6390972 & -120.9968782 & 1 & 0 & 3 & 0 \\
+Montgomery (AL) & 200022.0 & United States of America & 40.85239 & -78.266098 & 1 & 0 & 0 & 0 \\
+Moreno Valley (CA) & 205499.0 & United States of America & 33.937517 & -117.2305944 & 1 & 0 & 6 & 0 \\
+Murfreesboro (TN) & 131947.0 & United States of America & 35.845999 & -86.3920452 & 1 & 0 & 3 & 0 \\
+Murrieta (CA) & 111674.0 & United States of America & 33.560832 & -117.2106564 & 1 & 0 & 3 & 0 \\
+Naperville (IL) & 147122.0 & United States of America & 41.7728699 & -88.1479278 & 1 & 0 & 1 & 0 \\
+Nashville-Davidson (TN) & 660388.0 & United States of America & 36.1622296 & -86.7743531 & 2 & 0 & 0 & 0 \\
+New Haven (CT) & 129934.0 & United States of America & 38.9454187 & -76.7415098 & 1 & 0 & 1 & 0 \\
+New Orleans (LA) & 391495.0 & United States of America & 29.9499323 & -90.0701156 & 1 & 0 & 0 & 0 \\
+New York (NY) & 8537673.0 & United States of America & 40.7127281 & -74.0060152 & 4 & 0 & 0 & 0 \\
+Newark (NJ) & 281764.0 & United States of America & 40.735657 & -74.1723667 & 1 & 0 & 0 & 0 \\
+Newport News (VA) & 181825.0 & United States of America & 36.9786449 & -76.4321089 & 1 & 0 & 1 & 0 \\
+Norfolk (VA) & 245115.0 & United States of America & 36.8462923 & -76.2929252 & 1 & 0 & 3 & 0 \\
+Norman (OK) & 122180.0 & United States of America & 35.2225717 & -97.4394816 & 1 & 0 & 4 & 0 \\
+North Charleston (SC) & 109298.0 & United States of America & 32.9131295 & -80.0629981965219 & 1 & 0 & 8 & 0 \\
+North Las Vegas (NV) & 238702.0 & United States of America & 36.2005843 & -115.1215844 & 1 & 0 & 4 & 0 \\
+Norwalk (CA) & 106178.0 & United States of America & 33.9092802 & -118.0849169 & 1 & 0 & 8 & 0 \\
+Oakland (CA) & 420005.0 & United States of America & 37.8044557 & -122.2713563 & 1 & 0 & 1 & 0 \\
+Oceanside (CA) & 175464.0 & United States of America & 33.1958696 & -117.3794834 & 1 & 0 & 1 & 0 \\
+Odessa (TX) & 117871.0 & United States of America & 31.8457149 & -102.367687 & 1 & 0 & 5 & 0 \\
+Oklahoma City (OK) & 638367.0 & United States of America & 35.4729886 & -97.5170536 & 2 & 0 & 1 & 0 \\
+Olathe (KS) & 135473.0 & United States of America & 38.8838856 & -94.81887 & 1 & 0 & 4 & 0 \\
+Omaha (NE) & 446970.0 & United States of America & 41.2587459 & -95.9383758 & 1 & 0 & 0 & 3 \\
+Ontario (CA) & 173212.0 & United States of America & 34.065846 & -117.6484304 & 1 & 1 & 6 & 0 \\
+Orange (CA) & 140504.0 & United States of America & 33.7500378 & -117.8704931 & 1 & 0 & 2 & 0 \\
+Orlando (FL) & 277173.0 & United States of America & 28.5479786 & -81.41278418563017 & 1 & 0 & 1 & 0 \\
+Overland Park (KS) & 188966.0 & United States of America & 38.9742502 & -94.6851702 & 1 & 0 & 1 & 0 \\
+Oxnard (CA) & 207906.0 & United States of America & 34.1976308 & -119.1803818 & 1 & 0 & 4 & 0 \\
+Palm Bay City (FL) & 110104.0 & United States of America & 28.0330075 & -80.6433552 & 1 & 0 & 6 & 0 \\
+Palmdale (CA) & 157356.0 & United States of America & 34.5793131 & -118.1171108 & 1 & 0 & 13 & 0 \\
+Pasadena (CA) & 142059.0 & United States of America & 34.1476452 & -118.1444779 & 1 & 0 & 1 & 0 \\
+Pasadena (TX) & 153351.0 & United States of America & 29.6910625 & -95.2091006 & 1 & 0 & 6 & 0 \\
+Paterson (NJ) & 147000.0 & United States of America & 40.9167654 & -74.171811 & 1 & 0 & 0 & 0 \\
+Pearland (TX) & 113570.0 & United States of America & 29.5639758 & -95.2864299 & 1 & 0 & 6 & 0 \\
+Pembroke Pines (FL) & 168587.0 & United States of America & 26.02322025 & -80.34123906625615 & 1 & 0 & 1 & 0 \\
+Peoria (AZ) & 164173.0 & United States of America & 33.5806115 & -112.2372942 & 1 & 1 & 3 & 0 \\
+Peoria (IL) & 114265.0 & United States of America & 40.6938609 & -89.5891008 & 1 & 0 & 2 & 0 \\
+Philadelphia (PA) & 1567872.0 & United States of America & 39.9527237 & -75.1635262 & 3 & 0 & 0 & 0 \\
+Phoenix (AZ) & 1615017.0 & United States of America & 33.4484367 & -112.0741417 & 3 & 0 & 0 & 0 \\
+Pittsburgh (PA) & 303625.0 & United States of America & 40.4416941 & -79.9900861 & 1 & 0 & 0 & 0 \\
+Plano (TX) & 286057.0 & United States of America & 33.0136764 & -96.6925096 & 1 & 0 & 3 & 0 \\
+Pomona (CA) & 152494.0 & United States of America & 34.0553813 & -117.7517496 & 1 & 0 & 3 & 0 \\
+Pompano Beach (FL) & 109393.0 & United States of America & 26.2378597 & -80.1247667 & 1 & 0 & 2 & 0 \\
+Port St. Lucie (FL) & 185132.0 & United States of America & 27.2939333 & -80.3503283 & 1 & 0 & 2 & 0 \\
+Portland (OR) & 639863.0 & United States of America & 45.5202471 & -122.6741949 & 2 & 0 & 0 & 0 \\
+Providence (RI) & 179219.0 & United States of America & 41.8239891 & -71.4128343 & 1 & 0 & 0 & 0 \\
+Provo (UT) & 116868.0 & United States of America & 40.2338438 & -111.6585337 & 1 & 0 & 4 & 0 \\
+Pueblo (CO) & 110291.0 & United States of America & 38.187635 & -104.5350145 & 1 & 0 & 0 & 0 \\
+Raleigh (NC) & 458880.0 & United States of America & 35.7803977 & -78.6390989 & 1 & 0 & 0 & 0 \\
+Rancho Cucamonga (CA) & 176534.0 & United States of America & 34.1033192 & -117.5751735 & 1 & 0 & 5 & 0 \\
+Reno (NV) & 245255.0 & United States of America & 39.5261206 & -119.8126581 & 1 & 0 & 0 & 0 \\
+Renton (WA) & 100953.0 & United States of America & 47.4799078 & -122.2034496 & 1 & 0 & 0 & 0 \\
+Rialto (CA) & 103314.0 & United States of America & 34.1064001 & -117.3703235 & 1 & 0 & 15 & 0 \\
+Richardson (TX) & 113347.0 & United States of America & 32.9481789 & -96.7297206 & 1 & 0 & 2 & 0 \\
+Richmond (CA) & 109813.0 & United States of America & 37.9357576 & -122.3477486 & 1 & 0 & 2 & 0 \\
+Richmond (VA) & 223170.0 & United States of America & 37.5385087 & -77.43428 & 1 & 0 & 0 & 0 \\
+Riverside (CA) & 324722.0 & United States of America & 33.9533546 & -117.3961623 & 1 & 0 & 5 & 0 \\
+Rochester (MN) & 114011.0 & United States of America & 44.0234387 & -92.4630182 & 1 & 1 & 1 & 0 \\
+Rochester (NY) & 208880.0 & United States of America & 43.157285 & -77.615214 & 1 & 0 & 0 & 0 \\
+Rockford (IL) & 147651.0 & United States of America & 42.2713945 & -89.093966 & 1 & 0 & 4 & 0 \\
+Roseville (CA) & 132671.0 & United States of America & 38.7521235 & -121.2880059 & 1 & 0 & 4 & 0 \\
+Round Rock (TX) & 120892.0 & United States of America & 30.508235 & -97.6788934 & 1 & 0 & 2 & 0 \\
+Sacramento (CA) & 495234.0 & United States of America & 38.5815719 & -121.4943996 & 1 & 0 & 0 & 0 \\
+Salem (OR) & 167419.0 & United States of America & 44.9391565 & -123.033121 & 1 & 1 & 1 & 0 \\
+Salinas (CA) & 157218.0 & United States of America & 36.6744117 & -121.6550372 & 1 & 0 & 3 & 0 \\
+Salt Lake City (UT) & 193744.0 & United States of America & 40.7596198 & -111.8867975 & 1 & 0 & 0 & 0 \\
+San Angelo (TX) & 100702.0 & United States of America & 31.4648357 & -100.4398442 & 1 & 0 & 3 & 0 \\
+San Antonio (TX) & 1492510.0 & United States of America & 29.4246002 & -98.4951405 & 3 & 0 & 0 & 0 \\
+San Buenaventura (CA) & 109592.0 & United States of America & 34.2783355 & -119.2931743 & 1 & 0 & 2 & 0 \\
+San Diego (CA) & 1406630.0 & United States of America & 32.7174209 & -117.1627714 & 3 & 0 & 0 & 0 \\
+San Francisco (CA) & 870887.0 & United States of America & 37.7790262 & -122.4199061 & 2 & 0 & 0 & 0 \\
+San Jose (CA) & 1025350.0 & United States of America & 37.3361905 & -121.8905833 & 3 & 0 & 0 & 0 \\
+San Mateo (CA) & 103959.0 & United States of America & 37.496904 & -122.3330573 & 1 & 0 & 0 & 0 \\
+Sandy Springs (GA) & 105703.0 & United States of America & 33.9242688 & -84.3785379 & 1 & 0 & 1 & 0 \\
+Santa Ana (CA) & 334217.0 & United States of America & 33.7494951 & -117.8732213 & 1 & 0 & 3 & 0 \\
+Santa Clara (CA) & 125948.0 & United States of America & 37.2333253 & -121.6846349 & 1 & 0 & 0 & 0 \\
+Santa Clarita (CA) & 181972.0 & United States of America & 34.3916641 & -118.542586 & 1 & 0 & 3 & 0 \\
+Santa Maria (CA) & 106290.0 & United States of America & 34.9531295 & -120.4358577 & 1 & 0 & 4 & 0 \\
+Santa Rosa (CA) & 175155.0 & United States of America & 38.4404925 & -122.7141049 & 1 & 0 & 2 & 0 \\
+Savannah (GA) & 146763.0 & United States of America & 32.0809263 & -81.0911768 & 1 & 0 & 0 & 0 \\
+Scottsdale (AZ) & 246645.0 & United States of America & 33.4942189 & -111.9260184 & 1 & 0 & 0 & 0 \\
+Seattle (WA) & 704352.0 & United States of America & 47.6038321 & -122.3300624 & 2 & 0 & 0 & 0 \\
+Shreveport (LA) & 194920.0 & United States of America & 32.5221828 & -93.7651944 & 1 & 0 & 3 & 0 \\
+Simi Valley (CA) & 126327.0 & United States of America & 34.2694474 & -118.781482 & 1 & 0 & 1 & 0 \\
+Sioux Falls (SD) & 174360.0 & United States of America & 43.5499749 & -96.700327 & 1 & 0 & 3 & 0 \\
+South Bend (IN) & 101735.0 & United States of America & 41.6833813 & -86.2500066 & 1 & 0 & 0 & 0 \\
+Spokane (WA) & 215973.0 & United States of America & 47.6579425 & -117.4212265 & 1 & 1 & 1 & 0 \\
+Springfield (IL) & 115715.0 & United States of America & 39.7990175 & -89.6439575 & 1 & 0 & 0 & 0 \\
+Springfield (MA) & 154074.0 & United States of America & 42.1014831 & -72.589811 & 1 & 0 & 0 & 0 \\
+Springfield (MO) & 167319.0 & United States of America & 37.2166779 & -93.2920373 & 1 & 1 & 4 & 0 \\
+St. Louis (MO) & 311404.0 & United States of America & 38.6268039 & -90.1994097 & 1 & 0 & 0 & 0 \\
+St. Paul (MN) & 302398.0 & United States of America & 44.9504037 & -93.1015026 & 1 & 0 & 0 & 0 \\
+St. Petersburg (FL) & 260999.0 & United States of America & 27.7703796 & -82.6695085 & 1 & 0 & 2 & 0 \\
+Stamford (CT) & 129113.0 & United States of America & 39.3545507 & -120.0896591 & 1 & 0 & 0 & 0 \\
+Sterling Heights (MI) & 132427.0 & United States of America & 42.5803122 & -83.0302033 & 1 & 0 & 5 & 0 \\
+Stockton (CA) & 307072.0 & United States of America & 37.9577016 & -121.2907796 & 1 & 0 & 2 & 0 \\
+Sunnyvale (CA) & 152771.0 & United States of America & 37.3688301 & -122.0363496 & 1 & 0 & 3 & 0 \\
+Surprise (AZ) & 132677.0 & United States of America & 33.6292271 & -112.3680189 & 1 & 0 & 5 & 0 \\
+Syracuse (NY) & 143378.0 & United States of America & 43.0481221 & -76.1474244 & 1 & 0 & 0 & 0 \\
+Tacoma (WA) & 211277.0 & United States of America & 47.2495798 & -122.4398746 & 1 & 0 & 0 & 0 \\
+Tallahassee (FL) & 190894.0 & United States of America & 30.4380832 & -84.2809332 & 1 & 0 & 2 & 0 \\
+Tampa (FL) & 377165.0 & United States of America & 27.9477595 & -82.458444 & 1 & 0 & 0 & 1 \\
+Temecula (CA) & 113054.0 & United States of America & 33.4946353 & -117.1473661 & 1 & 0 & 3 & 0 \\
+Tempe (AZ) & 182498.0 & United States of America & 33.4255056 & -111.9400125 & 1 & 0 & 2 & 0 \\
+Thornton (CO) & 136703.0 & United States of America & 39.8695516 & -104.9851819 & 1 & 0 & 3 & 0 \\
+Thousand Oaks (CA) & 128888.0 & United States of America & 34.17142715 & -118.9105877297444 & 1 & 0 & 2 & 0 \\
+Toledo (OH) & 278508.0 & United States of America & 41.6786754 & -83.5127283 & 1 & 0 & 3 & 0 \\
+Topeka (KS) & 126808.0 & United States of America & 39.049011 & -95.677556 & 1 & 0 & 7 & 0 \\
+Torrance (CA) & 147195.0 & United States of America & 33.8358492 & -118.3406288 & 1 & 0 & 4 & 0 \\
+Tucson (AZ) & 530706.0 & United States of America & 32.2228765 & -110.9748477 & 2 & 0 & 2 & 0 \\
+Tulsa (OK) & 403090.0 & United States of America & 36.1556805 & -95.9929113 & 1 & 0 & 0 & 0 \\
+Tyler (TX) & 104798.0 & United States of America & 32.3512601 & -95.3010624 & 1 & 0 & 6 & 0 \\
+Vallejo (CA) & 121299.0 & United States of America & 38.1040864 & -122.2566367 & 1 & 0 & 3 & 0 \\
+Vancouver (WA) & 174826.0 & United States of America & 45.6306954 & -122.6744557 & 1 & 0 & 0 & 0 \\
+Victorville City (CA) & 122265.0 & United States of America & 34.5361067 & -117.2911565 & 1 & 0 & 1 & 0 \\
+Virginia Beach (VA) & 452602.0 & United States of America & 36.8529841 & -75.9774183 & 1 & 0 & 0 & 0 \\
+Visalia (CA) & 131074.0 & United States of America & 36.3302284 & -119.2920585 & 1 & 0 & 7 & 0 \\
+Vista (CA) & 101659.0 & United States of America & 33.2000368 & -117.2425355 & 1 & 0 & 5 & 0 \\
+Waco (TX) & 134432.0 & United States of America & 31.549333 & -97.1466695 & 1 & 0 & 2 & 0 \\
+Warren (MI) & 135125.0 & United States of America & 42.4932575 & -83.0062746 & 1 & 0 & 0 & 0 \\
+WASHINGTON (DC) & 681170.0 & United States of America & 38.8949855 & -77.0365708 & 2 & 0 & 0 & 0 \\
+Waterbury (CT) & 108272.0 & United States of America & 40.154852 & -74.565672 & 1 & 0 & 0 & 0 \\
+West Covina (CA) & 107847.0 & United States of America & 34.0686208 & -117.9389526 & 1 & 0 & 6 & 0 \\
+West Jordan (UT) & 113699.0 & United States of America & 40.6096698 & -111.9391031 & 1 & 1 & 4 & 0 \\
+West Palm Beach (FL) & 108161.0 & United States of America & 26.715364 & -80.0532942 & 1 & 0 & 0 & 0 \\
+West Valley City (UT) & 136574.0 & United States of America & 40.696629 & -111.9867271 & 1 & 0 & 5 & 0 \\
+Westminster (CO) & 113875.0 & United States of America & 39.8366528 & -105.0372046 & 1 & 1 & 3 & 0 \\
+Wichita (KS) & 389902.0 & United States of America & 37.6922361 & -97.3375448 & 1 & 0 & 1 & 0 \\
+Wichita Falls (TX) & 104724.0 & United States of America & 33.9137085 & -98.4933873 & 1 & 0 & 11 & 0 \\
+Wilmington (NC) & 117525.0 & United States of America & 34.2257282 & -77.9447107 & 1 & 0 & 2 & 0 \\
+Winston-Salem (NC) & 242203.0 & United States of America & 36.0998131 & -80.2440518 & 1 & 0 & 2 & 0 \\
+Worcester (MA) & 184508.0 & United States of America & 42.2625932 & -71.8022934 & 1 & 0 & 1 & 0 \\
+Yonkers (NY) & 200807.0 & United States of America & 40.9312099 & -73.8987469 & 1 & 0 & 1 & 0 \\
+CHARLOTTE AMALIE & 10354.0 & United States of America & 18.341137 & -64.932789 & 1 & 0 & 0 & 0 \\
+Cochabamba & 618376.395435085 & Bolivia & -17.3935853 & -66.1569588 & 2 & 0 & 2 & 0 \\
+El Alto & 953253.083500101 & Bolivia & -16.5048228 & -68.1624337 & 2 & 0 & 1 & 0 \\
+LA PAZ & 835361.03527057 & Bolivia & -16.4955455 & -68.1336229 & 2 & 0 & 1 & 0 \\
+Sacaba & 155667.626656472 & Bolivia & -17.4038385 & -66.0402708 & 1 & 0 & 0 & 0 \\
+SUCRE & 284032.46973283 & Bolivia & -19.0477251 & -65.2594306 & 1 & 0 & 0 & 0 \\
+Yacuiba & 112095.957587932 & Bolivia & -22.0136146 & -63.677608 & 1 & 0 & 0 & 0 \\
+Açailândia & 110543.0 & Brazil & -4.9514278 & -47.4844564 & 1 & 0 & 0 & 0 \\
+Aguas Lindas de Goiás & 191499.0 & Brazil & -15.7392283 & -48.2793357 & 1 & 0 & 1 & 0 \\
+Alagoinhas & 155362.0 & Brazil & -12.133526 & -38.420772 & 1 & 0 & 3 & 0 \\
+Almirante Tamandaré & 114129.0 & Brazil & -25.3133048 & -49.2997838 & 1 & 0 & 0 & 0 \\
+Altamira & 109938.0 & Brazil & -3.204065 & -52.209961 & 1 & 0 & 0 & 0 \\
+Alvorada & 207392.0 & Brazil & -29.9981184 & -51.0772509 & 1 & 0 & 0 & 0 \\
+Americana & 231621.0 & Brazil & -22.7392463 & -47.3306032 & 1 & 0 & 1 & 0 \\
+Ananindeua & 510834.0 & Brazil & -1.374035 & -48.4016623 & 2 & 0 & 0 & 0 \\
+Anápolis & 370875.0 & Brazil & -16.3332828 & -48.9525756 & 1 & 0 & 1 & 0 \\
+Angra dos Reis & 191504.0 & Brazil & -23.0063966 & -44.316326 & 1 & 0 & 2 & 0 \\
+Aparecida de Goiania & 532135.0 & Brazil & -16.8226769 & -49.2452546 & 2 & 0 & 1 & 0 \\
+Apucarana & 131571.0 & Brazil & -23.5525327 & -51.4610764 & 1 & 0 & 0 & 0 \\
+Aracaju & 641523.0 & Brazil & -10.9162061 & -37.0774655 & 2 & 0 & 1 & 0 \\
+Araçatuba & 193828.0 & Brazil & -21.207992 & -50.4390225 & 1 & 0 & 0 & 0 \\
+Araguaina & 173112.0 & Brazil & -7.193241 & -48.2018597 & 1 & 0 & 2 & 0 \\
+Arapiraca & 232671.0 & Brazil & -9.754866 & -36.661471 & 1 & 0 & 0 & 0 \\
+Arapongas & 116960.0 & Brazil & -23.415296 & -51.42592 & 1 & 0 & 3 & 0 \\
+Araraquara & 228664.0 & Brazil & -21.7886713 & -48.1773096 & 1 & 0 & 1 & 0 \\
+Araras & 130102.0 & Brazil & -22.3569477 & -47.3838889 & 1 & 0 & 1 & 0 \\
+Araruama & 124940.0 & Brazil & -22.8733203 & -42.3428897 & 1 & 0 & 1 & 0 \\
+Araucária & 135459.0 & Brazil & -25.5861107 & -49.4051209 & 1 & 0 & 0 & 0 \\
+Araxá & 103287.0 & Brazil & -19.5928536 & -46.940241 & 1 & 0 & 0 & 0 \\
+Ariquemes & 105896.0 & Brazil & -9.9076522 & -63.033069 & 1 & 0 & 0 & 0 \\
+Assis & 102268.0 & Brazil & -22.6620892 & -50.420623 & 1 & 0 & 0 & 0 \\
+Atibaia & 138449.0 & Brazil & -23.1177393 & -46.5547861 & 1 & 0 & 0 & 0 \\
+Bacabal & 103020.0 & Brazil & -4.2318132 & -44.781167 & 1 & 0 & 0 & 0 \\
+Bagé & 121986.0 & Brazil & -31.3314264 & -54.1062808 & 1 & 0 & 0 & 0 \\
+Balneário Camboriú & 131727.0 & Brazil & -26.9924395 & -48.6339782 & 1 & 0 & 0 & 0 \\
+Barbacena & 135829.0 & Brazil & -21.2254524 & -43.7735087 & 1 & 0 & 0 & 0 \\
+Barcarena & 118537.0 & Brazil & -1.5107945 & -48.6190679 & 1 & 0 & 0 & 0 \\
+Barra Mansa & 180126.0 & Brazil & -22.5394843 & -44.1735129 & 1 & 0 & 4 & 0 \\
+Barreiras & 155519.0 & Brazil & -12.1440031 & -44.9967406 & 1 & 0 & 0 & 0 \\
+Barretos & 119948.0 & Brazil & -20.5531437 & -48.5697509 & 1 & 0 & 1 & 0 \\
+Barueri & 264935.0 & Brazil & -23.5112184 & -46.8764612 & 1 & 0 & 0 & 0 \\
+Bauru & 369368.0 & Brazil & -22.3218102 & -49.0705863 & 1 & 0 & 1 & 0 \\
+Belford Roxo & 494141.0 & Brazil & -22.7667284 & -43.4033603 & 1 & 0 & 3 & 0 \\
+Belo Horizonte & 2513451.0 & Brazil & -19.9227318 & -43.9450948 & 3 & 0 & 0 & 0 \\
+Bento Gonçalves & 114203.0 & Brazil & -29.1654014 & -51.5197627 & 1 & 0 & 0 & 0 \\
+Betim & 422354.0 & Brazil & -19.968056 & -44.198333 & 1 & 0 & 2 & 0 \\
+Birigui & 119536.0 & Brazil & -21.2908491 & -50.34144 & 1 & 0 & 0 & 0 \\
+Boa Vista & 326419.0 & Brazil & 2.8208478 & -60.6719582 & 1 & 0 & 1 & 0 \\
+Botucatu & 141032.0 & Brazil & -22.8879628 & -48.4410712 & 1 & 0 & 1 & 0 \\
+Bragança & 122881.0 & Brazil & -1.0573967 & -46.7635406 & 1 & 0 & 1 & 0 \\
+Bragança Paulista & 162435.0 & Brazil & -22.9520235 & -46.5418586 & 1 & 0 & 0 & 0 \\
+Brusque & 125810.0 & Brazil & -27.0964628 & -48.9136323 & 1 & 0 & 0 & 0 \\
+Cabo de Santo Agostinho & 202636.0 & Brazil & -8.2838945 & -35.0320984 & 1 & 0 & 1 & 0 \\
+Cabo Frio & 212289.0 & Brazil & -22.8804369 & -42.0189227 & 1 & 0 & 1 & 0 \\
+Cachoeirinha & 126666.0 & Brazil & -29.9493353 & -51.0898927 & 1 & 0 & 3 & 0 \\
+Cachoeiro de Itapemirim & 210325.0 & Brazil & -20.848084 & -41.11129 & 1 & 0 & 1 & 0 \\
+Camacari & 292074.0 & Brazil & -12.6998188 & -38.3260762 & 1 & 0 & 1 & 0 \\
+Camaragibe & 155228.0 & Brazil & -8.0213832 & -34.9810768 & 1 & 0 & 1 & 0 \\
+Cambé & 104592.0 & Brazil & -23.2782035 & -51.2779583 & 1 & 0 & 0 & 0 \\
+Cametá & 132515.0 & Brazil & -2.242949 & -49.497885 & 1 & 0 & 0 & 0 \\
+Campina Grande & 407754.0 & Brazil & -7.2246743 & -35.8771292 & 1 & 0 & 0 & 0 \\
+Campinas & 1173370.0 & Brazil & -22.90556 & -47.06083 & 3 & 0 & 0 & 0 \\
+Campo Grande & 863982.0 & Brazil & -20.4640173 & -54.6162947 & 2 & 0 & 2 & 0 \\
+Campo Largo & 125719.0 & Brazil & -25.4597726 & -49.5270851 & 1 & 0 & 0 & 0 \\
+Campos dos Goytacazes & 487186.0 & Brazil & -21.7558619 & -41.3326895 & 1 & 0 & 0 & 0 \\
+Canoas & 342634.0 & Brazil & -29.9216045 & -51.1799525 & 1 & 0 & 2 & 0 \\
+Caraguatatuba & 115071.0 & Brazil & -23.62028 & -45.41306 & 1 & 0 & 1 & 0 \\
+Carapicuíba & 394465.0 & Brazil & -23.5234673 & -46.8406808 & 1 & 0 & 0 & 0 \\
+Cariacica & 384621.0 & Brazil & -20.263202 & -40.416549 & 1 & 0 & 0 & 0 \\
+Caruaru & 351686.0 & Brazil & -8.2829702 & -35.9722852 & 1 & 0 & 2 & 0 \\
+Cascavel & 316226.0 & Brazil & -24.9554996 & -53.4560544 & 1 & 0 & 0 & 0 \\
+Castanhal & 192571.0 & Brazil & -1.2927031 & -47.9223903 & 1 & 0 & 0 & 0 \\
+Catalão & 100590.0 & Brazil & -18.1702546 & -47.9447082 & 1 & 0 & 0 & 0 \\
+Catanduva & 120092.0 & Brazil & -21.1331035 & -48.9712817 & 1 & 0 & 2 & 0 \\
+Caucaia & 358164.0 & Brazil & -3.7300563 & -38.6593082 & 1 & 0 & 1 & 0 \\
+Caxias & 161926.0 & Brazil & -29.1684796 & -51.1793861 & 1 & 0 & 3 & 0 \\
+Caxias do Sul & 479236.0 & Brazil & -29.1684796 & -51.1793861 & 1 & 0 & 3 & 0 \\
+Chapecó & 209553.0 & Brazil & -27.0922364 & -52.6166878 & 1 & 0 & 1 & 0 \\
+Codo & 120548.0 & Brazil & -4.455623 & -43.892354 & 1 & 0 & 1 & 0 \\
+Colatina & 123598.0 & Brazil & -19.5346732 & -40.6287836 & 1 & 0 & 1 & 0 \\
+Colombo & 234941.0 & Brazil & -25.2925439 & -49.2243472 & 1 & 0 & 0 & 0 \\
+Conselheiro Lafaiete & 126420.0 & Brazil & -20.6596107 & -43.785743 & 1 & 0 & 1 & 0 \\
+Contagem & 653800.0 & Brazil & -19.9132749 & -44.0840953 & 2 & 0 & 0 & 0 \\
+Coronel Fabriciano & 109857.0 & Brazil & -19.5200067 & -42.6282686 & 1 & 0 & 0 & 0 \\
+Corumbá & 109294.0 & Brazil & -19.0016365 & -57.6534316 & 1 & 0 & 1 & 0 \\
+Cotia & 233696.0 & Brazil & -23.603889 & -46.918889 & 1 & 0 & 3 & 0 \\
+Crato & 129662.0 & Brazil & -7.2369112 & -39.4149236 & 1 & 0 & 0 & 0 \\
+Criciúma & 209153.0 & Brazil & -28.6789941 & -49.3695627 & 1 & 0 & 3 & 0 \\
+Cubatao & 127887.0 & Brazil & -23.8857982 & -46.4241869 & 1 & 0 & 2 & 0 \\
+Cuiabá & 585367.0 & Brazil & -15.5986686 & -56.0991301 & 2 & 0 & 1 & 0 \\
+Curitiba & 1893997.0 & Brazil & -25.4295963 & -49.2712724 & 3 & 0 & 0 & 0 \\
+Diadema & 415180.0 & Brazil & -23.681347 & -46.62052 & 1 & 0 & 2 & 1 \\
+Dourados & 215486.0 & Brazil & -22.2206145 & -54.812208 & 1 & 0 & 0 & 0 \\
+Duque de Caxias & 886917.0 & Brazil & -22.7896225 & -43.309929 & 2 & 0 & 2 & 0 \\
+Embu & 264448.0 & Brazil & -23.6495294 & -46.8528497 & 1 & 0 & 1 & 0 \\
+Erechim & 102906.0 & Brazil & -27.6350143 & -52.2737288 & 1 & 0 & 1 & 0 \\
+Eunápolis & 114275.0 & Brazil & -16.3722412 & -39.575704 & 1 & 0 & 0 & 0 \\
+Feira de Santana & 622639.0 & Brazil & -12.2578934 & -38.9598047 & 2 & 0 & 3 & 0 \\
+Ferraz de Vasconcelos & 186808.0 & Brazil & -23.541056 & -46.37097 & 1 & 0 & 6 & 0 \\
+Florianópolis & 477798.0 & Brazil & -27.5973002 & -48.5496098 & 1 & 0 & 0 & 0 \\
+Formosa & 114036.0 & Brazil & -15.5492443 & -47.3301212 & 1 & 0 & 1 & 0 \\
+Fortaleza & 2609716.0 & Brazil & -3.7304512 & -38.5217989 & 3 & 0 & 0 & 0 \\
+Foz do Iguaçu & 263915.0 & Brazil & -25.5401479 & -54.5858139 & 1 & 0 & 0 & 0 \\
+Franca & 344704.0 & Brazil & -20.5381768 & -47.4009795 & 1 & 0 & 2 & 1 \\
+Francisco Morato & 169942.0 & Brazil & -23.2817308 & -46.7448996 & 1 & 0 & 1 & 0 \\
+Franco da Rocha & 147650.0 & Brazil & -23.3328038 & -46.724446 & 1 & 0 & 4 & 0 \\
+Garanhuns & 137810.0 & Brazil & -8.8905889 & -36.4930896 & 1 & 0 & 0 & 0 \\
+Goiânia & 1448639.0 & Brazil & -16.680882 & -49.2532691 & 3 & 0 & 0 & 0 \\
+Governador Valadares & 279665.0 & Brazil & -18.8539497 & -41.9458753 & 1 & 0 & 0 & 0 \\
+Gravatai & 273742.0 & Brazil & -29.9440222 & -50.9930938 & 1 & 0 & 1 & 0 \\
+Guarapari & 121506.0 & Brazil & -20.6718755 & -40.4984617 & 1 & 0 & 0 & 0 \\
+Guarapuava & 179256.0 & Brazil & -25.3950986 & -51.4622016 & 1 & 0 & 1 & 0 \\
+Guaratinguetá & 119753.0 & Brazil & -22.8057839 & -45.1908926 & 1 & 0 & 1 & 0 \\
+Guarujá & 313421.0 & Brazil & -23.9927768 & -46.2558332 & 1 & 0 & 0 & 0 \\
+Guarulhos & 1337087.0 & Brazil & -23.4430602 & -46.524459 & 3 & 0 & 0 & 0 \\
+Hortolandia & 219039.0 & Brazil & -22.85833 & -47.22 & 1 & 0 & 5 & 0 \\
+Ibirité & 175721.0 & Brazil & -20.0214251 & -44.0621506 & 1 & 0 & 1 & 0 \\
+Igarassu & 113956.0 & Brazil & -7.8354423 & -34.9061125 & 1 & 0 & 0 & 0 \\
+Iguatu & 102013.0 & Brazil & -6.361934 & -39.2972233 & 1 & 0 & 0 & 0 \\
+Ilhéus & 178210.0 & Brazil & -14.792599 & -39.0453843 & 1 & 0 & 3 & 0 \\
+Imperatriz & 253873.0 & Brazil & -5.5269279 & -47.478115 & 1 & 0 & 1 & 0 \\
+Indaiatuba & 235367.0 & Brazil & -23.09028 & -47.21806 & 1 & 0 & 2 & 0 \\
+Ipatinga & 259324.0 & Brazil & -19.4777807 & -42.5270802 & 1 & 0 & 0 & 0 \\
+Itaboraí & 230786.0 & Brazil & -22.7496231 & -42.8557428 & 1 & 0 & 0 & 0 \\
+Itabuna & 220386.0 & Brazil & -14.7869879 & -39.2788778 & 1 & 0 & 0 & 0 \\
+Itaguaí & 120855.0 & Brazil & -22.8629597 & -43.775322 & 1 & 0 & 4 & 0 \\
+Itajaí & 208958.0 & Brazil & -26.9117879 & -48.6669852 & 1 & 0 & 0 & 0 \\
+Itapecerica da Serra & 169103.0 & Brazil & -23.7176303 & -46.8492435 & 1 & 0 & 0 & 0 \\
+Itapetininga & 158561.0 & Brazil & -23.588607 & -48.048326 & 1 & 0 & 6 & 0 \\
+Itapevi & 226488.0 & Brazil & -23.54888 & -46.933889 & 1 & 0 & 3 & 0 \\
+Itapipoca & 126234.0 & Brazil & -3.499329 & -39.583571 & 1 & 0 & 2 & 0 \\
+Itaquaquecetuba & 356774.0 & Brazil & -23.4754492 & -46.3514033 & 1 & 0 & 9 & 0 \\
+Itatiba & 114912.0 & Brazil & -22.9965861 & -46.8412042 & 1 & 0 & 1 & 0 \\
+Itu & 168643.0 & Brazil & -23.2638828 & -47.298892 & 1 & 0 & 1 & 0 \\
+Ituiutaba & 103945.0 & Brazil & -18.9691887 & -49.4639335 & 1 & 0 & 0 & 0 \\
+Itumbiara & 101544.0 & Brazil & -18.4135862 & -49.2172596 & 1 & 0 & 0 & 0 \\
+Jacareí & 228214.0 & Brazil & -23.30528 & -45.96583 & 1 & 0 & 1 & 0 \\
+Jandira & 120177.0 & Brazil & -23.5282044 & -46.9019554 & 1 & 0 & 2 & 0 \\
+Japeri & 100562.0 & Brazil & -22.6427642 & -43.6533831 & 1 & 0 & 0 & 0 \\
+Jaraguá do Sul & 167300.0 & Brazil & -26.4897432 & -49.0778063 & 1 & 0 & 1 & 0 \\
+Jaú & 144828.0 & Brazil & -22.293585 & -48.559193 & 1 & 0 & 1 & 0 \\
+Jequié & 161880.0 & Brazil & -13.8604033 & -40.0719627 & 1 & 0 & 1 & 0 \\
+Ji-Paraná & 131560.0 & Brazil & -10.8778148 & -61.9277854 & 1 & 0 & 0 & 0 \\
+Joao Pessoa & 801718.0 & Brazil & -7.1215981 & -34.882028 & 2 & 0 & 0 & 0 \\
+Joinville & 569645.0 & Brazil & -26.3044898 & -48.8486726 & 2 & 0 & 0 & 0 \\
+Juazeiro & 220253.0 & Brazil & -9.4336959 & -40.5068201 & 1 & 0 & 2 & 0 \\
+Juàzeiro do Norte & 268248.0 & Brazil & -7.2153453 & -39.3153336 & 1 & 0 & 3 & 0 \\
+Juiz de Fora & 559636.0 & Brazil & -21.7609533 & -43.3501129 & 2 & 0 & 0 & 0 \\
+Jundiaí & 405740.0 & Brazil & -23.1887866 & -46.8845122 & 1 & 0 & 0 & 0 \\
+Lagarto & 103188.0 & Brazil & -10.9141791 & -37.6715308 & 1 & 0 & 0 & 0 \\
+Lages & 158620.0 & Brazil & -27.8165664 & -50.325883 & 1 & 0 & 4 & 0 \\
+Lauro de Freitas & 194641.0 & Brazil & -12.89242 & -38.3127691 & 1 & 0 & 2 & 0 \\
+Lavras & 101208.0 & Brazil & -21.2425512 & -44.9991978 & 1 & 0 & 0 & 0 \\
+Leme & 100296.0 & Brazil & -22.185833 & -47.39 & 1 & 0 & 0 & 0 \\
+Limeira & 298701.0 & Brazil & -22.5615068 & -47.401766 & 1 & 0 & 2 & 0 \\
+Linhares & 166491.0 & Brazil & -19.3816944 & -40.0612213 & 1 & 0 & 2 & 0 \\
+Londrina & 553393.0 & Brazil & -23.3112878 & -51.1595023 & 2 & 0 & 0 & 0 \\
+Luziânia & 196864.0 & Brazil & -16.2535456 & -47.9500276 & 1 & 0 & 0 & 0 \\
+Macae & 239471.0 & Brazil & -22.3712958 & -41.7866922 & 1 & 0 & 1 & 0 \\
+Macapá & 465495.0 & Brazil & 0.0401529 & -51.0569588 & 1 & 0 & 1 & 0 \\
+Maceió & 1021709.0 & Brazil & -9.6476843 & -35.7339264 & 3 & 0 & 1 & 0 \\
+Magé & 236319.0 & Brazil & -22.6604221 & -43.0426162 & 1 & 0 & 1 & 0 \\
+Manaus & 2094391.0 & Brazil & -3.1316333 & -59.9825041 & 3 & 0 & 0 & 0 \\
+Maraba & 266932.0 & Brazil & -5.3462821 & -49.1007401 & 1 & 0 & 2 & 0 \\
+Maracanau & 223188.0 & Brazil & -3.8779438 & -38.6247697 & 1 & 0 & 2 & 0 \\
+Maranguape & 125058.0 & Brazil & -3.8922967 & -38.6835427 & 1 & 0 & 1 & 0 \\
+Maricá & 149876.0 & Brazil & -22.9196772 & -42.8184375 & 1 & 0 & 1 & 0 \\
+Marília & 233639.0 & Brazil & -22.217108 & -49.95006 & 1 & 0 & 3 & 0 \\
+Maringá & 403063.0 & Brazil & -23.425269 & -51.9382078 & 1 & 0 & 3 & 0 \\
+Marituba & 125435.0 & Brazil & -1.3595306 & -48.3361504 & 1 & 0 & 0 & 0 \\
+Mauá & 457696.0 & Brazil & -23.6669527 & -46.4616922 & 1 & 0 & 2 & 0 \\
+Mesquita & 171020.0 & Brazil & -22.783092 & -43.4293599 & 1 & 0 & 1 & 0 \\
+Moji-Guaçu & 148327.0 & Brazil & -22.433009 & -46.9581629 & 1 & 0 & 1 & 0 \\
+Montes Claros & 398288.0 & Brazil & -16.7273538 & -43.8717676 & 1 & 0 & 4 & 0 \\
+Mossoró & 291937.0 & Brazil & -5.1904332 & -37.3443872 & 1 & 0 & 0 & 0 \\
+Muriaé & 107916.0 & Brazil & -21.130556 & -42.366389 & 1 & 0 & 0 & 0 \\
+Natal & 877662.0 & Brazil & -5.805398 & -35.2080905 & 2 & 0 & 3 & 0 \\
+Nilópolis & 158319.0 & Brazil & -22.8080114 & -43.4138222 & 1 & 0 & 2 & 0 \\
+Niterói & 497883.0 & Brazil & -22.8832371 & -43.1154552 & 1 & 0 & 0 & 0 \\
+Nossa Senhora do Socorro & 179661.0 & Brazil & -10.8553115 & -37.1264863 & 1 & 0 & 0 & 0 \\
+Nova Friburgo & 185102.0 & Brazil & -22.2800004 & -42.5325303 & 1 & 0 & 0 & 0 \\
+Nova Iguaçu & 797435.0 & Brazil & -22.7592175 & -43.4508728 & 2 & 0 & 1 & 0 \\
+Novo Gama & 108410.0 & Brazil & -16.0496528 & -48.0304615 & 1 & 0 & 0 & 0 \\
+Nôvo Hamburgo & 249113.0 & Brazil & -29.6905705 & -51.1429035 & 1 & 0 & 2 & 0 \\
+Olinda & 390144.0 & Brazil & -7.9986401 & -34.8459552 & 1 & 0 & 0 & 0 \\
+Osasco & 696382.0 & Brazil & -23.5324859 & -46.7916801 & 2 & 0 & 1 & 0 \\
+Ourinhos & 111056.0 & Brazil & -22.9777918 & -49.868204 & 1 & 0 & 1 & 0 \\
+Paço do Lumiar & 119915.0 & Brazil & -2.5210576 & -44.1063031 & 1 & 0 & 0 & 0 \\
+Palhoça & 161395.0 & Brazil & -27.6447774 & -48.6646323 & 1 & 0 & 0 & 0 \\
+Palmas & 279856.0 & Brazil & -10.1835604 & -48.3337793 & 1 & 0 & 0 & 0 \\
+Paragominas & 108547.0 & Brazil & -2.99564 & -47.3548942 & 1 & 0 & 0 & 0 \\
+Paranaguá & 151829.0 & Brazil & -25.5121904 & -48.5251854 & 1 & 0 & 0 & 0 \\
+Parauapebas & 196259.0 & Brazil & -6.0696846 & -49.8903283 & 1 & 0 & 0 & 0 \\
+Parintins & 112716.0 & Brazil & -2.6344567 & -56.7319324 & 1 & 0 & 1 & 0 \\
+Parnaíba & 150201.0 & Brazil & -2.9147515 & -41.7661953 & 1 & 0 & 1 & 0 \\
+Parnamirim & 248623.0 & Brazil & -5.9153334 & -35.2679913 & 1 & 0 & 0 & 0 \\
+Passo Fundo & 197798.0 & Brazil & -28.2616138 & -52.4089048 & 1 & 0 & 3 & 0 \\
+Passos & 113807.0 & Brazil & -20.719162 & -46.6094507 & 1 & 0 & 1 & 0 \\
+Patos & 107067.0 & Brazil & -7.0258285 & -37.2766817 & 1 & 0 & 0 & 0 \\
+Patos de Minas & 149856.0 & Brazil & -18.6041453 & -46.5096698 & 1 & 0 & 0 & 0 \\
+Paulínia & 100128.0 & Brazil & -22.7630391 & -47.1532213 & 1 & 0 & 1 & 0 \\
+Paulista & 325590.0 & Brazil & -7.9340069 & -34.868407 & 1 & 0 & 2 & 0 \\
+Paulo Afonso & 119930.0 & Brazil & -9.3991006 & -38.226711 & 1 & 0 & 1 & 0 \\
+Pelotas & 343651.0 & Brazil & -31.7699736 & -52.3410161 & 1 & 0 & 1 & 0 \\
+Petrolina & 337683.0 & Brazil & -9.3817334 & -40.4968875 & 1 & 0 & 0 & 0 \\
+Petrópolis & 298158.0 & Brazil & -22.519963 & -43.192613 & 1 & 0 & 0 & 0 \\
+Pindamonhangaba & 162327.0 & Brazil & -22.9340165 & -45.462938 & 1 & 0 & 2 & 0 \\
+Pinhais & 128256.0 & Brazil & -25.4443488 & -49.1900307 & 1 & 0 & 0 & 0 \\
+Piracicaba & 394419.0 & Brazil & -22.72528 & -47.64917 & 1 & 0 & 0 & 0 \\
+Piraquara & 106132.0 & Brazil & -25.4423273 & -49.0604473 & 1 & 0 & 0 & 0 \\
+Poà & 114650.0 & Brazil & -30.0324999 & -51.2303767 & 1 & 0 & 0 & 0 \\
+Poços de Caldas & 164912.0 & Brazil & -21.7900318 & -46.5647928 & 1 & 0 & 2 & 0 \\
+Ponta Grossa & 341130.0 & Brazil & -25.0891685 & -50.1601812 & 1 & 0 & 1 & 0 \\
+Porto Alegre & 1481019.0 & Brazil & -30.0324999 & -51.2303767 & 3 & 0 & 0 & 0 \\
+Porto Seguro & 147444.0 & Brazil & -16.443473 & -39.064251 & 1 & 0 & 0 & 0 \\
+Porto Velho & 511219.0 & Brazil & -8.7494525 & -63.8735438 & 2 & 0 & 0 & 0 \\
+Pouso Alegre & 145535.0 & Brazil & -22.2343858 & -45.9327241 & 1 & 0 & 4 & 0 \\
+Praia Grande & 304705.0 & Brazil & -24.005833 & -46.402778 & 1 & 0 & 1 & 0 \\
+Presidente Prudente & 223749.0 & Brazil & -22.1225167 & -51.3882528 & 1 & 0 & 2 & 0 \\
+Queimados & 144525.0 & Brazil & -22.7156978 & -43.555754 & 1 & 0 & 1 & 0 \\
+Recife & 1625583.0 & Brazil & -8.0641931 & -34.8781517 & 3 & 0 & 0 & 0 \\
+Resende & 126084.0 & Brazil & -22.4683626 & -44.4463494 & 1 & 0 & 3 & 0 \\
+Ribeirao das Neves & 325846.0 & Brazil & -19.7672898 & -44.0875436 & 1 & 0 & 0 & 0 \\
+Ribeirao Pires & 121130.0 & Brazil & -23.7129388 & -46.4150871 & 1 & 0 & 1 & 0 \\
+Ribeirao Prêto & 674405.0 & Brazil & -21.178333 & -47.8066671 & 2 & 0 & 0 & 0 \\
+Rio Branco & 377057.0 & Brazil & -9.9765362 & -67.8220778 & 1 & 0 & 0 & 0 \\
+Rio Claro & 201473.0 & Brazil & -22.4100108 & -47.5603933 & 1 & 0 & 0 & 0 \\
+Rio das Ostras & 136626.0 & Brazil & -22.5269448 & -41.944972 & 1 & 0 & 1 & 0 \\
+Rio de Janeiro & 6498837.0 & Brazil & -22.9110137 & -43.2093727 & 4 & 0 & 0 & 0 \\
+Rio Grande & 208641.0 & Brazil & -25.0478195 & -50.1972826 & 1 & 0 & 0 & 0 \\
+Rio Verde & 212237.0 & Brazil & -17.7921255 & -50.9191219 & 1 & 0 & 3 & 0 \\
+Rondonópolis & 218899.0 & Brazil & -16.4603533 & -54.6397099 & 1 & 0 & 3 & 0 \\
+Sabára & 135196.0 & Brazil & -19.8900372 & -43.8107916 & 1 & 0 & 0 & 0 \\
+Salto & 115193.0 & Brazil & -23.1989983 & -47.2913682 & 1 & 0 & 1 & 0 \\
+Salvador & 2938092.0 & Brazil & -12.9822499 & -38.4812772 & 3 & 0 & 3 & 0 \\
+Santa Bárbara D'Oeste & 191024.0 & Brazil & -22.7552511 & -47.4144958 & 1 & 0 & 4 & 0 \\
+Santa Cruz do Capibaribe & 103660.0 & Brazil & -7.948019 & -36.206092 & 1 & 0 & 0 & 0 \\
+Santa Cruz do Sul & 126775.0 & Brazil & -29.7141799 & -52.4284533 & 1 & 0 & 1 & 0 \\
+Santa Luzia (Minas Gerais) & 217610.0 & Brazil & -19.7702097 & -43.8505291 & 1 & 0 & 0 & 0 \\
+Santa Maria & 277309.0 & Brazil & -29.6860512 & -53.8069214 & 1 & 0 & 3 & 0 \\
+Santa Rita & 135915.0 & Brazil & -7.128465 & -34.9846186 & 1 & 0 & 0 & 0 \\
+Santana & 113854.0 & Brazil & -12.979217 & -44.05064 & 1 & 0 & 0 & 0 \\
+Santana de Parnaíba & 129261.0 & Brazil & -23.4446715 & -46.9167722 & 1 & 0 & 1 & 0 \\
+Santarém & 294447.0 & Brazil & -2.438489 & -54.699611 & 1 & 0 & 1 & 0 \\
+Santo André & 712749.0 & Brazil & -23.6573395 & -46.5322504 & 2 & 0 & 1 & 0 \\
+Santo Antônio de Jesus & 102469.0 & Brazil & -12.9689361 & -39.260914 & 1 & 0 & 1 & 0 \\
+Santos & 434359.0 & Brazil & -23.960833 & -46.333889 & 1 & 0 & 0 & 0 \\
+Sao Bernardo do Campo & 822242.0 & Brazil & -23.7080345 & -46.5506747 & 2 & 0 & 0 & 0 \\
+Sao Carlo & 243765.0 & Brazil & -27.223916 & -50.980785 & 1 & 0 & 0 & 0 \\
+São Félix do Xingu & 120580.0 & Brazil & -6.6386974 & -51.9787582 & 1 & 0 & 0 & 0 \\
+Sao Gonçalo & 1044058.0 & Brazil & -22.8219014 & -43.0309252 & 3 & 0 & 6 & 0 \\
+Sao Joao de Meriti & 460541.0 & Brazil & -22.8043744 & -43.3724125 & 1 & 0 & 6 & 0 \\
+Sao José & 236029.0 & Brazil & -27.6162335 & -48.6270136 & 1 & 0 & 2 & 0 \\
+Sao José de Ribamar & 176008.0 & Brazil & -2.5609115 & -44.0559509 & 1 & 0 & 0 & 0 \\
+Sao José do Rio Prêto & 446649.0 & Brazil & -20.8125851 & -49.3804212 & 1 & 0 & 4 & 0 \\
+Sao José dos Campos & 695992.0 & Brazil & -23.1805011 & -45.8872969 & 2 & 0 & 2 & 0 \\
+Sao José dos Pinhais & 302759.0 & Brazil & -25.533816 & -49.2072163 & 1 & 0 & 0 & 0 \\
+Sao Leopoldo & 229678.0 & Brazil & -29.7544405 & -51.1516497 & 1 & 0 & 0 & 0 \\
+São Lourenço da Mata & 111197.0 & Brazil & -7.9959607 & -35.039335 & 1 & 0 & 0 & 0 \\
+Sao Luís & 1082935.0 & Brazil & -2.5634605 & -44.2448718 & 3 & 0 & 4 & 0 \\
+São Mateus & 126437.0 & Brazil & -18.7157663 & -39.8492211 & 1 & 0 & 0 & 0 \\
+Sao Paulo & 12038175.0 & Brazil & -23.5506507 & -46.6333824 & 5 & 0 & 0 & 0 \\
+Sao Vicente & 357989.0 & Brazil & -23.9603686 & -46.3847024 & 1 & 0 & 0 & 0 \\
+Sapucaia do Sul & 138933.0 & Brazil & -29.8197019 & -51.1608722 & 1 & 0 & 0 & 0 \\
+Senador Canedo & 102947.0 & Brazil & -16.7013233 & -49.0914921 & 1 & 0 & 0 & 0 \\
+Serra & 494109.0 & Brazil & -20.1252961 & -40.3064477 & 1 & 0 & 0 & 0 \\
+Sertaozinho & 121412.0 & Brazil & -21.1375782 & -47.9913741 & 1 & 0 & 1 & 0 \\
+Sete Lagoas & 234221.0 & Brazil & -19.466111 & -44.246944 & 1 & 0 & 3 & 0 \\
+Simoes Filho & 134674.0 & Brazil & -12.7867839 & -38.4030365 & 1 & 0 & 1 & 0 \\
+Sinop & 132934.0 & Brazil & -11.8508224 & -55.5175957 & 1 & 0 & 1 & 0 \\
+Sobral & 203682.0 & Brazil & -3.6879135 & -40.3456372 & 1 & 0 & 2 & 0 \\
+Sorocaba & 652481.0 & Brazil & -23.501667 & -47.458056 & 2 & 0 & 3 & 0 \\
+Sumaré & 269522.0 & Brazil & -22.8217964 & -47.267105 & 1 & 0 & 1 & 0 \\
+Susano & 288056.0 & Brazil & -19.1828979 & -40.094298 & 1 & 0 & 0 & 0 \\
+Taboao da Serra & 275948.0 & Brazil & -23.6121912 & -46.7790539 & 1 & 0 & 0 & 0 \\
+Tailândia & 100300.0 & Brazil & -2.936096 & -48.9523366 & 1 & 0 & 0 & 0 \\
+Tatuí & 117823.0 & Brazil & -23.3514733 & -47.8552438 & 1 & 0 & 1 & 0 \\
+Taubaté & 305174.0 & Brazil & -23.031448 & -45.5612792 & 1 & 0 & 0 & 0 \\
+Teixeira de Freitas & 159813.0 & Brazil & -17.5376644 & -39.7458096 & 1 & 0 & 0 & 0 \\
+Teófilo Otoni & 141502.0 & Brazil & -17.8579267 & -41.5081533 & 1 & 0 & 0 & 0 \\
+Teresina & 847430.0 & Brazil & -5.0896403 & -42.809588 & 2 & 0 & 1 & 0 \\
+Teresópolis & 174587.0 & Brazil & -22.4164578 & -42.975194 & 1 & 0 & 2 & 0 \\
+Timon & 166295.0 & Brazil & -5.1023325 & -42.8449518 & 1 & 0 & 2 & 0 \\
+Toledo & 133824.0 & Brazil & -22.7433969 & -46.3735044 & 1 & 0 & 0 & 0 \\
+Três Lagoas & 115561.0 & Brazil & -20.7866799 & -51.7061247 & 1 & 0 & 0 & 0 \\
+Trindade & 119385.0 & Brazil & -16.6549924 & -49.4876203 & 1 & 0 & 1 & 0 \\
+Tubarão & 103674.0 & Brazil & -28.471488 & -49.014132 & 1 & 0 & 0 & 0 \\
+Tucuruí & 108885.0 & Brazil & -3.7738509 & -49.6708204 & 1 & 0 & 0 & 0 \\
+Ubá & 112186.0 & Brazil & -21.12 & -42.942777 & 1 & 0 & 0 & 0 \\
+Uberaba & 325279.0 & Brazil & -19.750833 & -47.936666 & 1 & 0 & 1 & 0 \\
+Uberlândia & 669672.0 & Brazil & -18.9188041 & -48.2767837 & 2 & 0 & 3 & 0 \\
+Umuarama & 109132.0 & Brazil & -23.7617057 & -53.3079895 & 1 & 0 & 1 & 0 \\
+Uruguaiana & 129720.0 & Brazil & -29.7564894 & -57.0867197 & 1 & 0 & 1 & 0 \\
+Valinhos & 122163.0 & Brazil & -22.97056 & -46.99583 & 1 & 0 & 2 & 0 \\
+Valparaíso de Goiás & 156419.0 & Brazil & -16.0686394 & -47.9764907 & 1 & 0 & 2 & 0 \\
+Varginha & 133384.0 & Brazil & -21.5565914 & -45.4340674 & 1 & 0 & 0 & 0 \\
+Varzea Grande & 271339.0 & Brazil & -15.645816 & -56.132218 & 1 & 0 & 0 & 0 \\
+Varzea Paulista & 117772.0 & Brazil & -23.2113889 & -46.8283333 & 1 & 0 & 2 & 0 \\
+Vespasiano & 120510.0 & Brazil & -19.6940958 & -43.9186521 & 1 & 0 & 0 & 0 \\
+Viamao & 252872.0 & Brazil & -30.0819338 & -51.0261927 & 1 & 0 & 3 & 0 \\
+Vila Velha & 479664.0 & Brazil & -20.3297293 & -40.2920284 & 1 & 0 & 0 & 0 \\
+Vitória & 359555.0 & Brazil & -20.3200917 & -40.3376682 & 1 & 0 & 0 & 0 \\
+Vitória da Conquista & 346069.0 & Brazil & -14.8567487 & -40.8414804 & 1 & 0 & 1 & 0 \\
+Vitória de Santo Antao & 136706.0 & Brazil & -8.1209019 & -35.2944858 & 1 & 0 & 0 & 0 \\
+Volta Redonda & 263659.0 & Brazil & -22.5225497 & -44.1040128 & 1 & 0 & 0 & 0 \\
+Votorantim & 118858.0 & Brazil & -23.5466667 & -47.4377778 & 1 & 0 & 2 & 0 \\
+Alto Hospicio & 124877.0 & Chile & -20.2700478 & -70.1009162 & 1 & 0 & 1 & 0 \\
+Antofagasta & 388545.0 & Chile & -23.6463741 & -70.3980033 & 1 & 0 & 2 & 0 \\
+Arica & 229689.0 & Chile & -18.478518 & -70.3210596 & 1 & 0 & 0 & 0 \\
+Calama & 180283.0 & Chile & -22.4623917 & -68.9272181 & 1 & 0 & 3 & 0 \\
+Chillán & 159476.0 & Chile & -36.6066616 & -72.1033194 & 1 & 0 & 2 & 0 \\
+Concepción & 220746.0 & Chile & -36.8270795 & -73.0502399 & 1 & 0 & 0 & 0 \\
+Copiapó & 175162.0 & Chile & -27.3664897 & -70.3322733 & 1 & 0 & 3 & 0 \\
+Coquimbo & 216623.0 & Chile & -30.7546652 & -70.9005536 & 1 & 0 & 0 & 0 \\
+Coronel & 109709.0 & Chile & -37.0079213 & -73.1585127 & 1 & 0 & 0 & 0 \\
+Curicó & 102710.0 & Chile & -34.985368 & -71.2393705 & 1 & 0 & 0 & 0 \\
+Hualpén & 108803.0 & Chile & -36.7928161 & -73.094216 & 1 & 0 & 2 & 0 \\
+Iquique & 196562.0 & Chile & -20.2140657 & -70.1524646 & 1 & 0 & 3 & 0 \\
+La Serena & 205635.0 & Chile & -29.902631 & -71.2520253 & 1 & 0 & 0 & 0 \\
+Los Ángeles & 128933.0 & Chile & -37.4707455 & -72.351686 & 1 & 0 & 0 & 0 \\
+Osorno & 139550.0 & Chile & -40.5733223 & -73.1359011 & 1 & 0 & 1 & 0 \\
+Puente Alto & 625551.0 & Chile & -33.6095279 & -70.5754736 & 2 & 0 & 3 & 0 \\
+Puerto Montt & 213119.0 & Chile & -41.4718121 & -72.939621 & 1 & 0 & 0 & 0 \\
+Punta Arenas & 124169.0 & Chile & -53.162664 & -70.9080552 & 1 & 0 & 0 & 0 \\
+Quilpué & 172049.0 & Chile & -33.0498135 & -71.4415282 & 1 & 0 & 0 & 0 \\
+Rancagua & 225563.0 & Chile & -34.170249 & -70.7407427 & 1 & 0 & 5 & 0 \\
+San Bernardo & 296583.0 & Chile & -33.5922859 & -70.7045838 & 1 & 0 & 1 & 0 \\
+San Pedro de la Paz & 139174.0 & Chile & -36.8414183 & -73.1039909 & 1 & 0 & 0 & 0 \\
+SANTIAGO & 5613962.0 & Chile & -33.4377968 & -70.6504451 & 4 & 0 & 0 & 0 \\
+Talca & 203873.0 & Chile & -35.4266305 & -71.6661153 & 1 & 0 & 1 & 0 \\
+Temuco & 221375.0 & Chile & -38.7362611 & -72.590546 & 1 & 0 & 0 & 0 \\
+Valdivia & 143207.0 & Chile & -39.8141965 & -73.2458525 & 1 & 0 & 0 & 0 \\
+Valparaíso & 295113.0 & Chile & -33.0458456 & -71.6196749 & 1 & 0 & 1 & 0 \\
+Villa Alemana & 144417.0 & Chile & -33.0441903 & -71.3725464 & 1 & 0 & 2 & 0 \\
+Viña del Mar & 326759.0 & Chile & -33.0244535 & -71.5517636 & 1 & 0 & 1 & 0 \\
+Armenia (Quindio) & 301224.0 & Colombia & 4.536307 & -75.6723751 & 1 & 0 & 1 & 0 \\
+Rionegro (Antioquia)39 & 126193.0 & Colombia & 6.1480754 & -75.41267286576326 & 1 & 0 & 2 & 0 \\
+Ambato & 178203.0 & Ecuador & -1.2422461 & -78.6292567 & 1 & 0 & 2 & 0 \\
+Babahoyo & 102531.0 & Ecuador & -1.8009022 & -79.5338214 & 1 & 0 & 1 & 0 \\
+Cuenca & 396990.0 & Ecuador & -2.8973745 & -79.0044518 & 1 & 0 & 0 & 0 \\
+Durán & 294734.0 & Ecuador & -2.215207 & -79.79037251231082 & 1 & 0 & 0 & 0 \\
+Guayaquil & 2581884.0 & Ecuador & -2.1899066 & -79.887726 & 3 & 0 & 1 & 0 \\
+Ibarra & 159591.0 & Ecuador & 0.3478421 & -78.1173588 & 1 & 0 & 1 & 0 \\
+La Libertad & 114123.0 & Ecuador & -0.2209692 & -78.5253239 & 1 & 0 & 2 & 0 \\
+Loja & 226824.0 & Ecuador & -4.0528506 & -79.8053425 & 1 & 0 & 0 & 0 \\
+Machala & 266255.0 & Ecuador & -3.2587494 & -79.9595133 & 1 & 0 & 2 & 0 \\
+Milagro & 154204.0 & Ecuador & -2.11717955 & -79.55666060713342 & 1 & 0 & 1 & 0 \\
+Portoviejo & 237982.0 & Ecuador & -1.0528066 & -80.4534269 & 1 & 0 & 0 & 0 \\
+Quevedo & 181373.0 & Ecuador & -1.0668823 & -79.4744201713217 & 1 & 0 & 1 & 0 \\
+QUITO & 1805522.0 & Ecuador & -0.2201641 & -78.5123274 & 3 & 0 & 0 & 0 \\
+Riobamba & 168514.0 & Ecuador & -1.6731483 & -78.6486465 & 1 & 0 & 2 & 0 \\
+Santo Domingo de los Colorados & 335123.0 & Ecuador & -2.910124 & -78.9848484 & 1 & 0 & 0 & 0 \\
+STANLEY & 2108.0 & Falkland Islands & -51.6950575 & -57.8491693 & 1 & 0 & 0 & 0 \\
+CAYENNE & 57614.0 & French Guiana & 4.9371143 & -52.3258307 & 1 & 0 & 1 & 0 \\
+GEORGETOWN & 24849.0 & Guyana & 6.8025766 & -58.1628612 & 1 & 0 & 2 & 0 \\
+Capiatá & 257115.665639912 & Paraguay & -25.3548171 & -57.4427315 & 1 & 0 & 4 & 0 \\
+Ciudad del Este & 317524.643816769 & Paraguay & -25.5169015 & -54.6168645 & 1 & 0 & 2 & 0 \\
+Fernando de la Mora & 200111.718957809 & Paraguay & -25.328192 & -57.5521968 & 1 & 0 & 4 & 0 \\
+Lambaré & 210724.568023314 & Paraguay & -25.3455354 & -57.6261456 & 1 & 0 & 5 & 0 \\
+Luque & 358264.788290524 & Paraguay & -25.2665554 & -57.492708 & 1 & 0 & 5 & 0 \\
+San Lorenzo & 354283.39494957 & Paraguay & -25.3425224 & -57.509397 & 1 & 0 & 6 & 0 \\
+Arequipa & 893491.0 & Peru & -16.3988667 & -71.5369607 & 2 & 0 & 1 & 0 \\
+Chiclayo & 617089.0 & Peru & -6.766417 & -79.8408308 & 2 & 0 & 0 & 0 \\
+Chimbote & 380011.0 & Peru & -9.0744966 & -78.593609 & 1 & 0 & 1 & 0 \\
+Chincha Alta & 185054.0 & Peru & -13.417488 & -76.1325726 & 1 & 0 & 1 & 0 \\
+Cuzco & 448124.0 & Peru & -13.5170887 & -71.9785356 & 1 & 0 & 0 & 0 \\
+Huancayo & 375857.0 & Peru & -12.0761679 & -75.2063189 & 1 & 0 & 1 & 0 \\
+Huaraz & 136628.0 & Peru & -9.5298511 & -77.5289981 & 1 & 0 & 0 & 0 \\
+Ica & 251573.0 & Peru & -14.338611 & -75.648333 & 1 & 0 & 0 & 0 \\
+Iquitos & 450799.0 & Peru & -3.749365 & -73.2444145 & 1 & 0 & 0 & 0 \\
+Juliaca & 294921.0 & Peru & -15.4915945 & -70.132216 & 1 & 0 & 0 & 0 \\
+Pisco & 105394.0 & Peru & -13.7099813 & -76.2029793 & 1 & 0 & 0 & 0 \\
+Pucallpa & 211708.0 & Peru & -8.3820737 & -74.5387507 & 1 & 0 & 0 & 0 \\
+Tacna & 306021.0 & Peru & -18.0138696 & -70.2511597 & 1 & 0 & 1 & 0 \\
+Tarapoto & 153613.0 & Peru & -6.4877198 & -76.3598708 & 1 & 0 & 0 & 0 \\
+Trujillo & 833379.0 & Peru & -8.1116778 & -79.0287742 & 2 & 0 & 0 & 0 \\
+PARAMARIBO & 240924.0 & Suriname & 5.8216091 & -55.1770432 & 1 & 0 & 5 & 0 \\
+Wanica & 118222.0 & Suriname & 5.75 & -55.25 & 1 & 0 & 0 & 0 \\
+MONTEVIDEO & 1381946.48006258 & Uruguay & -34.9059039 & -56.1913569 & 3 & 0 & 0 & 0 \\
+Anaco(F) (Capital) & 140496.0 & Venezuela & 9.431216 & -64.4571388 & 1 & 0 & 0 & 0 \\
+Barquisimeto & 881127.0 & Venezuela & 10.0740372 & -69.3215667 & 2 & 0 & 1 & 0 \\
+Baruta & 358221.0 & Venezuela & 10.4350067 & -66.8734682 & 1 & 0 & 0 & 0 \\
+Cabimas & 293365.0 & Venezuela & 10.3995334 & -71.4609626 & 1 & 0 & 2 & 0 \\
+Cagua & 118290.0 & Venezuela & 10.1796632 & -67.4606765 & 1 & 0 & 1 & 0 \\
+CARACAS & 2082130.0 & Venezuela & 10.506098 & -66.9146017 & 3 & 0 & 1 & 0 \\
+Carora & 111963.0 & Venezuela & 10.1710547 & -70.0761957 & 1 & 0 & 0 & 0 \\
+Carúpano & 156380.0 & Venezuela & 10.6488325 & -63.2551988 & 1 & 0 & 0 & 0 \\
+Ciudad Bolívar & 407452.0 & Venezuela & 8.1080955 & -63.551078 & 1 & 0 & 2 & 0 \\
+Ciudad Guayana & 877547.0 & Venezuela & 8.3223763 & -62.6896622 & 2 & 0 & 1 & 0 \\
+Ciudad Ojeda & 216489.0 & Venezuela & 10.2180486 & -71.3279054 & 1 & 0 & 1 & 0 \\
+Cua & 143164.0 & Venezuela & 10.1653676 & -66.8865117 & 1 & 0 & 0 & 0 \\
+Cumaná & 358138.0 & Venezuela & 10.4494466 & -64.1630154 & 1 & 0 & 2 & 0 \\
+El Tigre & 203403.0 & Venezuela & 8.8872424 & -64.2530353 & 1 & 0 & 2 & 0 \\
+Guacara & 192536.0 & Venezuela & 10.2148811 & -67.8796354 & 1 & 0 & 0 & 0 \\
+Guanare & 160234.0 & Venezuela & 9.0407855 & -69.7412593 & 1 & 0 & 1 & 0 \\
+Guarenas & 247131.0 & Venezuela & 10.4680605 & -66.6075628 & 1 & 0 & 1 & 0 \\
+Guatire & 177794.0 & Venezuela & 10.4726182 & -66.5379965 & 1 & 0 & 2 & 0 \\
+Los Guayos & 173878.0 & Venezuela & 10.1892618 & -67.9382941 & 1 & 0 & 2 & 0 \\
+Los Teques & 216358.0 & Venezuela & 10.345472 & -67.0393172 & 1 & 0 & 3 & 0 \\
+Maracaibo & 1653215.0 & Venezuela & 10.6499149 & -71.6396282 & 3 & 0 & 0 & 0 \\
+Maracay & 419052.0 & Venezuela & 10.2513662 & -67.6017245 & 1 & 0 & 2 & 0 \\
+Maturín & 571276.0 & Venezuela & 9.7452286 & -63.1799873 & 2 & 0 & 1 & 0 \\
+Mérida & 248410.0 & Venezuela & 8.5875788 & -71.1572352 & 1 & 0 & 0 & 0 \\
+Naguanagua & 161658.0 & Venezuela & 10.2496542 & -68.0146232 & 1 & 0 & 2 & 0 \\
+Ocumare Del Tuy & 197952.0 & Venezuela & 10.1136541 & -66.779694 & 1 & 0 & 0 & 0 \\
+Petare & 434320.0 & Venezuela & 10.3213908 & -64.3779637 & 1 & 0 & 0 & 0 \\
+Puerto Cabello & 193025.0 & Venezuela & 10.4680625 & -68.0098561 & 1 & 0 & 0 & 0 \\
+Punto Fijo & 272239.0 & Venezuela & 11.6925865 & -70.2015372 & 1 & 0 & 6 & 0 \\
+San Fernando de Apure & 217590.0 & Venezuela & 7.8785583 & -67.4681246 & 1 & 0 & 0 & 0 \\
+San Francisco & 106763.0 & Venezuela & 10.559815 & -71.6430152 & 1 & 0 & 3 & 0 \\
+Santa Lucía & 133543.0 & Venezuela & 10.3060211 & -66.6588487 & 1 & 0 & 0 & 0 \\
+Táriba & 132657.0 & Venezuela & 7.8214316 & -72.222811 & 1 & 0 & 4 & 0 \\
+Tocuyito & 186755.0 & Venezuela & 10.0995557 & -68.0871547 & 1 & 0 & 0 & 0 \\
+Turmero & 238570.0 & Venezuela & 10.2230698 & -67.4807443 & 1 & 0 & 1 & 0 \\
+Valencia & 888109.0 & Venezuela & 10.1828036 & -68.003553 & 2 & 0 & 0 & 0 \\
+Valencia & 789610.0 & Spain & 39.4697222 & -0.3763362 & 2 & 0 & 0 & 0 \\
+Valera & 161771.0 & Venezuela & 9.3148173 & -70.6081655 & 1 & 0 & 1 & 0 \\
+Herat Center & 491967.0 & Afghanistan & 34.3508273 & 62.2164003 & 1 & 0 & 0 & 0 \\
+KABUL CENTER & 3817241.0 & Afghanistan & 34.5260109 & 69.1776838 & 3 & 0 & 0 & 0 \\
+YEREVAN & 1076716.0 & Armenia & 40.1776121 & 44.5125849 & 3 & 0 & 1 & 0 \\
+BAKU & 2254175.0 & Azerbaijan & 40.3754434 & 49.8326748 & 3 & 0 & 0 & 0 \\
+Ganja & 331986.0 & Azerbaijan & 40.6794747 & 46.3564509 & 1 & 0 & 1 & 0 \\
+Sumgayit & 340091.0 & Azerbaijan & 40.5961666 & 49.6695971 & 1 & 0 & 3 & 0 \\
+MANAMA & 176909.0 & Bahrain & 26.2235041 & 50.5822436 & 1 & 1 & 1 & 0 \\
+Chittagong & 2591681.0 & Bangladesh & 22.3307998 & 91.8412863 & 3 & 0 & 2 & 0 \\
+Comilla & 296010.0 & Bangladesh & 23.4610615 & 91.1808748 & 1 & 0 & 0 & 0 \\
+DHAKA & 8906035.0 & Bangladesh & 23.7593572 & 90.3788136 & 4 & 0 & 2 & 0 \\
+Mymensingh & 389918.0 & Bangladesh & 24.8386014 & 90.41126950462677 & 1 & 0 & 0 & 0 \\
+Narayanganj & 286330.0 & Bangladesh & 23.6238108 & 90.4999662 & 1 & 0 & 0 & 0 \\
+Saidpur & 133433.0 & Bangladesh & 25.7839804 & 88.8940577 & 1 & 0 & 0 & 0 \\
+THIMPHU & 114551.0 & Bhutan & 27.4727617 & 89.629548 & 1 & 0 & 0 & 0 \\
+BANDAR SERI BEGAWAN & 27285.0 & Brunei Darussalam & 4.8895453 & 114.9417574 & 1 & 0 & 7 & 0 \\
+Bat Dambang & 1126345.01046136 & Cambodia & 13.0998526 & 103.1966659 & 3 & 0 & 0 & 0 \\
+PHNOM PENH & 1570790.86456886 & Cambodia & 11.568271 & 104.9224426 & 3 & 0 & 0 & 0 \\
+Hyesan & 174015.0 & North Korea & 41.4029448 & 128.1778371 & 1 & 0 & 0 & 0 \\
+Jongju & 102659.0 & South Korea & 34.9871368 & 127.7743683 & 1 & 0 & 0 & 0 \\
+Kaesong & 192578.0 & North Korea & 37.9716991 & 126.5527573 & 1 & 0 & 0 & 0 \\
+Kim Chaek & 155284.0 & North Korea & 39.00486735 & 125.745235164746 & 1 & 0 & 0 & 0 \\
+PYONGYANG & 2581076.0 & North Korea & 39.0194741 & 125.753388 & 3 & 0 & 0 & 0 \\
+Sariwon & 271434.0 & North Korea & 38.4993705 & 125.7608695 & 1 & 0 & 0 & 0 \\
+Sinuiju & 334031.0 & North Korea & 40.0940758 & 124.3977559 & 1 & 0 & 0 & 0 \\
+Wonsan & 328467.0 & North Korea & 39.1532956 & 127.453564 & 1 & 0 & 0 & 0 \\
+Batumi & 155000.0 & Georgia & 41.6509502 & 41.6360085 & 1 & 0 & 1 & 0 \\
+Kutaisi & 147500.0 & Georgia & 42.25899995 & 42.66726933814395 & 1 & 0 & 2 & 0 \\
+Rustavi & 126200.0 & Georgia & 41.54309 & 45.0112804 & 1 & 0 & 2 & 0 \\
+TBILISI & 1113800.0 & Georgia & 41.6934591 & 44.8014495 & 3 & 0 & 0 & 0 \\
+Ambon & 431092.0 & Indonesia & -3.6959434 & 128.178785 & 1 & 0 & 3 & 0 \\
+Balikpapan & 624033.0 & Indonesia & -1.2398711 & 116.8593379 & 2 & 0 & 0 & 0 \\
+Banda Aceh & 264054.0 & Indonesia & 5.5528455 & 95.3192908 & 1 & 0 & 1 & 0 \\
+Bandar Lampung & 1033601.0 & Indonesia & -5.4460713 & 105.2643742 & 3 & 0 & 1 & 0 \\
+Bandung & 2525220.0 & Indonesia & -6.9344694 & 107.6049539 & 3 & 0 & 1 & 0 \\
+Batam & 1347762.0 & Indonesia & 1.1061034 & 104.0378246 & 3 & 0 & 2 & 0 \\
+Bengkulu & 354079.0 & Indonesia & -3.5186763 & 102.5359834 & 1 & 0 & 0 & 0 \\
+Binjai & 274063.0 & Indonesia & 3.6063964 & 98.4899865 & 1 & 0 & 2 & 0 \\
+Bitung & 193883.0 & Indonesia & 1.44344 & 125.1940836 & 1 & 0 & 0 & 0 \\
+Blitar & 503718.0 & Indonesia & -8.0982442 & 112.1650769 & 2 & 0 & 1 & 0 \\
+Bogor & 5162044.0 & Indonesia & -6.5962986 & 106.7972421 & 4 & 0 & 1 & 0 \\
+Cirebon (Tjirebon) & 1891957.0 & Indonesia & -6.7137044 & 108.5608483 & 3 & 0 & 1 & 0 \\
+Denpasar & 938188.0 & Indonesia & -8.6524973 & 115.2191175 & 2 & 0 & 0 & 0 \\
+Gorontalo & 138590.0 & Indonesia & 0.7186174 & 122.4555927 & 1 & 0 & 0 & 0 \\
+Jambi & 585392.0 & Indonesia & -1.611572 & 102.779699 & 2 & 0 & 0 & 0 \\
+Kediri & 800716.0 & Indonesia & -7.8058976 & 112.1685074144281 & 2 & 0 & 0 & 0 \\
+Madiun & 237668.0 & Indonesia & -7.61188765 & 111.6731926280884 & 1 & 0 & 0 & 0 \\
+Magelang & 413946.0 & Indonesia & -7.5136132 & 110.2143303084879 & 1 & 0 & 0 & 0 \\
+Makasar (Ujung Pandang) & 1502459.0 & Indonesia & -5.1342962 & 119.4124282 & 3 & 0 & 0 & 0 \\
+Malang & 1382786.0 & Indonesia & -8.10479815 & 112.6879872139059 & 3 & 0 & 0 & 0 \\
+Manado & 427409.0 & Indonesia & 1.4900578 & 124.8408708 & 1 & 0 & 0 & 0 \\
+Mataram & 483908.0 & Indonesia & -8.5837726 & 116.10685 & 1 & 0 & 1 & 0 \\
+Medan & 2269588.0 & Indonesia & 3.5896654 & 98.6738261 & 3 & 0 & 1 & 0 \\
+Mojokerto & 598783.0 & Indonesia & -7.54104285 & 112.5096691549846 & 2 & 0 & 0 & 0 \\
+Padang & 941136.0 & Indonesia & -0.9247587 & 100.3632561 & 2 & 0 & 3 & 0 \\
+Pakalongan & 498568.0 & Indonesia & -7.476977 & 108.0847912 & 1 & 0 & 0 & 0 \\
+Palangkaraya & 265154.0 & Indonesia & -2.2072919 & 113.9164372 & 1 & 0 & 1 & 0 \\
+Palembang & 1649298.0 & Indonesia & -2.9888297 & 104.756857 & 3 & 0 & 2 & 0 \\
+Pangkal Pinang & 201207.0 & Indonesia & -2.1206733 & 106.1134604 & 1 & 0 & 3 & 0 \\
+Pare Pare & 142391.0 & Indonesia & -4.0057055 & 119.6236101 & 1 & 0 & 2 & 0 \\
+Pasuruan & 799137.0 & Indonesia & -7.6419894 & 112.906694 & 2 & 0 & 0 & 0 \\
+Pematang Siantar & 254010.0 & Indonesia & 2.9588631 & 99.0653646 & 1 & 0 & 3 & 0 \\
+Probolinggo & 458338.0 & Indonesia & -7.86250165 & 113.3051361158501 & 1 & 0 & 0 & 0 \\
+Salatiga & 190872.0 & Indonesia & -7.3302642 & 110.4995353 & 1 & 0 & 1 & 0 \\
+Samarinda & 831608.0 & Indonesia & -0.5017804 & 117.1393089 & 2 & 0 & 3 & 0 \\
+Semarang & 459358.0 & Indonesia & -6.9903988 & 110.4229104 & 1 & 0 & 0 & 0 \\
+Sukabumi & 1301873.0 & Indonesia & -6.9199289 & 106.9265095 & 3 & 0 & 1 & 0 \\
+Surabaya & 2885245.0 & Indonesia & -7.2459717 & 112.7378266 & 3 & 0 & 1 & 0 \\
+Surakarta & 515865.0 & Indonesia & -7.5692462 & 110.828448 & 2 & 0 & 2 & 0 \\
+Tangerang & 3050758.0 & Indonesia & -6.1760311 & 106.6384468 & 3 & 0 & 6 & 0 \\
+Tanjung Balai & 174049.0 & Indonesia & 2.9703521 & 99.8020903 & 1 & 0 & 0 & 0 \\
+Tebing Tinggi & 163292.0 & Indonesia & -1.0205587 & 103.0851459 & 1 & 0 & 1 & 0 \\
+Tegal & 895902.0 & Indonesia & -7.05571835 & 109.1326480414001 & 2 & 0 & 0 & 0 \\
+Yogyakarta & 427801.0 & Indonesia & -7.8011945 & 110.364917 & 1 & 0 & 0 & 0 \\
+Abadan & 231476.0 & Iran & 30.3636097 & 48.2591475 & 1 & 0 & 0 & 0 \\
+Ahar & 100641.0 & Iran & 38.4774934 & 47.0662215 & 1 & 0 & 0 & 0 \\
+Ahwaz & 1184788.0 & Iran & 31.3229936 & 48.6793316 & 3 & 0 & 1 & 0 \\
+Amol & 237528.0 & Iran & 36.4712358 & 52.35633032641077 & 1 & 0 & 1 & 0 \\
+Andimeshk & 135116.0 & Iran & 32.458325 & 48.3521137 & 1 & 0 & 0 & 0 \\
+Andisheh & 116062.0 & Iran & 33.468304 & 50.2491691 & 1 & 0 & 0 & 0 \\
+Arak & 520944.0 & Iran & 34.0956347 & 49.6913344 & 2 & 0 & 1 & 0 \\
+Ardabil & 529374.0 & Iran & 38.4583983 & 47.9313001 & 2 & 0 & 0 & 0 \\
+Babol & 250217.0 & Iran & 36.5452581 & 52.6846571 & 1 & 0 & 4 & 0 \\
+Bam & 127396.0 & Iran & 29.1059864 & 58.3565663 & 1 & 0 & 0 & 0 \\
+Bandar-e-Anzali & 118564.0 & Iran & 37.4716356 & 49.4685904 & 1 & 0 & 4 & 0 \\
+Bandar-e-Mahshahr & 162797.0 & Iran & 30.5577268 & 49.1997454 & 1 & 0 & 0 & 0 \\
+Baneh & 110218.0 & Iran & 35.9946631 & 45.8843225 & 1 & 0 & 0 & 0 \\
+Behbahan & 122604.0 & Iran & 30.5942065 & 50.2434128 & 1 & 0 & 0 & 0 \\
+Birjand & 203636.0 & Iran & 32.8633961 & 59.2177294 & 1 & 0 & 0 & 0 \\
+Bojnurd & 228931.0 & Iran & 37.4759752 & 57.3319881 & 1 & 0 & 0 & 0 \\
+Borazjan & 110567.0 & Iran & 29.2661428 & 51.2120597 & 1 & 0 & 0 & 0 \\
+Borujerd & 234997.0 & Iran & 33.8943281 & 48.7560936 & 1 & 0 & 0 & 0 \\
+Chabahar & 106739.0 & Iran & 25.2935488 & 60.6469115 & 1 & 0 & 0 & 0 \\
+Dezful & 264709.0 & Iran & 32.3780257 & 48.4032064 & 1 & 0 & 1 & 0 \\
+Dorud & 121638.0 & Iran & 33.4992998 & 49.0529575 & 1 & 0 & 0 & 0 \\
+Esfahan & 1961260.0 & Iran & 32.6707877 & 51.6650002 & 3 & 0 & 2 & 0 \\
+Fardis & 181174.0 & Iran & 35.7866258 & 51.0025424 & 1 & 0 & 0 & 0 \\
+Fasa & 110825.0 & Iran & 28.9366395 & 53.6510677 & 1 & 0 & 1 & 0 \\
+Gonbad-e-Kavus & 151910.0 & Iran & 37.2492965 & 55.1659018 & 1 & 0 & 0 & 0 \\
+Gorgan & 350676.0 & Iran & 36.8392776 & 54.4320858 & 1 & 0 & 3 & 0 \\
+Hamadan & 554406.0 & Iran & 34.973321 & 48.6555779 & 2 & 0 & 0 & 0 \\
+Iranshahr & 113750.0 & Iran & 27.2069903 & 60.6882515 & 1 & 0 & 0 & 0 \\
+Izeh & 119399.0 & Iran & 31.8303661 & 49.8685539 & 1 & 0 & 0 & 0 \\
+Jahrom & 141634.0 & Iran & 28.4961762 & 53.5593366 & 1 & 0 & 0 & 0 \\
+Jiroft & 130429.0 & Iran & 28.6697367 & 57.7373382 & 1 & 0 & 0 & 0 \\
+Kamal Shahr & 141669.0 & Iran & 35.860773 & 50.8699108 & 1 & 0 & 1 & 0 \\
+Karaj & 1592492.0 & Iran & 35.8228964 & 50.95876430889608 & 3 & 0 & 2 & 0 \\
+Kashan & 304487.0 & Iran & 33.9873888 & 51.4427935 & 1 & 0 & 0 & 0 \\
+Kashmar & 102282.0 & Iran & 35.2444908 & 58.464248 & 1 & 0 & 0 & 0 \\
+Khomeini shahr & 247128.0 & Iran & 32.4712531 & 51.4740772 & 1 & 0 & 0 & 0 \\
+Khoramshahr & 133097.0 & Iran & 35.2433488 & 58.4704403 & 1 & 0 & 0 & 0 \\
+Khoy & 198845.0 & Iran & 38.5504343 & 44.95354 & 1 & 0 & 1 & 0 \\
+Lahijan & 101073.0 & Iran & 37.2060727 & 50.0028774 & 1 & 0 & 2 & 0 \\
+Mahabad & 168393.0 & Iran & 36.7651739 & 45.7218136 & 1 & 1 & 2 & 0 \\
+Malard & 281027.0 & Iran & 35.666763 & 50.9790423 & 1 & 0 & 1 & 0 \\
+Malayer & 170237.0 & Iran & 34.2922623 & 48.8215749 & 1 & 0 & 1 & 0 \\
+Marand & 130825.0 & Iran & 38.4306358 & 45.7741 & 1 & 0 & 1 & 0 \\
+Marivan & 136654.0 & Iran & 35.5219063 & 46.1758889 & 1 & 0 & 0 & 0 \\
+Mashhad & 3001184.0 & Iran & 36.2974945 & 59.6059232 & 3 & 0 & 4 & 0 \\
+Masjed Soleyman & 100497.0 & Iran & 31.9461316 & 49.3013154 & 1 & 0 & 0 & 0 \\
+Miandoab & 134425.0 & Iran & 36.9695588 & 46.0993809 & 1 & 0 & 0 & 0 \\
+Mohammad Shahr & 119418.0 & Iran & 35.802277 & 50.9648493 & 1 & 0 & 2 & 0 \\
+Nasim Shahr & 200393.0 & Iran & 32.6880236 & 51.6709128 & 1 & 0 & 3 & 0 \\
+Neyshabur & 264375.0 & Iran & 36.210595 & 58.7922805 & 1 & 0 & 0 & 0 \\
+Orumiyeh & 736224.0 & Iran & 37.5493473 & 45.0682863 & 2 & 0 & 4 & 0 \\
+Pakdasht & 236319.0 & Iran & 35.4751698 & 51.6806973 & 1 & 0 & 0 & 0 \\
+Qaem shahr & 204953.0 & Iran & 36.4636399 & 52.8579311 & 1 & 0 & 0 & 0 \\
+Qarchak & 231075.0 & Iran & 35.4421824 & 51.5697005 & 1 & 0 & 0 & 0 \\
+Qods & 309605.0 & Iran & 35.7084558 & 51.10020444192774 & 1 & 0 & 1 & 0 \\
+Qom & 1201158.0 & Iran & 34.6423117 & 50.8800969 & 3 & 0 & 5 & 0 \\
+Quchan & 101604.0 & Iran & 37.105993 & 58.5108056 & 1 & 0 & 0 & 0 \\
+Rafsanjan & 161909.0 & Iran & 30.402184 & 55.9941776 & 1 & 0 & 0 & 0 \\
+Rasht & 679995.0 & Iran & 37.2793607 & 49.5846102 & 2 & 0 & 0 & 0 \\
+Robatkarim & 105393.0 & Iran & 35.489512 & 51.02277133987636 & 1 & 0 & 0 & 0 \\
+Sanandaj & 412767.0 & Iran & 35.3126047 & 46.9978639 & 1 & 0 & 3 & 0 \\
+Saqez & 165258.0 & Iran & 36.2427456 & 46.2705227 & 1 & 0 & 1 & 0 \\
+Sari & 309820.0 & Iran & 36.5659598 & 53.0587229 & 1 & 0 & 3 & 0 \\
+Saveh & 220762.0 & Iran & 35.0206133 & 50.3584834 & 1 & 0 & 0 & 0 \\
+Semnan & 185129.0 & Iran & 35.3843145 & 54.6209302 & 1 & 0 & 0 & 0 \\
+Shahinshahr & 173329.0 & Iran & 32.8599956 & 51.5271377 & 1 & 0 & 0 & 0 \\
+Shahr-e-Kord & 190441.0 & Iran & 32.3257366 & 50.8497369 & 1 & 0 & 0 & 0 \\
+Shahreza & 134952.0 & Iran & 32.0116032 & 51.8651719 & 1 & 0 & 0 & 0 \\
+Shahriar & 309607.0 & Iran & 35.6589015 & 51.0586022 & 1 & 0 & 1 & 0 \\
+Shahrud & 150129.0 & Iran & 36.4195026 & 54.9649915 & 1 & 0 & 0 & 0 \\
+Shiraz & 1565572.0 & Iran & 29.6060218 & 52.5378041 & 3 & 0 & 0 & 0 \\
+Sirjan & 199704.0 & Iran & 29.4458687 & 55.6704717 & 1 & 0 & 0 & 0 \\
+Tabriz & 1558693.0 & Iran & 38.0739964 & 46.2961952 & 3 & 0 & 1 & 0 \\
+TEHRAN & 8693706.0 & Iran & 35.7006177 & 51.4013785 & 4 & 0 & 0 & 0 \\
+Torbat-e-heydariyeh & 140019.0 & Iran & 35.28117595 & 59.21970590307051 & 1 & 0 & 0 & 0 \\
+Varamin & 225628.0 & Iran & 35.3283255 & 51.6460307 & 1 & 0 & 0 & 0 \\
+Zabol & 134950.0 & Iran & 31.0277779 & 61.4948211 & 1 & 0 & 1 & 0 \\
+Zahedan & 587730.0 & Iran & 29.4928874 & 60.8503017 & 2 & 0 & 0 & 0 \\
+Samarra Qadha Center & 203011.0 & Iraq & 34.2 & 43.9 & 1 & 0 & 0 & 0 \\
+Tikrit Qadha Center & 182464.0 & Iraq & 34.7509082 & 43.647626 & 1 & 0 & 0 & 0 \\
+Ashdod & 222237.0 & Israel & 31.7977314 & 34.6529922 & 1 & 0 & 0 & 0 \\
+Ashqelon & 136199.0 & Israel & 31.6644874 & 34.5730157 & 1 & 0 & 0 & 0 \\
+Bat Yam & 128779.0 & Israel & 32.0154565 & 34.7505283 & 1 & 0 & 0 & 0 \\
+Be'er Sheva & 206680.0 & Israel & 31.2525238 & 34.7905787 & 1 & 0 & 0 & 0 \\
+Bet Shemesh & 112066.0 & Israel & 31.746214 & 34.9886825 & 1 & 0 & 0 & 0 \\
+Haifa & 280339.0 & Israel & 32.8191218 & 34.9983856 & 1 & 0 & 0 & 0 \\
+Holon & 191731.0 & Israel & 32.0193121 & 34.7804076 & 1 & 0 & 0 & 0 \\
+Netanya & 212468.0 & Israel & 32.3286181 & 34.8566246 & 1 & 0 & 0 & 0 \\
+Petah Tiqwa & 238263.0 & Israel & 32.11658115 & 34.86404509927681 & 1 & 0 & 2 & 1 \\
+Rehovot & 137053.0 & Israel & 31.8952532 & 34.8105616 & 1 & 0 & 0 & 0 \\
+Rishon Leziyyon & 248591.0 & Israel & 31.9635712 & 34.8101149 & 1 & 0 & 0 & 0 \\
+Tel Aviv-Yafo & 441379.0 & Israel & 32.0804808 & 34.7805274 & 1 & 0 & 0 & 0 \\
+Abiko & 131606.0 & Japan & 35.863999 & 140.0280653 & 1 & 1 & 1 & 0 \\
+Ageo & 225196.0 & Japan & 35.9774082 & 139.5930504 & 1 & 0 & 2 & 0 \\
+Aizuwakamatsu & 124062.0 & Japan & 37.48043 & 139.942135 & 1 & 0 & 0 & 0 \\
+Akashi & 293409.0 & Japan & 34.6832635 & 134.9476925 & 1 & 0 & 1 & 0 \\
+Akita & 315814.0 & Japan & 39.6898802 & 140.342608 & 1 & 0 & 0 & 0 \\
+Anjo & 184140.0 & Japan & 34.947764 & 137.075563 & 1 & 0 & 4 & 0 \\
+Aomori & 287648.0 & Japan & 40.886943 & 140.590121 & 1 & 0 & 0 & 0 \\
+Asahikawa & 339605.0 & Japan & 43.762785 & 142.3579364 & 1 & 0 & 2 & 0 \\
+Asaka & 136299.0 & Japan & 35.7970861 & 139.593733 & 1 & 0 & 1 & 0 \\
+Atsugi & 225714.0 & Japan & 35.4603975 & 139.3175055043044 & 1 & 0 & 1 & 0 \\
+Beppu & 122138.0 & Japan & 33.2845752 & 131.4913063 & 1 & 0 & 0 & 0 \\
+Chiba & 971882.0 & Japan & 35.609985 & 140.118126 & 2 & 0 & 0 & 0 \\
+Chigasaki & 239348.0 & Japan & 35.329479 & 139.405371 & 1 & 0 & 0 & 0 \\
+Chikusei & 104573.0 & Japan & 36.3051944 & 139.9790903 & 1 & 0 & 2 & 0 \\
+Chikushino & 101081.0 & Japan & 33.4966524 & 130.5156215 & 1 & 0 & 4 & 0 \\
+Chofu & 229061.0 & Japan & 35.660036 & 139.554815 & 1 & 0 & 0 & 0 \\
+Daito & 123217.0 & Japan & 34.710679 & 135.635478 & 1 & 0 & 1 & 0 \\
+Ebetsu & 120636.0 & Japan & 43.1105658 & 141.557211 & 1 & 0 & 4 & 0 \\
+Ebina & 130190.0 & Japan & 35.452964 & 139.391667 & 1 & 0 & 0 & 0 \\
+Fuchu & 260274.0 & Japan & 34.5683141 & 133.2366327 & 1 & 0 & 0 & 0 \\
+Fuji & 248399.0 & Japan & 35.362799 & 138.730781 & 1 & 0 & 0 & 0 \\
+Fujieda & 143605.0 & Japan & 34.8674167 & 138.2577222 & 1 & 0 & 3 & 0 \\
+Fujimi & 108102.0 & Japan & 35.9083257 & 138.2026202 & 1 & 0 & 0 & 0 \\
+Fujimino & 110970.0 & Japan & 35.8608646 & 139.5231078 & 1 & 0 & 0 & 0 \\
+Fujinomiya & 130770.0 & Japan & 35.2221369 & 138.6214683 & 1 & 0 & 0 & 0 \\
+Fujisawa & 423894.0 & Japan & 35.364842 & 139.465077 & 1 & 0 & 1 & 0 \\
+Fukaya & 143811.0 & Japan & 36.177516 & 139.2522578305939 & 1 & 0 & 2 & 0 \\
+Fukui & 265904.0 & Japan & 35.9263502 & 136.6068127 & 1 & 0 & 0 & 0 \\
+Fukuoka & 1538681.0 & Japan & 33.6251241 & 130.6180016 & 3 & 0 & 1 & 0 \\
+Fukushima & 294247.0 & Japan & 37.75454 & 140.4592144 & 1 & 0 & 3 & 0 \\
+Fukuyama & 464811.0 & Japan & 34.4857039 & 133.3623097 & 1 & 0 & 4 & 0 \\
+Funabashi & 622890.0 & Japan & 35.699997 & 139.988668 & 2 & 0 & 0 & 0 \\
+Gifu & 406735.0 & Japan & 35.7867449 & 137.0460777 & 1 & 0 & 0 & 0 \\
+Habikino & 112683.0 & Japan & 34.54158 & 135.599097 & 1 & 0 & 6 & 0 \\
+Hachinohe & 231257.0 & Japan & 40.5122388 & 141.4882959 & 1 & 0 & 4 & 0 \\
+Hachioji & 577513.0 & Japan & 35.6555699 & 139.3390485 & 2 & 0 & 0 & 0 \\
+Hadano & 167378.0 & Japan & 35.3746619 & 139.2420729 & 1 & 0 & 2 & 0 \\
+Hakodate & 265979.0 & Japan & 41.768793 & 140.729008 & 1 & 0 & 0 & 0 \\
+Hakusan & 109287.0 & Japan & 36.5143504 & 136.5658067 & 1 & 0 & 4 & 0 \\
+Hamamatsu & 797980.0 & Japan & 34.7109786 & 137.7259431 & 2 & 0 & 1 & 0 \\
+Handa & 116908.0 & Japan & 34.8938136 & 136.9369523 & 1 & 0 & 1 & 0 \\
+Hatsukaichi & 114906.0 & Japan & 34.3485048 & 132.331833 & 1 & 0 & 6 & 0 \\
+Higashihiroshima & 192907.0 & Japan & 34.42683 & 132.741552 & 1 & 0 & 4 & 0 \\
+Higashikurume & 116632.0 & Japan & 35.752546 & 139.519089 & 1 & 0 & 2 & 0 \\
+Higashimurayama & 149956.0 & Japan & 35.768929 & 139.484539 & 1 & 0 & 2 & 0 \\
+Higashiomi & 114180.0 & Japan & 35.1227135 & 136.2670965 & 1 & 0 & 0 & 0 \\
+Higashiosaka & 502784.0 & Japan & 34.678147 & 135.597728 & 2 & 0 & 0 & 0 \\
+Hikone & 113679.0 & Japan & 35.254276 & 136.215376 & 1 & 0 & 1 & 0 \\
+Himeji & 535664.0 & Japan & 34.8153529 & 134.6854793 & 2 & 0 & 3 & 0 \\
+Hino & 186283.0 & Japan & 35.6610715 & 139.4147051 & 1 & 0 & 1 & 5 \\
+Hirakata & 404152.0 & Japan & 34.818215 & 135.659225 & 1 & 0 & 2 & 0 \\
+Hiratsuka & 258227.0 & Japan & 35.357674 & 139.318278 & 1 & 0 & 1 & 0 \\
+Hirosaki & 177411.0 & Japan & 40.6030543 & 140.4640389 & 1 & 0 & 3 & 0 \\
+Hiroshima & 1194034.0 & Japan & 34.3916058 & 132.4518156 & 3 & 0 & 0 & 0 \\
+Hitachinaka & 155689.0 & Japan & 36.3961235 & 140.5353397 & 1 & 0 & 2 & 0 \\
+Hofu & 115942.0 & Japan & 34.0517226 & 131.5629141 & 1 & 0 & 4 & 0 \\
+Ibaraki & 280033.0 & Japan & 36.2869536 & 140.4703384 & 1 & 0 & 1 & 0 \\
+Ichihara & 274656.0 & Japan & 35.497775 & 140.1156996 & 1 & 0 & 2 & 0 \\
+Ichikawa & 481732.0 & Japan & 35.729412 & 139.928568 & 1 & 0 & 0 & 0 \\
+Ichinomiya & 380868.0 & Japan & 35.304878 & 136.806915 & 1 & 0 & 4 & 0 \\
+Ichinoseki & 121583.0 & Japan & 38.9346961 & 141.126605 & 1 & 0 & 2 & 0 \\
+Iida & 101581.0 & Japan & 35.447106 & 137.895416 & 1 & 0 & 0 & 0 \\
+Iizuka & 129146.0 & Japan & 33.646594 & 130.6911579 & 1 & 0 & 4 & 0 \\
+Ikeda & 103069.0 & Japan & 34.819371 & 135.433332 & 1 & 0 & 0 & 0 \\
+Ikoma & 118233.0 & Japan & 34.6915267 & 135.6961681 & 1 & 0 & 3 & 0 \\
+Imabari & 158114.0 & Japan & 34.0658182 & 132.9976758 & 1 & 0 & 3 & 0 \\
+Inazawa & 136867.0 & Japan & 35.240484 & 136.758964 & 1 & 0 & 5 & 0 \\
+Iruma & 148390.0 & Japan & 35.8358142 & 139.3909293 & 1 & 0 & 1 & 0 \\
+Isahaya & 138078.0 & Japan & 32.843426 & 130.0530537 & 1 & 0 & 2 & 0 \\
+Ise & 127817.0 & Japan & 34.5037251 & 136.726303 & 1 & 0 & 0 & 0 \\
+Isehara & 101514.0 & Japan & 35.4023968 & 139.2996106 & 1 & 0 & 2 & 0 \\
+Isesaki & 208814.0 & Japan & 36.3111734 & 139.1968083 & 1 & 0 & 4 & 0 \\
+Ishinomaki & 147214.0 & Japan & 38.4341281 & 141.3028087 & 1 & 0 & 4 & 0 \\
+Itami & 196883.0 & Japan & 34.786159 & 135.407994 & 1 & 0 & 0 & 0 \\
+Iwaki & 350237.0 & Japan & 37.0504227 & 140.8876338 & 1 & 0 & 1 & 0 \\
+Iwakuni & 136757.0 & Japan & 34.1664995 & 132.2191163 & 1 & 0 & 2 & 0 \\
+Iwata & 167210.0 & Japan & 34.706481 & 137.851285 & 1 & 0 & 4 & 0 \\
+Izumi (Osaka) & 186109.0 & Japan & 34.43108 & 135.474789 & 1 & 0 & 3 & 0 \\
+Izumisano & 100966.0 & Japan & 34.394629 & 135.322725 & 1 & 0 & 2 & 0 \\
+Izumo & 171938.0 & Japan & 35.3668891 & 132.7548827 & 1 & 0 & 4 & 0 \\
+Joetsu & 196987.0 & Japan & 37.1478816 & 138.2359501 & 1 & 0 & 2 & 0 \\
+Kadoma & 123576.0 & Japan & 34.728801 & 135.59691 & 1 & 0 & 0 & 0 \\
+Kagoshima & 599814.0 & Japan & 31.572494 & 130.527873 & 2 & 0 & 1 & 0 \\
+Kakamigahara & 144690.0 & Japan & 35.3995831 & 136.8485648 & 1 & 0 & 3 & 0 \\
+Kakegawa & 114602.0 & Japan & 34.793469 & 138.018733 & 1 & 0 & 3 & 0 \\
+Kakogawa & 267435.0 & Japan & 34.786771 & 134.8498955 & 1 & 0 & 1 & 0 \\
+Kamagaya & 108917.0 & Japan & 35.7766455 & 140.0007147 & 1 & 0 & 4 & 0 \\
+Kamakura & 173019.0 & Japan & 35.329564 & 139.54442 & 1 & 0 & 0 & 0 \\
+Kanazawa & 465699.0 & Japan & 36.5780499 & 136.6480247 & 1 & 0 & 0 & 0 \\
+Kanoya & 103608.0 & Japan & 31.3780472 & 130.8525167 & 1 & 0 & 5 & 0 \\
+Karatsu & 122785.0 & Japan & 33.4503405 & 129.9679345 & 1 & 0 & 1 & 0 \\
+Kariya & 149765.0 & Japan & 34.974678 & 137.002791 & 1 & 0 & 1 & 0 \\
+Kashihara & 124111.0 & Japan & 34.5094067 & 135.792955 & 1 & 0 & 4 & 0 \\
+Kashiwa & 413954.0 & Japan & 35.8676218 & 139.9756876 & 1 & 0 & 0 & 0 \\
+Kasuga & 110743.0 & Japan & 33.5330716 & 130.4704269 & 1 & 0 & 3 & 0 \\
+Kasugai & 306508.0 & Japan & 35.273804 & 137.007459 & 1 & 0 & 5 & 0 \\
+Kasukabe & 232709.0 & Japan & 35.9750577 & 139.7523033 & 1 & 0 & 2 & 0 \\
+Kawachinagano & 106987.0 & Japan & 34.4575979 & 135.5643131 & 1 & 0 & 3 & 0 \\
+Kawagoe & 350745.0 & Japan & 35.9251145 & 139.4856927 & 1 & 0 & 2 & 0 \\
+Kawanishi & 156375.0 & Japan & 34.8699135 & 135.4147005 & 1 & 0 & 2 & 0 \\
+Kawasaki & 1475213.0 & Japan & 35.523142 & 139.708024 & 3 & 0 & 0 & 0 \\
+Kazo & 112229.0 & Japan & 36.1308572 & 139.603225 & 1 & 0 & 2 & 0 \\
+Kirishima & 125857.0 & Japan & 31.7410148 & 130.7632406 & 1 & 0 & 2 & 0 \\
+Kiryu & 114714.0 & Japan & 36.4055296 & 139.3310209 & 1 & 0 & 3 & 0 \\
+Kisarazu & 134141.0 & Japan & 35.3759734 & 139.9166797 & 1 & 0 & 5 & 0 \\
+Kishiwada & 194911.0 & Japan & 34.4644 & 135.385237 & 1 & 0 & 1 & 0 \\
+Kitakyushu & 961286.0 & Japan & 33.8829996 & 130.8749015 & 2 & 0 & 0 & 0 \\
+Kitami & 121226.0 & Japan & 43.8039651 & 143.895539 & 1 & 0 & 0 & 0 \\
+Kobe & 1537272.0 & Japan & 34.6932379 & 135.1943764 & 3 & 0 & 1 & 0 \\
+Kochi & 337190.0 & Japan & 33.5680384 & 133.5394221 & 1 & 0 & 3 & 0 \\
+Kodaira & 190005.0 & Japan & 35.72522 & 139.476606 & 1 & 0 & 0 & 0 \\
+Kofu & 193125.0 & Japan & 35.6652481 & 138.5710441 & 1 & 0 & 1 & 0 \\
+Koga & 140946.0 & Japan & 36.178025 & 139.7553638 & 1 & 0 & 4 & 0 \\
+Koganei & 121396.0 & Japan & 35.7041083 & 139.5106759 & 1 & 0 & 0 & 0 \\
+Kokubunji & 122742.0 & Japan & 35.709674 & 139.454224 & 1 & 0 & 1 & 0 \\
+Komaki & 149462.0 & Japan & 35.3066073 & 136.934098 & 1 & 0 & 3 & 0 \\
+Komatsu & 106919.0 & Japan & 36.4032931 & 136.4495465 & 1 & 0 & 1 & 0 \\
+Konosu & 118072.0 & Japan & 36.0657583 & 139.5221055 & 1 & 0 & 1 & 0 \\
+Koriyama & 335444.0 & Japan & 37.404937 & 140.333381 & 1 & 0 & 3 & 0 \\
+Koshigaya & 337498.0 & Japan & 35.8908991 & 139.7909116 & 1 & 0 & 1 & 0 \\
+Kuki & 152311.0 & Japan & 36.0618828 & 139.6667081 & 1 & 0 & 4 & 0 \\
+Kumagaya & 198742.0 & Japan & 36.1472472 & 139.3886141 & 1 & 0 & 4 & 0 \\
+Kumamoto & 740822.0 & Japan & 32.6450475 & 130.6341345 & 2 & 0 & 2 & 0 \\
+Kurashiki & 477118.0 & Japan & 34.5850791 & 133.7719957 & 1 & 0 & 1 & 0 \\
+Kure & 228552.0 & Japan & 34.2484488 & 132.5652498 & 1 & 0 & 2 & 0 \\
+Kurume & 304552.0 & Japan & 33.3196648 & 130.5081592 & 1 & 0 & 1 & 0 \\
+Kusatsu & 137247.0 & Japan & 35.0179088 & 135.96046 & 1 & 0 & 0 & 0 \\
+Kushiro & 174742.0 & Japan & 43.0228943 & 144.4884507 & 1 & 0 & 0 & 0 \\
+Kuwana & 140303.0 & Japan & 35.0666099 & 136.6843004 & 1 & 0 & 5 & 0 \\
+Machida & 432348.0 & Japan & 35.564193 & 139.442839 & 1 & 0 & 0 & 0 \\
+Maebashi & 336154.0 & Japan & 36.3893418 & 139.0632826 & 1 & 0 & 2 & 0 \\
+Marugame & 110010.0 & Japan & 34.2888128 & 133.7982421 & 1 & 0 & 5 & 0 \\
+Matsubara & 120750.0 & Japan & 34.580779 & 135.546552 & 1 & 0 & 1 & 0 \\
+Matsudo & 483480.0 & Japan & 35.7879371 & 139.903177 & 1 & 0 & 0 & 0 \\
+Matsue & 206230.0 & Japan & 35.468115 & 133.048768 & 1 & 0 & 2 & 0 \\
+Matsumoto & 243293.0 & Japan & 36.2382047 & 137.9687141 & 1 & 0 & 0 & 0 \\
+Matsusaka & 163863.0 & Japan & 34.5868422 & 136.5412491 & 1 & 0 & 2 & 0 \\
+Matsuyama & 514865.0 & Japan & 33.8395188 & 132.7653521 & 2 & 0 & 2 & 0 \\
+Minoh & 133411.0 & Japan & 34.862898 & 135.475719 & 1 & 0 & 0 & 0 \\
+Misato & 136521.0 & Japan & 35.830091 & 139.8722251 & 1 & 0 & 1 & 0 \\
+Mishima & 110046.0 & Japan & 35.147361 & 138.948903 & 1 & 0 & 0 & 0 \\
+Mitaka & 186936.0 & Japan & 35.685227 & 139.572916 & 1 & 0 & 0 & 2 \\
+Mito & 270783.0 & Japan & 36.3657792 & 140.4713933 & 1 & 0 & 0 & 0 \\
+Miyakonojo & 165029.0 & Japan & 31.7196106 & 131.0612029 & 1 & 0 & 3 & 0 \\
+Miyazaki & 401138.0 & Japan & 31.9076334 & 131.4204022 & 1 & 0 & 6 & 0 \\
+Morioka & 297631.0 & Japan & 39.7021331 & 141.1545397 & 1 & 0 & 0 & 0 \\
+Musashino & 144730.0 & Japan & 35.712898 & 139.563534 & 1 & 0 & 0 & 2 \\
+Nagahama & 118193.0 & Japan & 35.4857724 & 136.294057 & 1 & 0 & 0 & 0 \\
+Nagano & 377598.0 & Japan & 36.1143945 & 138.0319015 & 1 & 0 & 0 & 0 \\
+Nagaoka & 275133.0 & Japan & 37.446996 & 138.8512199 & 1 & 0 & 0 & 0 \\
+Nagareyama & 174373.0 & Japan & 35.8562314 & 139.9026259 & 1 & 0 & 2 & 0 \\
+Nagasaki & 429508.0 & Japan & 33.1154683 & 129.7874339 & 1 & 0 & 2 & 0 \\
+Nagoya & 2295638.0 & Japan & 35.1851045 & 136.8998438 & 3 & 0 & 0 & 0 \\
+Naha & 319435.0 & Japan & 26.2122345 & 127.6791452 & 1 & 0 & 0 & 0 \\
+Nara & 360310.0 & Japan & 34.2963089 & 135.8816819 & 1 & 0 & 0 & 0 \\
+Narashino & 167909.0 & Japan & 35.670572 & 140.018956 & 1 & 0 & 1 & 0 \\
+Narita & 131190.0 & Japan & 35.7767683 & 140.3183376 & 1 & 0 & 2 & 0 \\
+Nasushiobara & 117146.0 & Japan & 36.9615733 & 140.045935 & 1 & 0 & 0 & 0 \\
+Neyagawa & 237518.0 & Japan & 34.76751 & 135.633907 & 1 & 0 & 1 & 0 \\
+Niigata & 810157.0 & Japan & 37.6452283 & 138.7669125 & 2 & 0 & 0 & 0 \\
+Niihama & 119903.0 & Japan & 33.9603497 & 133.2835899 & 1 & 0 & 3 & 0 \\
+Niiza & 162122.0 & Japan & 35.7934426 & 139.5652031 & 1 & 0 & 1 & 0 \\
+Nishinomiya & 487850.0 & Japan & 34.7736381 & 135.3165454 & 1 & 0 & 0 & 0 \\
+Nishio & 167990.0 & Japan & 34.822498 & 137.069626 & 1 & 0 & 1 & 0 \\
+Nishitokyo & 200012.0 & Japan & 35.73546 & 139.550228 & 1 & 0 & 1 & 1 \\
+Nobeoka & 125159.0 & Japan & 32.5823063 & 131.6649034 & 1 & 0 & 2 & 0 \\
+Noda & 153583.0 & Japan & 36.00861 & 139.8468569386943 & 1 & 0 & 1 & 0 \\
+Numazu & 195633.0 & Japan & 35.094699 & 138.866742 & 1 & 0 & 1 & 0 \\
+Obihiro & 169327.0 & Japan & 42.923809 & 143.1966324 & 1 & 0 & 1 & 0 \\
+Odawara & 194086.0 & Japan & 35.263676 & 139.150229 & 1 & 0 & 0 & 0 \\
+Ogaki & 159879.0 & Japan & 35.3671141 & 136.6179746 & 1 & 0 & 5 & 0 \\
+Oita & 478146.0 & Japan & 33.1819875 & 131.4270217 & 1 & 0 & 0 & 0 \\
+Okayama & 719474.0 & Japan & 34.8581334 & 133.7759256 & 2 & 0 & 0 & 0 \\
+Okazaki & 381051.0 & Japan & 34.950974 & 137.260842 & 1 & 0 & 1 & 0 \\
+Okinawa & 139279.0 & Japan & 26.3343738 & 127.8056597 & 1 & 0 & 9 & 0 \\
+Ome & 137381.0 & Japan & 35.803601 & 139.238128 & 1 & 1 & 5 & 0 \\
+Omuta & 117360.0 & Japan & 33.047013 & 130.464155 & 1 & 0 & 2 & 0 \\
+Onomichi & 138626.0 & Japan & 34.4088519 & 133.2051549 & 1 & 0 & 2 & 0 \\
+Osaka & 2691185.0 & Japan & 34.6198813 & 135.490357 & 3 & 0 & 0 & 0 \\
+Osaki & 133391.0 & Japan & 38.5770889 & 140.955454 & 1 & 0 & 5 & 0 \\
+Oshu & 119422.0 & Japan & 39.144275 & 141.1392382 & 1 & 0 & 2 & 0 \\
+Ota & 219807.0 & Japan & 35.561206 & 139.715843 & 1 & 0 & 0 & 0 \\
+Otaru & 121924.0 & Japan & 43.1906806 & 140.9946021 & 1 & 0 & 1 & 0 \\
+Otsu & 340973.0 & Japan & 35.0047096 & 135.8686739 & 1 & 0 & 1 & 0 \\
+Oyama & 166760.0 & Japan & 36.3147373 & 139.800148 & 1 & 0 & 3 & 0 \\
+Saga & 236372.0 & Japan & 33.2185408 & 130.1296585 & 1 & 0 & 1 & 0 \\
+Sagamihara & 720780.0 & Japan & 35.56559 & 139.236215 & 2 & 0 & 0 & 0 \\
+Saijo & 108174.0 & Japan & 33.9194466 & 133.1813268 & 1 & 0 & 2 & 0 \\
+Saitama & 1263979.0 & Japan & 35.8616402 & 139.6457957 & 3 & 0 & 1 & 0 \\
+Sakado & 101679.0 & Japan & 35.9572312 & 139.4029048 & 1 & 0 & 2 & 0 \\
+Sakai & 839310.0 & Japan & 34.529124 & 135.50156 & 2 & 0 & 3 & 0 \\
+Sakata & 106244.0 & Japan & 38.9147229 & 139.8364101 & 1 & 0 & 3 & 0 \\
+Sakura & 172739.0 & Japan & 35.7234619 & 140.2240158 & 1 & 0 & 2 & 0 \\
+Sanda & 112691.0 & Japan & 34.8889881 & 135.2284629 & 1 & 0 & 3 & 0 \\
+Sano & 118919.0 & Japan & 36.3144119 & 139.578429 & 1 & 0 & 2 & 0 \\
+Sapporo & 1952356.0 & Japan & 43.061936 & 141.3542924 & 3 & 0 & 0 & 0 \\
+Sasebo & 255439.0 & Japan & 33.1799965 & 129.7152872 & 1 & 0 & 1 & 0 \\
+Sayama & 152405.0 & Japan & 35.8528971 & 139.4122999 & 1 & 0 & 0 & 0 \\
+Sendai & 1082159.0 & Japan & 38.2677554 & 140.8691498 & 3 & 0 & 0 & 0 \\
+Seto & 129046.0 & Japan & 35.240984 & 137.116187 & 1 & 1 & 2 & 0 \\
+Shimonoseki & 268517.0 & Japan & 33.9577116 & 130.9415455 & 1 & 0 & 1 & 0 \\
+Shizuoka & 704989.0 & Japan & 34.9332488 & 138.0955398 & 2 & 0 & 0 & 0 \\
+Shunan & 144842.0 & Japan & 34.0550595 & 131.8064092 & 1 & 0 & 3 & 0 \\
+Soka & 247034.0 & Japan & 35.825336 & 139.805481 & 1 & 0 & 2 & 0 \\
+Suita & 374468.0 & Japan & 34.764884 & 135.51735 & 1 & 0 & 1 & 0 \\
+Suzuka & 196403.0 & Japan & 34.886687 & 136.5850198 & 1 & 0 & 4 & 0 \\
+Tachikawa & 176295.0 & Japan & 35.724463 & 139.404766 & 1 & 0 & 1 & 0 \\
+Tajimi & 110441.0 & Japan & 35.3357572 & 137.127762 & 1 & 0 & 1 & 0 \\
+Takamatsu & 420748.0 & Japan & 34.3425592 & 134.0465338 & 1 & 0 & 1 & 0 \\
+Takaoka & 172125.0 & Japan & 36.7362147 & 137.0187306 & 1 & 0 & 2 & 0 \\
+Takarazuka & 224903.0 & Japan & 34.8659057 & 135.3257734 & 1 & 0 & 1 & 0 \\
+Takasaki & 370884.0 & Japan & 36.3220984 & 139.0032758 & 1 & 0 & 1 & 0 \\
+Takatsuki & 351829.0 & Japan & 34.8812905 & 135.6012398 & 1 & 0 & 3 & 0 \\
+Tama & 146631.0 & Japan & 35.637188 & 139.443503 & 1 & 0 & 1 & 2 \\
+Tochigi & 159211.0 & Japan & 36.3818177 & 139.733591 & 1 & 0 & 0 & 0 \\
+Toda & 136150.0 & Japan & 35.8175874 & 139.6778944 & 1 & 0 & 0 & 0 \\
+Tokai & 111944.0 & Japan & 35.044082 & 136.90902 & 1 & 0 & 0 & 0 \\
+Tokushima & 258554.0 & Japan & 34.0698307 & 134.5550353 & 1 & 0 & 3 & 0 \\
+TOKYO & 9272740.0 & Japan & 35.6828387 & 139.7594549 & 4 & 0 & 0 & 0 \\
+Tomakomai & 172737.0 & Japan & 42.6340602 & 141.6055453 & 1 & 0 & 4 & 0 \\
+Tondabayashi & 113984.0 & Japan & 34.478781 & 135.595519 & 1 & 0 & 3 & 0 \\
+Toride & 106570.0 & Japan & 35.9115323 & 140.050178 & 1 & 0 & 0 & 0 \\
+Tottori & 193717.0 & Japan & 35.3555075 & 133.8678525 & 1 & 0 & 0 & 0 \\
+Toyama & 418686.0 & Japan & 36.6468015 & 137.2183531 & 1 & 0 & 1 & 0 \\
+Toyohashi & 374765.0 & Japan & 34.769123 & 137.391461 & 1 & 0 & 2 & 0 \\
+Toyokawa & 182436.0 & Japan & 34.827644 & 137.378586 & 1 & 0 & 1 & 0 \\
+Toyonaka & 395479.0 & Japan & 34.7862025 & 135.4737093 & 1 & 0 & 1 & 0 \\
+Toyota & 422542.0 & Japan & 35.15195 & 137.301478 & 1 & 0 & 0 & 0 \\
+Tsu & 279886.0 & Japan & 34.7341973 & 136.5153283 & 1 & 0 & 3 & 0 \\
+Tsuchiura & 140804.0 & Japan & 36.0786297 & 140.2045934 & 1 & 0 & 2 & 0 \\
+Tsukuba & 226963.0 & Japan & 36.0833877 & 140.0765098 & 1 & 0 & 0 & 0 \\
+Tsuruoka & 129652.0 & Japan & 38.7272187 & 139.8266292 & 1 & 0 & 2 & 0 \\
+Tsuyama & 103746.0 & Japan & 35.0691284 & 134.0043355 & 1 & 0 & 4 & 0 \\
+Ube & 169429.0 & Japan & 33.9516458 & 131.2468368 & 1 & 0 & 4 & 0 \\
+Ueda & 156827.0 & Japan & 36.4021192 & 138.2490506 & 1 & 0 & 2 & 0 \\
+Uji & 184678.0 & Japan & 34.8933744 & 135.8059219 & 1 & 0 & 0 & 0 \\
+Urasoe & 114232.0 & Japan & 26.249754 & 127.716591 & 1 & 0 & 1 & 0 \\
+Urayasu & 164024.0 & Japan & 35.6530518 & 139.9018495 & 1 & 0 & 0 & 0 \\
+Uruma & 118898.0 & Japan & 26.384705 & 127.851324 & 1 & 0 & 2 & 0 \\
+Utsunomiya & 518594.0 & Japan & 36.5549677 & 139.8828776 & 2 & 0 & 0 & 0 \\
+Wakayama & 364154.0 & Japan & 34.234617 & 135.1782181 & 1 & 0 & 2 & 0 \\
+Yachiyo & 193152.0 & Japan & 35.722537 & 140.0995131 & 1 & 0 & 1 & 0 \\
+Yaizu & 139462.0 & Japan & 34.830312 & 138.30381 & 1 & 0 & 3 & 0 \\
+Yamagata & 253832.0 & Japan & 38.4746705 & 140.083237 & 1 & 0 & 0 & 0 \\
+Yamaguchi & 197422.0 & Japan & 34.2379614 & 131.5873845 & 1 & 0 & 0 & 0 \\
+Yamato & 232922.0 & Japan & 32.699616 & 131.049859 & 1 & 0 & 0 & 0 \\
+Yao & 268800.0 & Japan & 34.626275 & 135.605845 & 1 & 0 & 0 & 0 \\
+Yatsushiro & 127472.0 & Japan & 32.5081425 & 130.6020211 & 1 & 0 & 3 & 0 \\
+Yokkaichi & 311031.0 & Japan & 34.9648428 & 136.624845 & 1 & 0 & 3 & 0 \\
+Yokohama & 3724844.0 & Japan & 35.444991 & 139.636768 & 3 & 0 & 0 & 0 \\
+Yokosuka & 406586.0 & Japan & 35.2730564 & 139.6653829 & 1 & 0 & 4 & 0 \\
+Yonago & 149313.0 & Japan & 35.4276408 & 133.331459 & 1 & 0 & 3 & 0 \\
+Zama & 128737.0 & Japan & 35.499205 & 139.420453 & 1 & 0 & 0 & 1 \\
+AMMAN & 3728346.0 & Jordan & 31.9515694 & 35.9239625 & 3 & 0 & 0 & 0 \\
+Aqaba & 160265.0 & Jordan & 29.526702 & 35.007822 & 1 & 0 & 0 & 0 \\
+Irbid & 542884.0 & Jordan & 32.5556091 & 35.8493023 & 2 & 0 & 2 & 0 \\
+Madaba & 113771.0 & Jordan & 31.7165941 & 35.7943856 & 1 & 0 & 0 & 0 \\
+Mafraq & 114490.0 & Jordan & 32.53637879999999 & 38.13152652312604 & 1 & 0 & 0 & 0 \\
+Ramtha & 168134.0 & Jordan & 32.559167 & 36.006944 & 1 & 0 & 0 & 0 \\
+Salt & 107874.0 & Jordan & 40.4991071 & -111.9543906 & 1 & 0 & 9 & 0 \\
+Zarqa & 685941.0 & Jordan & 32.0668425 & 36.0885771 & 2 & 0 & 4 & 0 \\
+Aktau & 182415.0 & Kazakhstan & 43.652058 & 51.157997 & 1 & 0 & 1 & 0 \\
+Aktobe & 482523.0 & Kazakhstan & 50.2796448 & 57.2124606 & 1 & 0 & 0 & 0 \\
+Almaty & 1828324.5 & Kazakhstan & 43.2363924 & 76.9457275 & 3 & 0 & 0 & 0 \\
+ASTANA & 1054480.5 & Kazakhstan & 51.1282205 & 71.4306682 & 3 & 0 & 0 & 0 \\
+Atirau & 267762.0 & Kazakhstan & 47.1053426 & 51.9244533 & 1 & 0 & 3 & 0 \\
+Ekibastuz & 143348.0 & Kazakhstan & 51.7228928 & 75.3169789 & 1 & 0 & 0 & 0 \\
+Karaganda & 499467.0 & Kazakhstan & 49.8161282 & 73.1026622 & 1 & 0 & 0 & 0 \\
+Kustanai & 241341.5 & Kazakhstan & 53.2146604 & 63.632607 & 1 & 0 & 0 & 0 \\
+Kyzylorda & 271069.0 & Kazakhstan & 44.857548 & 65.493294 & 1 & 0 & 0 & 0 \\
+Pavlodar & 344343.0 & Kazakhstan & 52.2839774 & 76.9646409 & 1 & 0 & 2 & 0 \\
+Rudni & 129507.0 & Kazakhstan & 52.964458 & 63.133488 & 1 & 0 & 0 & 0 \\
+Semipalatinsk & 326272.5 & Kazakhstan & 50.405029 & 80.249176 & 1 & 0 & 0 & 0 \\
+Shimkent & 980628.0 & Kazakhstan & 42.3088165 & 69.5337955 & 2 & 0 & 0 & 0 \\
+Taldykorgan & 145288.0 & Kazakhstan & 45.0164138 & 78.3791841 & 1 & 0 & 0 & 0 \\
+Taraz & 356808.0 & Kazakhstan & 42.8943882 & 71.3920902 & 1 & 0 & 0 & 0 \\
+Temirtau & 186109.5 & Kazakhstan & 50.0506837 & 72.966066 & 1 & 0 & 0 & 0 \\
+Turkestan & 163142.5 & Kazakhstan & 43.298692 & 68.26296 & 1 & 0 & 0 & 0 \\
+Uralsk & 301330.0 & Kazakhstan & 51.222382 & 51.373421 & 1 & 0 & 0 & 0 \\
+Ust-Kamenogorsk & 330352.0 & Kazakhstan & 49.95649 & 82.611923 & 1 & 0 & 2 & 0 \\
+Hawalli & 127982.436734706 & Kuwait & 29.32287695 & 48.11628897398228 & 1 & 0 & 4 & 0 \\
+Salmiya & 177008.528854141 & Kuwait & 29.3328242 & 48.0684884 & 1 & 0 & 1 & 0 \\
+BISHKEK & 976734.0 & Kyrgyzstan & 42.8765615 & 74.6070079 & 2 & 0 & 4 & 0 \\
+Osh & 256763.0 & Kyrgyzstan & 40.5361899 & 72.8033618 & 1 & 0 & 1 & 0 \\
+Alor Setar & 134611.0 & Malaysia & 6.1231908 & 100.3683962 & 1 & 0 & 2 & 0 \\
+Georgetown & 224256.0 & Malaysia & 5.4145681 & 100.3298035 & 1 & 0 & 0 & 0 \\
+Kajang dan Sungai Chua & 113053.0 & Malaysia & 2.9941172 & 101.7863137 & 1 & 0 & 1 & 0 \\
+Klang & 292134.0 & Malaysia & 3.0431253 & 101.4496105689314 & 1 & 0 & 3 & 0 \\
+Kota Kinabalu & 248893.0 & Malaysia & 5.9780066 & 116.0728988 & 1 & 0 & 3 & 0 \\
+KUALA LUMPUR & 1824323.0 & Malaysia & 3.1516964 & 101.6942371 & 3 & 0 & 0 & 0 \\
+Kuala Terengganu & 241583.0 & Malaysia & 5.3297015 & 103.138313 & 1 & 0 & 0 & 0 \\
+Kuantan & 412022.0 & Malaysia & 3.8196701 & 103.3292235 & 1 & 0 & 3 & 0 \\
+Majlis Perbandaran Ipoh & 483299.0 & Malaysia & 3.2606729 & 101.6537404 & 1 & 0 & 1 & 0 \\
+MB Johor Bahru (Johor Bahru) & 510788.0 & Malaysia & 1.4953041 & 103.7550839 & 2 & 0 & 1 & 0 \\
+MP Kota Bharu & 325913.0 & Malaysia & 6.1256053 & 102.2393455 & 1 & 0 & 0 & 0 \\
+Petaling Jaya & 215152.0 & Malaysia & 3.1055929 & 101.642697 & 1 & 0 & 0 & 0 \\
+Sandakan & 199648.0 & Malaysia & 5.8391337 & 118.1158919 & 1 & 0 & 2 & 0 \\
+Selayang Baru & 183759.0 & Malaysia & 3.2477797 & 101.6738641 & 1 & 0 & 0 & 0 \\
+Seremban & 378429.0 & Malaysia & 2.7187881 & 101.9404509 & 1 & 0 & 1 & 0 \\
+Shah Alam & 192055.0 & Malaysia & 3.0898294 & 101.5311626484375 & 1 & 0 & 1 & 0 \\
+Subang Jaya & 208353.0 & Malaysia & 3.0846122 & 101.5871573 & 1 & 0 & 0 & 0 \\
+Sungai Petani & 199141.0 & Malaysia & 5.6435195 & 100.4869513 & 1 & 0 & 1 & 0 \\
+Taiping & 241470.0 & Malaysia & 4.8546772 & 100.7438831 & 1 & 0 & 1 & 0 \\
+Tawau & 145022.0 & Malaysia & 4.2434583 & 117.8853513 & 1 & 0 & 4 & 0 \\
+ULAANBAATAR & 1477174.0 & Mongolia & 47.9184676 & 106.9177016 & 3 & 0 & 3 & 0 \\
+Bharatpur & 143836.0 & Nepal & 27.6806257 & 84.4307567 & 1 & 0 & 0 & 0 \\
+Biratnagar & 201125.0 & Nepal & 26.4623007 & 87.281617 & 1 & 0 & 0 & 0 \\
+Birgunj & 135904.0 & Nepal & 27.012541 & 84.877998 & 1 & 0 & 0 & 0 \\
+Butwal & 118462.0 & Nepal & 27.699894 & 83.465996 & 1 & 0 & 1 & 0 \\
+Dhangadhi & 101970.0 & Nepal & 28.703304 & 80.567017 & 1 & 0 & 0 & 0 \\
+Dharan & 116181.0 & Nepal & 26.7918088 & 87.27520784873812 & 1 & 0 & 1 & 0 \\
+KATHMANDU & 975453.0 & Nepal & 27.708317 & 85.3205817 & 2 & 0 & 2 & 0 \\
+Lalitpur & 220802.0 & Nepal & 27.6676649 & 85.3183888179628 & 1 & 0 & 2 & 0 \\
+Pokhara & 255465.0 & Nepal & 28.209538 & 83.991402 & 1 & 0 & 0 & 0 \\
+Al Mudaybi & 118164.0 & Oman & 22.57 & 58.12 & 1 & 0 & 0 & 0 \\
+Al Rustaq & 122985.0 & Oman & 23.77729485 & 57.78447565275601 & 1 & 0 & 0 & 0 \\
+As Seeb & 406771.0 & Oman & 23.6821956 & 58.1843842 & 1 & 0 & 3 & 0 \\
+As Suwayq & 181448.0 & Oman & 23.84983435 & 57.43452939030157 & 1 & 0 & 0 & 0 \\
+Barka & 151158.0 & Oman & 23.6676462 & 57.8836158 & 1 & 0 & 0 & 0 \\
+Bawshar & 372405.0 & Oman & 23.56 & 58.41 & 1 & 1 & 2 & 0 \\
+Ibri & 171555.0 & Oman & 23.2178676 & 56.4921938 & 1 & 0 & 0 & 0 \\
+MUSCAT & 315443.0 & Oman & 23.5997857 & 58.5451305 & 1 & 0 & 8 & 0 \\
+Mutrah & 226219.0 & Oman & 23.618733 & 58.5657654 & 1 & 0 & 7 & 0 \\
+Nizwa & 127180.0 & Oman & 22.9323884 & 57.5311 & 1 & 0 & 0 & 0 \\
+Saham & 150416.0 & Oman & 24.142469 & 56.8757899 & 1 & 0 & 0 & 0 \\
+Salalah & 368159.0 & Oman & 17.0209365 & 54.0894341 & 1 & 0 & 4 & 0 \\
+Sohar & 237632.0 & Oman & 24.3445577 & 56.7424766 & 1 & 0 & 3 & 0 \\
+Sur & 121061.0 & Oman & 22.5694263 & 59.5297203 & 1 & 0 & 1 & 0 \\
+Gujranwala & 2027001.0 & Pakistan & 32.1525312 & 74.1933745 & 3 & 0 & 2 & 0 \\
+Hyderabad & 1732693.0 & Pakistan & 25.3801017 & 68.3750376 & 3 & 0 & 2 & 0 \\
+ISLAMABAD & 1014825.0 & Pakistan & 33.6938118 & 73.0651511 & 3 & 0 & 5 & 0 \\
+Lahore & 11126285.0 & Pakistan & 31.5656079 & 74.3141775 & 5 & 0 & 1 & 0 \\
+Multan & 1871843.0 & Pakistan & 30.1979793 & 71.4724978 & 3 & 0 & 3 & 0 \\
+Peshawar & 1970042.0 & Pakistan & 34.0123846 & 71.5787458 & 3 & 0 & 0 & 0 \\
+Quetta & 1001205.0 & Pakistan & 30.1957422 & 67.017246 & 3 & 0 & 1 & 0 \\
+Rawalpindi & 2098231.0 & Pakistan & 33.6038766 & 73.048136 & 3 & 0 & 5 & 0 \\
+Angeles & 411634.0 & Philippines & 15.1399659 & 120.5879182 & 1 & 0 & 1 & 0 \\
+Bacolod & 561875.0 & Philippines & 10.6762836 & 122.9513786 & 2 & 0 & 1 & 0 \\
+Baguio & 345366.0 & Philippines & 16.412007 & 120.5933937 & 1 & 0 & 4 & 0 \\
+Butuan & 337063.0 & Philippines & 8.9478297 & 125.527228 & 1 & 0 & 3 & 0 \\
+Cagayan de Oro & 675950.0 & Philippines & 8.4754878 & 124.6421317 & 2 & 0 & 5 & 0 \\
+Caloocan & 1583978.0 & Philippines & 14.6571285 & 120.984107 & 3 & 0 & 3 & 0 \\
+Cebu & 922611.0 & Philippines & 10.45 & 123.84 & 2 & 0 & 0 & 0 \\
+Davao & 1632991.0 & Philippines & 7.0644576 & 125.6083647 & 3 & 0 & 3 & 0 \\
+General Santos & 594446.0 & Philippines & 6.112331 & 125.1717145 & 2 & 0 & 1 & 0 \\
+Iligan & 342618.0 & Philippines & 8.2281556 & 124.2411508 & 1 & 0 & 9 & 0 \\
+Iloilo & 447992.0 & Philippines & 10.9534597 & 122.5756326 & 1 & 0 & 0 & 0 \\
+Isabela & 112788.0 & Philippines & 17.0 & 122.0 & 1 & 0 & 0 & 0 \\
+Lapu-Lapu & 408112.0 & Philippines & 10.2998655 & 123.981597 & 1 & 0 & 3 & 0 \\
+Las Piñas & 588894.0 & Philippines & 14.4806089 & 120.9819099 & 2 & 0 & 4 & 0 \\
+Lucena City & 266248.0 & Philippines & 13.969011 & 121.6253716 & 1 & 0 & 14 & 0 \\
+Makati & 582602.0 & Philippines & 14.5568853 & 121.023532 & 2 & 0 & 0 & 0 \\
+Malabon & 365525.0 & Philippines & 14.6747254 & 120.958105164534 & 1 & 0 & 14 & 0 \\
+Mandaluyong & 386276.0 & Philippines & 14.5777807 & 121.0332295 & 1 & 0 & 1 & 0 \\
+Mandaue & 362654.0 & Philippines & 10.3437068 & 123.9422789 & 1 & 0 & 10 & 0 \\
+MANILA & 1780148.0 & Philippines & 14.5906216 & 120.9799696 & 3 & 0 & 1 & 0 \\
+Marikina & 450741.0 & Philippines & 14.6331084 & 121.0993541 & 1 & 0 & 0 & 0 \\
+Muntinlupa & 504509.0 & Philippines & 14.3940614 & 121.0410436 & 2 & 0 & 2 & 0 \\
+Navotas & 249463.0 & Philippines & 14.6571862 & 120.9479692 & 1 & 0 & 5 & 0 \\
+Olongapo & 233040.0 & Philippines & 14.8314675 & 120.2835205 & 1 & 0 & 8 & 0 \\
+Paranaque & 665822.0 & Philippines & 14.5007016 & 120.9915488 & 2 & 0 & 2 & 0 \\
+Pasay & 416522.0 & Philippines & 14.5436995 & 120.9946503 & 1 & 0 & 1 & 0 \\
+Pasig & 755300.0 & Philippines & 14.5605501 & 121.0764246 & 2 & 0 & 2 & 0 \\
+Puerto Princesa & 255116.0 & Philippines & 9.7376025 & 118.7350414 & 1 & 0 & 1 & 0 \\
+Quezon City & 2936116.0 & Philippines & 14.6509905 & 121.0486155 & 3 & 0 & 2 & 0 \\
+San Juan & 122180.0 & Philippines & 14.60474 & 121.0300488 & 1 & 0 & 2 & 0 \\
+Tacloban & 242089.0 & Philippines & 11.2430274 & 125.0081402 & 1 & 0 & 7 & 0 \\
+Taguig & 804915.0 & Philippines & 14.5266254 & 121.074403 & 2 & 0 & 3 & 0 \\
+Valenzuela & 620422.0 & Philippines & 14.707735 & 120.9461718 & 2 & 0 & 11 & 0 \\
+Zamboanga & 861799.0 & Philippines & 6.9046004 & 122.0763695 & 2 & 0 & 12 & 0 \\
+Al-Rayyan & 605712.0 & Qatar & 25.296619 & 51.434626 & 2 & 0 & 8 & 0 \\
+Al-Wakrah & 299037.0 & Qatar & 25.1566623 & 51.6013212 & 1 & 0 & 4 & 0 \\
+DOHA & 956457.0 & Qatar & 25.2856329 & 51.5264162 & 2 & 0 & 1 & 0 \\
+Busan (Pusan) & 3428923.0 & South Korea & 35.1157262 & 129.0399028 & 3 & 0 & 1 & 0 \\
+Daegu (Taegu) & 2465268.0 & South Korea & 35.8760146 & 128.5960624203546 & 3 & 0 & 8 & 0 \\
+Daejeon (Taejon) & 1531256.0 & South Korea & 36.3320506 & 127.4338196 & 3 & 0 & 6 & 0 \\
+Incheon & 2923047.0 & South Korea & 37.456 & 126.7052 & 3 & 0 & 8 & 0 \\
+Jeju (Cheju) & 634161.0 & South Korea & 33.3939924 & 126.5626653 & 2 & 0 & 0 & 0 \\
+Sejong & 275594.0 & South Korea & 36.4799999 & 127.289 & 1 & 0 & 3 & 0 \\
+SEOUL & 9776305.0 & South Korea & 37.5666791 & 126.9782914 & 4 & 0 & 0 & 0 \\
+Ulsan & 1165646.0 & South Korea & 35.5391697 & 129.3119136 & 3 & 0 & 8 & 0 \\
+Abha & 236157.0 & Saudi Arabia & 18.2164282 & 42.5043596 & 1 & 0 & 3 & 0 \\
+Ad-Dammam & 903312.0 & Saudi Arabia & 26.4367824 & 50.1039991 & 2 & 0 & 2 & 0 \\
+Al-Hawiyah & 148151.0 & Saudi Arabia & 21.4448658 & 40.5029502 & 1 & 0 & 3 & 0 \\
+Al-Hufuf & 660788.0 & Saudi Arabia & 25.3696585 & 49.5865224 & 2 & 0 & 2 & 0 \\
+Al-Jubayl & 337778.0 & Saudi Arabia & 27.0006968 & 49.6532161 & 1 & 0 & 3 & 0 \\
+Al-Khubar & 219679.0 & Saudi Arabia & 26.3039999 & 50.1960237 & 1 & 0 & 0 & 0 \\
+Al-Madinah & 1100093.0 & Saudi Arabia & 22.2826324 & 39.1336357 & 3 & 0 & 1 & 0 \\
+Al-Qatif & 118327.0 & Saudi Arabia & 26.52 & 50.024722 & 1 & 0 & 1 & 0 \\
+Ar'ar & 167057.0 & Saudi Arabia & 30.9815531 & 41.0164788 & 1 & 0 & 6 & 0 \\
+Ath-Thuqbah & 238066.0 & Saudi Arabia & 26.269444 & 50.198611 & 1 & 0 & 1 & 0 \\
+At-Ta'if & 579970.0 & Saudi Arabia & 21.270278 & 40.415833 & 2 & 0 & 4 & 0 \\
+Buraydah & 467410.0 & Saudi Arabia & 26.331667 & 43.971667 & 1 & 0 & 4 & 0 \\
+Dhahran & 120521.0 & Saudi Arabia & 26.2966528 & 50.1202146 & 1 & 0 & 1 & 0 \\
+Hafar al-Batin & 271642.0 & Saudi Arabia & 28.4328084 & 45.9627527 & 1 & 0 & 5 & 0 \\
+Jiddah & 3430697.0 & Saudi Arabia & 21.5810088 & 39.1653612 & 3 & 0 & 0 & 0 \\
+Makkah & 1534731.0 & Saudi Arabia & 21.420847 & 39.826869 & 3 & 0 & 4 & 0 \\
+Najran (Aba as-Suud) & 298288.0 & Saudi Arabia & 17.466667 & 44.1 & 1 & 0 & 0 & 0 \\
+RIYADH & 5188286.0 & Saudi Arabia & 24.6319692 & 46.7150648 & 4 & 0 & 0 & 0 \\
+Sekaka & 150257.0 & Saudi Arabia & 24.6206548 & 46.5602774 & 1 & 0 & 2 & 0 \\
+Yanbu al-Bahr & 233236.0 & Saudi Arabia & 24.0889015 & 38.0666798 & 1 & 0 & 2 & 0 \\
+SINGAPORE & 5638676.0 & Singapore & 1.357107 & 103.8194992 & 4 & 0 & 0 & 0 \\
+COLOMBO & 647100.0 & Sri Lanka & 6.9349969 & 79.8538463 & 2 & 0 & 1 & 0 \\
+Dehiwala-Mount Lavinia & 210546.0 & Sri Lanka & 6.8677957 & 79.86729 & 1 & 0 & 0 & 0 \\
+Kandy & 109343.0 & Sri Lanka & 7.2930922 & 80.6350768 & 1 & 0 & 2 & 0 \\
+Moratuwa & 177563.0 & Sri Lanka & 6.7746821 & 79.8826095 & 1 & 0 & 1 & 0 \\
+Negombo & 121701.0 & Sri Lanka & 7.2094282 & 79.833117 & 1 & 0 & 2 & 0 \\
+Sri Jayawardanapura Kotte & 116366.0 & Sri Lanka & 6.8712224 & 79.9238276 & 1 & 0 & 4 & 0 \\
+Gaza & 583447.0 & Palestinian Territory & 31.4331663 & 34.3779285 & 2 & 0 & 0 & 0 \\
+Hebron & 199319.0 & Palestinian Territory & 31.528902 & 35.0944873 & 1 & 0 & 1 & 0 \\
+Jabalya & 170646.0 & Palestinian Territory & 31.5328984 & 34.4954794 & 1 & 0 & 0 & 0 \\
+Khan Yunis & 202682.0 & Palestinian Territory & 31.3457612 & 34.3025277 & 1 & 0 & 0 & 0 \\
+Nablus & 155545.0 & Palestinian Territory & 32.2204986 & 35.2568883 & 1 & 0 & 0 & 0 \\
+Rafah & 169851.0 & Palestinian Territory & 31.2752047 & 34.2558269 & 1 & 0 & 0 & 0 \\
+Aleppo & 4450000.0 & Syria & 36.19924 & 37.1637253 & 3 & 0 & 1 & 0 \\
+Al-Hasakeh & 1392000.0 & Syria & 36.5013738 & 40.7469948 & 3 & 0 & 0 & 0 \\
+Al-Sweida & 349000.0 & Syria & 32.7093878 & 36.5687496 & 1 & 0 & 0 & 0 \\
+DAMASCUS & 1680000.0 & Syria & 33.5130695 & 36.3095814 & 3 & 0 & 0 & 0 \\
+Hama & 1508000.0 & Syria & 35.1343368 & 36.7496276 & 3 & 0 & 1 & 0 \\
+Homs & 1667000.0 & Syria & 34.7333334 & 36.7166667 & 3 & 0 & 0 & 0 \\
+Idleb & 1376000.0 & Syria & 35.9333588 & 36.64206218587738 & 3 & 0 & 0 & 0 \\
+Lattakia & 951000.0 & Syria & 35.5200185 & 35.7781044 & 2 & 0 & 0 & 0 \\
+Tartous & 756000.0 & Syria & 34.8936225 & 35.885167 & 2 & 0 & 0 & 0 \\
+DUSHANBE & 823787.0 & Tajikistan & 38.5425835 & 68.81521423589763 & 2 & 0 & 1 & 0 \\
+Khujand & 176710.0 & Tajikistan & 40.2828032 & 69.6389657 & 1 & 0 & 0 & 0 \\
+DILI & 222323.0 & Timor-Leste & -8.5536809 & 125.5784093 & 1 & 0 & 0 & 0 \\
+Afyonkarahisar & 229810.0 & Turkey & 38.6852729 & 30.6427411 & 1 & 0 & 0 & 0 \\
+Ağrı & 117431.0 & Turkey & 39.52916 & 43.3835645 & 1 & 0 & 0 & 0 \\
+Aksaray & 220459.0 & Turkey & 38.4326291 & 33.8976963 & 1 & 0 & 0 & 0 \\
+Amasya & 109240.0 & Turkey & 40.6569451 & 35.7727169 & 1 & 0 & 1 & 0 \\
+Batman & 411251.0 & Turkey & 37.7874104 & 41.2573924 & 1 & 0 & 0 & 0 \\
+Bingöl & 117014.0 & Turkey & 39.073803 & 40.7296181 & 1 & 0 & 0 & 0 \\
+Bolu & 168187.0 & Turkey & 40.6212099 & 31.6460259 & 1 & 0 & 0 & 0 \\
+Çanakkale & 132854.0 & Turkey & 40.0549886 & 26.9278292 & 1 & 0 & 0 & 0 \\
+Cizre & 118953.0 & Turkey & 37.3324529 & 42.1855166 & 1 & 0 & 1 & 0 \\
+Çorum & 265171.0 & Turkey & 40.5698389 & 34.7269292 & 1 & 0 & 0 & 0 \\
+Düzce & 169111.0 & Turkey & 40.8774545 & 31.2009618 & 1 & 0 & 2 & 0 \\
+Edirne & 166494.0 & Turkey & 41.6759327 & 26.5587225 & 1 & 0 & 2 & 0 \\
+Elazığ & 381794.0 & Turkey & 38.5824771 & 39.396179 & 1 & 0 & 0 & 0 \\
+Ereğli & 118030.0 & Turkey & 37.6808643 & 34.152448802436 & 1 & 0 & 0 & 0 \\
+Giresun & 112415.0 & Turkey & 40.6531617 & 38.5172032 & 1 & 0 & 0 & 0 \\
+Isparta & 230011.0 & Turkey & 37.9465412 & 30.9602093 & 1 & 0 & 0 & 0 \\
+Karabük & 119548.0 & Turkey & 41.1110349 & 32.6193901 & 1 & 0 & 0 & 0 \\
+Karaman & 158566.0 & Turkey & 37.1796848 & 33.3383665 & 1 & 0 & 0 & 0 \\
+Kastamonu & 116737.0 & Turkey & 41.3680217 & 33.7619177 & 1 & 0 & 1 & 0 \\
+Kırıkkale & 194828.0 & Turkey & 39.8860105 & 33.8278992 & 1 & 0 & 0 & 0 \\
+Kırşehir & 137290.0 & Turkey & 39.1461142 & 34.1605587 & 1 & 0 & 2 & 0 \\
+Kütahya & 244544.0 & Turkey & 39.2522508 & 29.4937732 & 1 & 0 & 0 & 0 \\
+Lüleburgaz & 117075.0 & Turkey & 41.4104176 & 27.40419314978128 & 1 & 0 & 2 & 0 \\
+Nevşehir & 106738.0 & Turkey & 38.7235072 & 34.7194168 & 1 & 0 & 0 & 0 \\
+Niğde & 141010.0 & Turkey & 38.0664691 & 34.7051438 & 1 & 0 & 0 & 0 \\
+Osmaniye & 233242.0 & Turkey & 37.2517882 & 36.2993502 & 1 & 0 & 0 & 0 \\
+Rize & 117664.0 & Turkey & 40.9347897 & 40.827136 & 1 & 0 & 0 & 0 \\
+Siirt & 148906.0 & Turkey & 37.8646916 & 42.0510294 & 1 & 0 & 0 & 0 \\
+Sivas & 344185.0 & Turkey & 39.4191717 & 37.1012388 & 1 & 0 & 0 & 0 \\
+Tokat & 152314.0 & Turkey & 40.327747 & 36.5539494 & 1 & 0 & 1 & 0 \\
+Uşak & 211187.0 & Turkey & 38.609666 & 29.3306506 & 1 & 0 & 0 & 0 \\
+Yalova & 119605.0 & Turkey & 40.6291846 & 29.2500262 & 1 & 0 & 0 & 0 \\
+Zonguldak & 108424.0 & Turkey & 41.250324 & 31.8389738 & 1 & 0 & 0 & 0 \\
+ABU DHABI & 527000.0 & United Arab Emirates & 24.4747961 & 54.3705762 & 2 & 0 & 1 & 0 \\
+Ajman & 205000.0 & United Arab Emirates & 25.4037872 & 55.52628406412467 & 1 & 0 & 5 & 0 \\
+Al-Sharjah & 488000.0 & United Arab Emirates & 25.29631605 & 55.39312932995378 & 1 & 0 & 4 & 0 \\
+Dubai & 1089000.0 & United Arab Emirates & 25.0750095 & 55.18876088183319 & 3 & 0 & 0 & 0 \\
+Andizhan & 427447.0 & Uzbekistan & 40.7833471 & 72.3506746 & 1 & 0 & 0 & 0 \\
+Bukhara & 276433.0 & Uzbekistan & 39.7675529 & 64.4231326 & 1 & 0 & 0 & 0 \\
+Fergana & 278510.0 & Uzbekistan & 40.3791469 & 71.7890479 & 1 & 0 & 0 & 0 \\
+Jizzax & 171734.0 & Uzbekistan & 40.1331797 & 67.8234081 & 1 & 0 & 0 & 0 \\
+Karshi & 267561.0 & Uzbekistan & 38.83998 & 65.7927948 & 1 & 0 & 0 & 0 \\
+Namangan & 600209.0 & Uzbekistan & 41.0036287 & 71.2611952 & 2 & 0 & 0 & 0 \\
+Navoi & 135548.0 & Uzbekistan & 40.1034582 & 65.3734221 & 1 & 0 & 0 & 0 \\
+Nukus & 310945.0 & Uzbekistan & 42.4586038 & 59.6058539 & 1 & 0 & 0 & 0 \\
+Samarkand & 529633.0 & Uzbekistan & 39.6550017 & 66.9756954 & 2 & 0 & 0 & 0 \\
+TASHKENT & 2464933.0 & Uzbekistan & 41.3123363 & 69.2787079 & 3 & 0 & 1 & 0 \\
+Termez & 143790.0 & Uzbekistan & 37.2290733 & 67.2761489 & 1 & 0 & 0 & 0 \\
+Urgentch & 140180.0 & Uzbekistan & 42.4325765 & 59.6489253 & 1 & 0 & 0 & 0 \\
+Adan & 684322.0 & Yemen & 12.833333 & 44.916667 & 2 & 0 & 0 & 0 \\
+SANA'A & 1976286.0 & Yemen & 15.3538569 & 44.2058841 & 3 & 0 & 0 & 0 \\
+MARIEHAMN & 11709.0 & Finland & 60.102423 & 19.94126 & 1 & 0 & 1 & 0 \\
+Durrës & 113249.0 & Albania & 41.423321 & 19.53883210920232 & 1 & 0 & 0 & 0 \\
+TIRANA & 418495.0 & Albania & 41.3268733 & 19.8187913 & 1 & 0 & 0 & 0 \\
+Graz & 286292.0 & Austria & 47.0708678 & 15.4382786 & 1 & 0 & 0 & 0 \\
+Innsbruck & 132493.0 & Austria & 47.26951525 & 11.39713720422106 & 1 & 0 & 1 & 0 \\
+Klagenfurt & 100369.0 & Austria & 46.6228162 & 14.3079604 & 1 & 0 & 2 & 0 \\
+Linz & 204846.0 & Austria & 48.3059078 & 14.286198 & 1 & 0 & 1 & 0 \\
+Salzburg & 153377.0 & Austria & 47.7981346 & 13.0464806 & 1 & 0 & 0 & 0 \\
+WIEN & 1888776.0 & Austria & 48.2083537 & 16.3725042 & 3 & 0 & 0 & 0 \\
+Baranovichi & 179166.0 & Belarus & 53.1322925 & 26.0184156 & 1 & 0 & 0 & 0 \\
+Bobruisk & 217546.0 & Belarus & 53.1449683 & 29.2281209 & 1 & 0 & 0 & 0 \\
+Borisov & 143051.0 & Belarus & 54.2240665 & 28.5117849 & 1 & 0 & 0 & 0 \\
+Brest & 347576.0 & Belarus & 52.093751 & 23.6851851 & 1 & 0 & 8 & 0 \\
+Brest & 139163.0 & France & 48.3905283 & -4.4860088 & 1 & 0 & 8 & 0 \\
+Grodno & 370919.0 & Belarus & 53.6834599 & 23.8342648 & 1 & 0 & 1 & 0 \\
+Lida & 101616.0 & Belarus & 53.8949515 & 25.295719 & 1 & 0 & 0 & 0 \\
+MINSK & 1982444.0 & Belarus & 53.902334 & 27.5618791 & 3 & 0 & 0 & 0 \\
+Mogilev & 381353.0 & Belarus & 53.60664785 & 31.95419137250911 & 1 & 0 & 0 & 0 \\
+Mozir & 111733.0 & Belarus & 52.0475464 & 29.2667179 & 1 & 0 & 0 & 0 \\
+Orsha & 115052.0 & Belarus & 54.5119008 & 30.4254486 & 1 & 0 & 0 & 0 \\
+Pinsk & 137961.0 & Belarus & 52.1113612 & 26.102377 & 1 & 0 & 0 & 0 \\
+Soligorsk & 106627.0 & Belarus & 52.7893039 & 27.5318168 & 1 & 0 & 1 & 0 \\
+Anderlecht & 108940.0 & Belgium & 50.8390983 & 4.3296526 & 1 & 0 & 0 & 0 \\
+Antwerpen (Anvers) & 498473.0 & Belgium & 51.2211097 & 4.3997081 & 1 & 0 & 0 & 0 \\
+Brugge & 117260.0 & Belgium & 51.2085526 & 3.226772 & 1 & 0 & 0 & 0 \\
+BRUXELLES (BRUSSEL) & 174383.0 & Belgium & 50.8465573 & 4.351697 & 1 & 0 & 0 & 0 \\
+Charleroi & 204150.0 & Belgium & 50.4120332 & 4.4436244 & 1 & 0 & 1 & 0 \\
+Gent (Gand) & 248358.0 & Belgium & 51.09988435 & 3.739013449056724 & 1 & 0 & 0 & 0 \\
+Liège (Luik) & 195965.0 & Belgium & 50.6451381 & 5.5734203 & 1 & 0 & 0 & 0 \\
+Namur & 110175.0 & Belgium & 50.4665284 & 4.8661892 & 1 & 0 & 3 & 0 \\
+Schaerbeek & 127525.0 & Belgium & 50.8676041 & 4.3737121 & 1 & 0 & 0 & 0 \\
+Burgas & 202694.0 & Bulgaria & 42.4466 & 27.20620689265119 & 1 & 0 & 0 & 0 \\
+Plovdiv & 345213.0 & Bulgaria & 42.1418541 & 24.7499297 & 1 & 0 & 1 & 0 \\
+Ruse & 144125.0 & Bulgaria & 43.8480413 & 25.9542057 & 1 & 0 & 0 & 0 \\
+SOFIA & 1238438.0 & Bulgaria & 42.6978634 & 23.3221789 & 3 & 0 & 0 & 0 \\
+Stara Zagora & 136307.0 & Bulgaria & 42.4247421 & 25.6257235 & 1 & 0 & 0 & 0 \\
+Varna & 335854.0 & Bulgaria & 43.2069025 & 27.9150855 & 1 & 0 & 2 & 0 \\
+Osijek & 108048.0 & Croatia & 45.5548753 & 18.6953593 & 1 & 0 & 1 & 0 \\
+Rijeka & 128624.0 & Croatia & 45.3271752 & 14.4412309 & 1 & 0 & 0 & 0 \\
+Split & 178102.0 & Croatia & 43.5116383 & 16.4399659 & 1 & 0 & 2 & 0 \\
+ZAGREB & 790017.0 & Croatia & 45.813177 & 15.977048 & 2 & 0 & 0 & 0 \\
+Brno & 379527.0 & Czech Republic & 49.1922443 & 16.6113382 & 1 & 0 & 1 & 0 \\
+Liberec & 103979.0 & Czech Republic & 50.7702648 & 15.0583947 & 1 & 0 & 2 & 0 \\
+Olomouc & 100494.0 & Czech Republic & 49.5940567 & 17.251143 & 1 & 0 & 0 & 0 \\
+Ostrava & 290450.0 & Czech Republic & 49.8349139 & 18.2820084 & 1 & 0 & 0 & 0 \\
+Plzen & 170936.0 & Czech Republic & 49.7477415 & 13.3775249 & 1 & 0 & 0 & 0 \\
+PRAHA & 1294513.0 & Czech Republic & 50.0874654 & 14.4212535 & 3 & 0 & 0 & 0 \\
+Ålborg & 213271.0 & Denmark & 57.0462626 & 9.9215263 & 1 & 0 & 1 & 0 \\
+Århus & 341497.0 & Denmark & 56.1496278 & 10.2134046 & 1 & 0 & 0 & 0 \\
+Esbjerg & 116061.0 & Denmark & 55.4664892 & 8.4520751 & 1 & 0 & 2 & 0 \\
+Frederiksberg & 103914.0 & Denmark & 55.678016 & 12.5326186 & 1 & 0 & 0 & 0 \\
+KOBENHAVN & 616098.0 & Denmark & 55.6867243 & 12.5700724 & 2 & 0 & 0 & 0 \\
+Odense & 202663.0 & Denmark & 55.3997225 & 10.3852104 & 1 & 0 & 2 & 0 \\
+Vejle & 114464.0 & Denmark & 55.7000057 & 9.5333238 & 1 & 0 & 3 & 0 \\
+TALLINN & 430805.0 & Estonia & 59.4372155 & 24.7453688 & 1 & 0 & 0 & 0 \\
+TÓRSHAVN & 13262.0 & Faroe Islands & 62.012 & -6.768 & 1 & 0 & 0 & 0 \\
+Espoo & 276814.0 & Finland & 60.2241869 & 24.6603626 & 1 & 0 & 6 & 0 \\
+HELSINKI & 639227.0 & Finland & 60.1674098 & 24.9425769 & 2 & 0 & 0 & 0 \\
+Jyvaskyla & 139519.0 & Finland & 62.2393002 & 25.745951 & 1 & 0 & 1 & 0 \\
+Kuopio & 117975.0 & Finland & 62.8241424 & 27.59456148448898 & 1 & 0 & 2 & 0 \\
+Lahti & 119513.0 & Finland & 60.9838761 & 25.6561814 & 1 & 0 & 1 & 0 \\
+Oulu & 201168.0 & Finland & 65.0118734 & 25.4716809 & 1 & 0 & 4 & 0 \\
+Tampere & 230064.0 & Finland & 61.4980214 & 23.7603118 & 1 & 0 & 0 & 0 \\
+Turku & 188637.0 & Finland & 60.4517531 & 22.2670522 & 1 & 0 & 1 & 0 \\
+Vantaa & 221184.0 & Finland & 60.3091871 & 25.0364526 & 1 & 0 & 2 & 0 \\
+Amiens & 132874.0 & France & 49.8941708 & 2.2956951 & 1 & 0 & 3 & 0 \\
+Angers & 151520.0 & France & 47.4739884 & -0.5515588 & 1 & 0 & 0 & 0 \\
+Besançon & 116676.0 & France & 47.2380222 & 6.0243622 & 1 & 0 & 1 & 0 \\
+Bordeaux & 249712.0 & France & 44.841225 & -0.5800364 & 1 & 0 & 0 & 0 \\
+Caen & 106260.0 & France & 49.1828008 & -0.3690815 & 1 & 0 & 2 & 0 \\
+Clermont-Ferrand & 141398.0 & France & 45.7774551 & 3.0819427 & 1 & 0 & 5 & 0 \\
+Dijon & 155114.0 & France & 47.3215806 & 5.0414701 & 1 & 0 & 7 & 0 \\
+Grenoble & 160649.0 & France & 45.1875602 & 5.7357819 & 1 & 0 & 2 & 0 \\
+Le Havre & 172366.0 & France & 49.4938975 & 0.1079732 & 1 & 0 & 0 & 0 \\
+Le Mans & 143325.0 & France & 48.0073498 & 0.1967379 & 1 & 0 & 8 & 0 \\
+Lille & 232741.0 & France & 50.6365654 & 3.0635282 & 1 & 0 & 0 & 0 \\
+Limoges & 133627.0 & France & 45.8354243 & 1.2644847 & 1 & 0 & 4 & 0 \\
+Lyon & 513275.0 & France & 45.7578137 & 4.8320114 & 2 & 0 & 1 & 0 \\
+Marseille & 861635.0 & France & 43.2961743 & 5.3699525 & 2 & 0 & 0 & 0 \\
+Metz & 117492.0 & France & 49.1196964 & 6.1763552 & 1 & 0 & 6 & 0 \\
+Montpellier & 277639.0 & France & 43.6112422 & 3.8767337 & 1 & 0 & 1 & 0 \\
+Mulhouse & 110370.0 & France & 47.7467 & 7.3389275 & 1 & 0 & 4 & 0 \\
+Nancy & 105162.0 & France & 48.6937223 & 6.1834097 & 1 & 0 & 2 & 0 \\
+Nantes & 303382.0 & France & 47.2186371 & -1.5541362 & 1 & 0 & 0 & 0 \\
+Nice & 342522.0 & France & 43.7009358 & 7.2683912 & 1 & 0 & 0 & 0 \\
+Orléans & 114644.0 & France & 47.9027336 & 1.9086066 & 1 & 0 & 7 & 0 \\
+PARIS & 2206488.0 & France & 48.8566969 & 2.3514616 & 3 & 0 & 0 & 0 \\
+Perpignan & 121934.0 & France & 42.6985304 & 2.8953121 & 1 & 0 & 5 & 0 \\
+Reims & 184076.0 & France & 49.2577886 & 4.031926 & 1 & 0 & 4 & 0 \\
+Rennes & 215366.0 & France & 48.1113387 & -1.6800198 & 1 & 0 & 3 & 0 \\
+Rouen & 110169.0 & France & 49.4404591 & 1.0939658 & 1 & 0 & 4 & 0 \\
+Saint-Étienne & 171057.0 & France & 45.4401467 & 4.3873058 & 1 & 0 & 4 & 0 \\
+Strasbourg & 277270.0 & France & 48.584614 & 7.7507127 & 1 & 0 & 3 & 0 \\
+Toulon & 167479.0 & France & 43.1257311 & 5.9304919 & 1 & 0 & 3 & 0 \\
+Toulouse & 471941.0 & France & 43.6044622 & 1.4442469 & 1 & 0 & 0 & 0 \\
+Tours & 136252.0 & France & 47.3900474 & 0.6889268 & 1 & 0 & 1 & 0 \\
+Aachen & 246272.0 & Germany & 50.776351 & 6.083862 & 1 & 0 & 0 & 0 \\
+Augsburg & 292851.0 & Germany & 48.3668041 & 10.8986971 & 1 & 0 & 0 & 0 \\
+Bergisch Gladbach & 111627.0 & Germany & 50.9929303 & 7.1277379 & 1 & 0 & 0 & 0 \\
+BERLIN & 3613495.0 & Germany & 52.5170365 & 13.3888599 & 3 & 0 & 0 & 0 \\
+Bielefeld & 332552.0 & Germany & 52.0191005 & 8.531007 & 1 & 0 & 1 & 0 \\
+Bochum & 365529.0 & Germany & 51.4818111 & 7.2196635 & 1 & 0 & 0 & 0 \\
+Bonn & 325490.0 & Germany & 50.735851 & 7.10066 & 1 & 0 & 0 & 0 \\
+Bottrop & 117364.0 & Germany & 51.521581 & 6.929204 & 1 & 0 & 3 & 0 \\
+Braunschweig & 248023.0 & Germany & 52.2646577 & 10.5236066 & 1 & 0 & 0 & 0 \\
+Bremen & 568006.0 & Germany & 53.0758196 & 8.8071646 & 2 & 0 & 1 & 1 \\
+Bremerhaven & 113026.0 & Germany & 53.5522264 & 8.5865509 & 1 & 0 & 0 & 0 \\
+Chemnitz & 246855.0 & Germany & 50.8322608 & 12.9252977 & 1 & 0 & 0 & 0 \\
+Cottbus & 101036.0 & Germany & 51.7567447 & 14.3357307 & 1 & 0 & 3 & 0 \\
+Darmstadt & 158254.0 & Germany & 49.872775 & 8.651177 & 1 & 0 & 0 & 0 \\
+Dortmund & 586600.0 & Germany & 51.5142273 & 7.4652789 & 2 & 0 & 0 & 0 \\
+Dresden & 551072.0 & Germany & 51.0493286 & 13.7381437 & 2 & 0 & 0 & 0 \\
+Duisburg & 498110.0 & Germany & 51.434999 & 6.759562 & 1 & 0 & 0 & 2 \\
+Düsseldorf & 617280.0 & Germany & 51.2254018 & 6.7763137 & 2 & 0 & 0 & 0 \\
+Erfurt & 212988.0 & Germany & 50.9777974 & 11.0287364 & 1 & 0 & 2 & 0 \\
+Erlangen & 110998.0 & Germany & 49.5981187 & 11.003645 & 1 & 0 & 0 & 0 \\
+Essen & 583393.0 & Germany & 51.4582235 & 7.0158171 & 2 & 0 & 0 & 0 \\
+Frankfurt am Main & 746878.0 & Germany & 50.1106444 & 8.6820917 & 2 & 0 & 0 & 0 \\
+Freiburg im Breisgau & 229636.0 & Germany & 47.9960901 & 7.8494005 & 1 & 0 & 0 & 0 \\
+Fürth & 126526.0 & Germany & 49.477263 & 10.989616 & 1 & 0 & 2 & 0 \\
+Gelsenkirchen & 260305.0 & Germany & 51.5110321 & 7.0960124 & 1 & 0 & 0 & 1 \\
+Göttingen & 119529.0 & Germany & 51.5327604 & 9.9352051 & 1 & 0 & 1 & 0 \\
+Hagen & 187730.0 & Germany & 51.3582945 & 7.473296 & 1 & 0 & 1 & 0 \\
+Halle (Saale) & 239173.0 & Germany & 51.4825041 & 11.9705452 & 1 & 0 & 3 & 0 \\
+Hamburg & 1830584.0 & Germany & 53.5437641 & 10.0099133 & 3 & 0 & 0 & 0 \\
+Hamm & 179185.0 & Germany & 51.6804093 & 7.815197 & 1 & 0 & 2 & 0 \\
+Hannover & 535061.0 & Germany & 52.3744779 & 9.7385532 & 2 & 0 & 0 & 1 \\
+Heidelberg & 160601.0 & Germany & 49.4093582 & 8.694724 & 1 & 0 & 0 & 0 \\
+Heilbronn & 125113.0 & Germany & 49.142291 & 9.218655 & 1 & 0 & 0 & 0 \\
+Herne & 156490.0 & Germany & 51.5380394 & 7.219985 & 1 & 0 & 4 & 0 \\
+Hildesheim & 101744.0 & Germany & 52.1521636 & 9.9513046 & 1 & 0 & 1 & 0 \\
+Ingolstadt & 135244.0 & Germany & 48.7630165 & 11.4250395 & 1 & 0 & 0 & 0 \\
+Jena & 111099.0 & Germany & 50.9281717 & 11.5879359 & 1 & 0 & 2 & 0 \\
+Karlsruhe & 311919.0 & Germany & 49.0068705 & 8.4034195 & 1 & 0 & 0 & 0 \\
+Kassel & 200736.0 & Germany & 51.3154546 & 9.4924096 & 1 & 0 & 0 & 0 \\
+Kiel & 247943.0 & Germany & 54.3227085 & 10.135555 & 1 & 0 & 2 & 0 \\
+Koblenz & 113844.0 & Germany & 50.3533278 & 7.5943951 & 1 & 0 & 0 & 0 \\
+Köln & 1080394.0 & Germany & 50.938361 & 6.959974 & 3 & 0 & 0 & 0 \\
+Krefeld & 226699.0 & Germany & 51.3331205 & 6.5623343 & 1 & 0 & 0 & 2 \\
+Leipzig & 581980.0 & Germany & 51.3406321 & 12.3747329 & 2 & 0 & 0 & 6 \\
+Leverkusen & 163577.0 & Germany & 51.0324743 & 6.9881194 & 1 & 0 & 4 & 0 \\
+Lübeck & 216318.0 & Germany & 53.866444 & 10.684738 & 1 & 0 & 3 & 0 \\
+Ludwigshafen am Rhein & 168497.0 & Germany & 49.4704113 & 8.4381568 & 1 & 0 & 0 & 0 \\
+Magdeburg & 238478.0 & Germany & 52.1315889 & 11.6399609 & 1 & 0 & 0 & 0 \\
+Mainz & 215110.0 & Germany & 50.0012314 & 8.2762513 & 1 & 0 & 2 & 0 \\
+Mannheim & 307997.0 & Germany & 49.489591 & 8.467236 & 1 & 0 & 0 & 0 \\
+Moers & 103949.0 & Germany & 51.451283 & 6.62843 & 1 & 0 & 2 & 0 \\
+Mönchengladbach & 262188.0 & Germany & 51.1946983 & 6.4353641 & 1 & 0 & 1 & 0 \\
+Mülheim an der Ruhr & 171265.0 & Germany & 51.4272925 & 6.8829192 & 1 & 0 & 2 & 0 \\
+München & 1456039.0 & Germany & 48.1371079 & 11.5753822 & 3 & 0 & 0 & 0 \\
+Münster (Westf.) & 313559.0 & Germany & 51.9564055 & 7.635792 & 1 & 0 & 1 & 0 \\
+Neuss & 153810.0 & Germany & 51.1981778 & 6.6916476 & 1 & 0 & 0 & 0 \\
+Nürnberg & 515201.0 & Germany & 49.453872 & 11.077298 & 2 & 0 & 0 & 1 \\
+Oberhausen & 211422.0 & Germany & 51.4696137 & 6.8514435 & 1 & 0 & 2 & 1 \\
+Oldenburg (Oldenburg) & 167081.0 & Germany & 53.1389753 & 8.2146017 & 1 & 0 & 0 & 0 \\
+Osnabrück & 164374.0 & Germany & 52.266837 & 8.049741 & 1 & 0 & 2 & 0 \\
+Paderborn & 149075.0 & Germany & 51.71895955 & 8.764869778177559 & 1 & 0 & 1 & 0 \\
+Pforzheim & 124289.0 & Germany & 48.8908846 & 8.7029532 & 1 & 0 & 2 & 1 \\
+Potsdam & 175710.0 & Germany & 52.4009309 & 13.0591397 & 1 & 0 & 0 & 0 \\
+Recklinghausen & 113360.0 & Germany & 51.6143815 & 7.1978546 & 1 & 0 & 3 & 0 \\
+Regensburg & 150894.0 & Germany & 49.0195333 & 12.0974869 & 1 & 0 & 1 & 0 \\
+Remscheid & 110584.0 & Germany & 51.1798706 & 7.1943544 & 1 & 0 & 1 & 0 \\
+Reutlingen & 115762.0 & Germany & 48.4919508 & 9.2114144 & 1 & 0 & 0 & 0 \\
+Rostock & 208409.0 & Germany & 54.0924445 & 12.1286127 & 1 & 0 & 0 & 0 \\
+Saarbrücken & 180966.0 & Germany & 49.234362 & 6.996379 & 1 & 0 & 1 & 1 \\
+Salzgitter & 104548.0 & Germany & 52.1503721 & 10.3593147 & 1 & 0 & 1 & 0 \\
+Siegen & 102337.0 & Germany & 50.8749804 & 8.0227233 & 1 & 0 & 2 & 0 \\
+Solingen & 158803.0 & Germany & 51.1712468 & 7.0838996 & 1 & 0 & 2 & 1 \\
+Stuttgart & 632743.0 & Germany & 48.7784485 & 9.1800132 & 2 & 0 & 0 & 0 \\
+Trier & 110013.0 & Germany & 49.7596208 & 6.6441878 & 1 & 0 & 1 & 0 \\
+Ulm & 125596.0 & Germany & 48.3974003 & 9.9934336 & 1 & 0 & 1 & 0 \\
+Wiesbaden & 278654.0 & Germany & 50.0820384 & 8.2416556 & 1 & 0 & 0 & 0 \\
+Wolfsburg & 123914.0 & Germany & 52.4205588 & 10.7861682 & 1 & 0 & 0 & 0 \\
+Wuppertal & 353590.0 & Germany & 51.264018 & 7.1780374 & 1 & 0 & 1 & 0 \\
+Würzburg & 126635.0 & Germany & 49.79245 & 9.932966 & 1 & 0 & 1 & 0 \\
+GIBRALTAR & 34003.0 & Gibraltar & 36.140807 & -5.3541295 & 1 & 0 & 0 & 0 \\
+ATHINAI & 664046.0 & Greece & 37.9872279 & 23.7643591 & 2 & 0 & 0 & 0 \\
+Larissa & 144651.0 & Greece & 39.6383092 & 22.4160706 & 1 & 0 & 2 & 0 \\
+Patrai & 167446.0 & Greece & 38.246242 & 21.7350847 & 1 & 0 & 1 & 0 \\
+Thessaloniki & 315196.0 & Greece & 40.6403167 & 22.9352716 & 1 & 0 & 0 & 0 \\
+ST. PETER PORT & 18599.0 & Guernsey & 49.4568142 & -2.5389979 & 1 & 0 & 0 & 0 \\
+VATICAN CITY & 451.0 & Vatican City & 41.9034912 & 12.4528349 & 1 & 0 & 0 & 0 \\
+BUDAPEST & 1751219.0 & Hungary & 47.4983815 & 19.0404707 & 3 & 0 & 0 & 0 \\
+Debrecen & 202097.5 & Hungary & 47.531399 & 21.6259782 & 1 & 0 & 7 & 0 \\
+Györ & 129697.5 & Hungary & 47.687609 & 17.6346815 & 1 & 0 & 1 & 0 \\
+Kecskemét & 110725.5 & Hungary & 46.9080769 & 19.6928133 & 1 & 0 & 4 & 0 \\
+Miskolc & 156413.5 & Hungary & 48.1031503 & 20.7901985 & 1 & 0 & 3 & 0 \\
+Nyiregyhaza & 117405.0 & Hungary & 47.9557802 & 21.7167982 & 1 & 0 & 3 & 0 \\
+Pécs & 144431.5 & Hungary & 46.0763222 & 18.2280746 & 1 & 0 & 5 & 0 \\
+Szeged & 161129.5 & Hungary & 46.2546312 & 20.1486016 & 1 & 0 & 1 & 0 \\
+REYKJAVIK & 124643.5 & Iceland & 64.145981 & -21.9422367 & 1 & 0 & 0 & 0 \\
+Cork & 124391.0 & Ireland & 51.8979282 & -8.4705806 & 1 & 0 & 0 & 0 \\
+DUBLIN & 544107.0 & Ireland & 53.3497645 & -6.2602732 & 2 & 0 & 1 & 0 \\
+DOUGLAS & 26218.0 & Isle of Man & 54.1478523 & -4.485297815814697 & 1 & 0 & 0 & 0 \\
+Ancona & 100810.0 & Italy & 43.4801204 & 13.21879060915176 & 1 & 0 & 0 & 0 \\
+Bari & 323784.0 & Italy & 41.1257843 & 16.8620293 & 1 & 0 & 2 & 0 \\
+Bergamo & 120605.0 & Italy & 45.7566557 & 9.754219200862249 & 1 & 0 & 0 & 0 \\
+Bologna & 388814.0 & Italy & 44.4936714 & 11.3430347 & 1 & 0 & 0 & 0 \\
+Bolzano & 107134.0 & Italy & 46.65594215 & 11.22963726416946 & 1 & 0 & 1 & 0 \\
+Brescia & 196707.5 & Italy & 45.77958045 & 10.4258729694612 & 1 & 0 & 0 & 0 \\
+Cagliari & 154094.5 & Italy & 39.2169525 & 9.1128513 & 1 & 0 & 1 & 0 \\
+Catania & 312508.0 & Italy & 37.5022355 & 15.08738 & 1 & 0 & 1 & 0 \\
+Ferrara & 132143.5 & Italy & 44.76676424999999 & 11.82793899564017 & 1 & 0 & 0 & 0 \\
+Foggia & 151549.0 & Italy & 41.50281055 & 15.45289960962773 & 1 & 0 & 0 & 0 \\
+Forli & 117904.5 & Italy & 44.2227182 & 12.0412435 & 1 & 0 & 2 & 0 \\
+Genova & 581849.0 & Italy & 44.40726 & 8.9338624 & 2 & 0 & 1 & 0 \\
+Giugliano in Campania & 124100.0 & Italy & 40.9286872 & 14.2006989 & 1 & 0 & 4 & 0 \\
+Latina & 126310.5 & Italy & 41.45952605 & 13.01259121218889 & 1 & 0 & 0 & 0 \\
+Messina & 235627.5 & Italy & 38.1937571 & 15.5542082 & 1 & 0 & 3 & 0 \\
+Milano & 1358871.0 & Italy & 45.4668 & 9.1905 & 3 & 0 & 0 & 0 \\
+Modena & 185000.0 & Italy & 44.5384728 & 10.93596087053074 & 1 & 0 & 0 & 0 \\
+Napoli & 968164.5 & Italy & 40.8359336 & 14.2487826 & 2 & 0 & 1 & 0 \\
+Novara & 104233.5 & Italy & 45.58425004999999 & 8.545996970894572 & 1 & 0 & 0 & 0 \\
+Palermo & 671070.0 & Italy & 38.1112268 & 13.3524434 & 2 & 0 & 0 & 0 \\
+Parma & 195052.0 & Italy & 44.8013678 & 10.3280833 & 1 & 0 & 0 & 0 \\
+Perugia & 166179.5 & Italy & 43.1070321 & 12.40299620990649 & 1 & 0 & 0 & 0 \\
+Pescara & 119818.5 & Italy & 42.3102619 & 13.95759010584892 & 1 & 0 & 0 & 0 \\
+Piacenza & 102718.5 & Italy & 44.84759995 & 9.667456647352912 & 1 & 0 & 0 & 0 \\
+Prato & 192897.0 & Italy & 43.93571805000001 & 11.09414726770089 & 1 & 0 & 0 & 0 \\
+Ravenna & 159086.0 & Italy & 44.3640607 & 12.05900949086394 & 1 & 0 & 0 & 0 \\
+Reggio di Calabria & 181999.0 & Italy & 38.1035389 & 15.6397556 & 1 & 0 & 2 & 0 \\
+Reggio nell'Emilia & 171717.5 & Italy & 44.608664 & 10.59479684189273 & 1 & 0 & 0 & 0 \\
+Rimini & 149155.5 & Italy & 43.9470982 & 12.630768610516 & 1 & 0 & 0 & 0 \\
+ROMA & 2873147.0 & Italy & 41.8933203 & 12.4829321 & 3 & 0 & 0 & 0 \\
+Salerno & 134410.0 & Italy & 40.41944165 & 15.31075623032248 & 1 & 0 & 0 & 0 \\
+Sassari & 127151.0 & Italy & 40.7778004 & 8.921996955790174 & 1 & 0 & 0 & 0 \\
+Siracusa & 121818.0 & Italy & 37.0646139 & 15.2907196 & 1 & 0 & 1 & 0 \\
+Taranto & 198922.0 & Italy & 40.54881555 & 17.08058012454743 & 1 & 0 & 0 & 0 \\
+Terni & 111322.0 & Italy & 42.6537515 & 12.43981163283672 & 1 & 0 & 0 & 0 \\
+Torino & 884680.0 & Italy & 45.0677551 & 7.6824892 & 2 & 0 & 0 & 0 \\
+Trento & 117707.0 & Italy & 46.0664228 & 11.1257601 & 1 & 0 & 0 & 0 \\
+Trieste & 204286.0 & Italy & 45.6500335 & 13.7706559 & 1 & 0 & 1 & 0 \\
+Venezia & 261613.0 & Italy & 45.4371908 & 12.3345898 & 1 & 0 & 0 & 0 \\
+Verona & 257314.0 & Italy & 45.4384958 & 10.9924122 & 1 & 0 & 1 & 0 \\
+Vicenza & 111909.0 & Italy & 45.63485905 & 11.40635425660249 & 1 & 0 & 0 & 0 \\
+ST. HELIER & 28310.0 & Jersey & 49.1856637 & -2.1102277 & 1 & 0 & 2 & 0 \\
+RIGA & 637971.0 & Latvia & 56.9493977 & 24.1051846 & 2 & 0 & 0 & 0 \\
+VADUZ & 5605.0 & Liechtenstein & 47.1392862 & 9.5227962 & 1 & 1 & 1 & 0 \\
+Kaunas & 290527.0 & Lithuania & 54.8982139 & 23.9044817 & 1 & 0 & 2 & 0 \\
+Klaipeda & 150109.0 & Lithuania & 55.7127529 & 21.1350469 & 1 & 0 & 3 & 0 \\
+Shauliai & 100895.0 & Lithuania & 55.9340823 & 23.3157775 & 1 & 0 & 5 & 0 \\
+VILNIUS & 546382.0 & Lithuania & 54.6870458 & 25.2829111 & 2 & 0 & 0 & 0 \\
+LUXEMBOURG-VILLE & 116323.0 & Luxembourg & 47.1651446 & -1.2725351 & 1 & 0 & 0 & 0 \\
+VALLETTA & 5735.0 & Malta & 35.8989818 & 14.5136759 & 1 & 0 & 0 & 0 \\
+MONACO & 31109.0 & Monaco & 43.7311424 & 7.4197576 & 1 & 0 & 0 & 0 \\
+PODGORICA & 185937.0 & Montenegro & 42.4415238 & 19.2621081 & 1 & 0 & 1 & 0 \\
+Alkmaar & 107106.0 & The Netherlands & 52.6312592 & 4.7503798 & 1 & 0 & 1 & 0 \\
+Almere & 196932.0 & The Netherlands & 52.44175125 & 5.209294310432758 & 1 & 0 & 0 & 0 \\
+Alphen aan den & 107396.0 & The Netherlands & 52.134055 & 4.6730143 & 1 & 0 & 1 & 0 \\
+Amersfoort & 152481.0 & The Netherlands & 52.1637739 & 5.396587949351701 & 1 & 0 & 1 & 0 \\
+AMSTERDAM & 821752.0 & The Netherlands & 52.3727598 & 4.8936041 & 2 & 0 & 0 & 0 \\
+Apeldoorn & 158099.0 & The Netherlands & 52.2156457 & 5.9639485 & 1 & 0 & 0 & 0 \\
+Arnhem & 152293.0 & The Netherlands & 51.984257 & 5.9108573 & 1 & 0 & 1 & 4 \\
+Breda & 180937.0 & The Netherlands & 51.5887845 & 4.7760237 & 1 & 0 & 1 & 0 \\
+Delft & 101030.0 & The Netherlands & 52.0114017 & 4.35839 & 1 & 0 & 2 & 0 \\
+Dordrecht & 118899.0 & The Netherlands & 51.7958812 & 4.6779351 & 1 & 0 & 1 & 0 \\
+Ede & 111575.0 & The Netherlands & 52.0458265 & 5.6702011 & 1 & 0 & 2 & 0 \\
+Eindhoven & 223209.0 & The Netherlands & 51.44855695 & 5.450122521857143 & 1 & 0 & 1 & 0 \\
+Emmen & 107775.0 & The Netherlands & 52.788937 & 6.8939001 & 1 & 0 & 1 & 2 \\
+Enschede & 158553.0 & The Netherlands & 52.22336325 & 6.870595664097989 & 1 & 0 & 1 & 0 \\
+Groningen & 200336.0 & The Netherlands & 53.2190652 & 6.5680077 & 1 & 0 & 1 & 0 \\
+Haarlem & 156645.0 & The Netherlands & 52.3885317 & 4.6388048 & 1 & 0 & 0 & 0 \\
+Haarlemmermeer & 144152.0 & The Netherlands & 52.3238421 & 4.715261248876009 & 1 & 0 & 0 & 0 \\
+Leeuwarden & 107691.0 & The Netherlands & 53.2005936 & 5.7918548 & 1 & 0 & 1 & 0 \\
+Leiden & 121562.0 & The Netherlands & 52.1518157 & 4.48110886662043 & 1 & 0 & 0 & 0 \\
+Maastricht & 122397.0 & The Netherlands & 50.8512438 & 5.6909768 & 1 & 0 & 1 & 0 \\
+Nijmegen & 170681.0 & The Netherlands & 51.8427385 & 5.8634696 & 1 & 0 & 1 & 0 \\
+Rotterdam & 623652.0 & The Netherlands & 51.9228958 & 4.4631727 & 2 & 0 & 0 & 2 \\
+s-Gravenhage & 514861.0 & The Netherlands & 52.07494555 & 4.269680220536451 & 2 & 0 & 0 & 0 \\
+Tilburg & 211648.0 & The Netherlands & 51.55847 & 5.083076 & 1 & 0 & 0 & 0 \\
+Utrecht & 334176.0 & The Netherlands & 52.0949753 & 5.109708 & 1 & 0 & 1 & 0 \\
+Venlo & 100536.0 & The Netherlands & 51.3702109 & 6.1688954 & 1 & 0 & 2 & 0 \\
+Westland & 104302.0 & The Netherlands & 52.0014044 & 4.201908937069459 & 1 & 0 & 1 & 0 \\
+Zaanstad & 151418.0 & The Netherlands & 52.4689235 & 4.773783522451712 & 1 & 0 & 0 & 0 \\
+Zoetermeer & 124025.0 & The Netherlands & 52.06228915 & 4.487754553694883 & 1 & 0 & 5 & 0 \\
+Zwolle & 123861.0 & The Netherlands & 52.5089759 & 6.0943765 & 1 & 0 & 2 & 0 \\
+SKOPJE & 546824.0 & Macedonia & 41.9960924 & 21.4316495 & 2 & 0 & 0 & 0 \\
+OSLO & 634293.0 & Norway & 59.9133301 & 10.7389701 & 2 & 0 & 0 & 0 \\
+Bialystok & 294362.0 & Poland & 53.12750505 & 23.14705087016166 & 1 & 0 & 5 & 0 \\
+Bielsko-Biala & 170005.0 & Poland & 49.81207845 & 19.02919880201394 & 1 & 0 & 5 & 0 \\
+Bydgoszcz & 352870.0 & Poland & 53.1219648 & 18.0002529 & 1 & 0 & 1 & 0 \\
+Bytom & 167359.0 & Poland & 50.3657432 & 18.87153251609449 & 1 & 0 & 3 & 0 \\
+Chorzów & 108205.0 & Poland & 50.2978791 & 18.9544466 & 1 & 0 & 3 & 0 \\
+Czestochowa & 223373.0 & Poland & 50.8089997 & 19.1244089281233 & 1 & 0 & 8 & 0 \\
+Dabrowa Górnicza & 120478.0 & Poland & 50.36913425 & 19.2898711013305 & 1 & 0 & 0 & 0 \\
+Elblag & 118925.0 & Poland & 54.1988997 & 19.44108568736702 & 1 & 0 & 1 & 0 \\
+Gdansk & 463352.0 & Poland & 54.347629 & 18.6452324 & 1 & 0 & 0 & 0 \\
+Gdynia & 243910.0 & Poland & 54.50383255 & 18.46280615588461 & 1 & 0 & 4 & 0 \\
+Gliwice & 180193.0 & Poland & 50.30113145 & 18.66234722797198 & 1 & 0 & 0 & 0 \\
+Gorzów Wielkopolski & 122299.0 & Poland & 52.73057555 & 15.21075531909385 & 1 & 0 & 2 & 0 \\
+Kalisz & 100812.0 & Poland & 51.74736505 & 18.07959008770003 & 1 & 0 & 3 & 0 \\
+Katowice & 301202.0 & Poland & 50.2598987 & 19.0215852 & 1 & 0 & 3 & 0 \\
+Kielce & 195655.0 & Poland & 50.85403585 & 20.60991435210145 & 1 & 0 & 5 & 0 \\
+Koszalin & 105989.0 & Poland & 54.20727105 & 16.21753076827157 & 1 & 0 & 2 & 0 \\
+Kraków & 759104.0 & Poland & 50.0469432 & 19.9971534358367 & 2 & 0 & 0 & 0 \\
+Lódz & 692284.0 & Poland & 51.7687323 & 19.4569911 & 2 & 0 & 1 & 0 \\
+Lublin & 341794.0 & Poland & 51.2181945 & 22.55467756519268 & 1 & 0 & 1 & 0 \\
+Olsztyn & 173693.0 & Poland & 53.7767239 & 20.47778129221035 & 1 & 0 & 4 & 0 \\
+Opole & 127084.0 & Poland & 50.6787929 & 17.92988443603353 & 1 & 0 & 0 & 0 \\
+Plock & 119840.0 & Poland & 52.5353471 & 19.71363018059993 & 1 & 0 & 4 & 0 \\
+Poznan & 538439.0 & Poland & 52.40063215 & 16.91978694287606 & 2 & 0 & 0 & 0 \\
+Radom & 212765.0 & Poland & 51.4171576 & 21.1609459396638 & 1 & 0 & 4 & 0 \\
+Ruda Slaska & 137546.0 & Poland & 50.270303 & 18.86437564633457 & 1 & 0 & 2 & 0 \\
+Rybnik & 137436.0 & Poland & 50.1105691 & 18.55318736608734 & 1 & 0 & 3 & 0 \\
+Rzeszów & 186391.0 & Poland & 50.00715125 & 22.0099115251821 & 1 & 0 & 4 & 0 \\
+Sosnowiec & 203001.0 & Poland & 50.2780834 & 19.1342944 & 1 & 0 & 5 & 0 \\
+Szczecin & 401940.0 & Poland & 53.42968095 & 14.59291267029227 & 1 & 0 & 0 & 0 \\
+Tarnów & 106709.0 & Poland & 50.02598829999999 & 20.96405842696229 & 1 & 0 & 2 & 0 \\
+Torun & 199490.0 & Poland & 53.0102721 & 18.6048094 & 1 & 0 & 2 & 0 \\
+Tychy & 126661.0 & Poland & 50.12649805 & 19.00678458582485 & 1 & 0 & 3 & 0 \\
+Walbrzych & 112720.0 & Poland & 50.785221 & 16.28464033612782 & 1 & 0 & 1 & 0 \\
+WARSZAWA & 1754511.0 & Poland & 52.2319581 & 21.0067249 & 3 & 0 & 1 & 0 \\
+Wloclawek & 110563.0 & Poland & 52.6655636 & 19.09612974805439 & 1 & 0 & 2 & 0 \\
+Wroclaw & 634873.0 & Poland & 51.1263106 & 16.97819633051261 & 2 & 0 & 1 & 0 \\
+Zabrze & 172909.0 & Poland & 50.31428055 & 18.78157631057918 & 1 & 0 & 2 & 0 \\
+Zielona Góra & 139818.0 & Poland & 51.92766315 & 15.54900541791643 & 1 & 0 & 3 & 0 \\
+Amadora & 179055.5 & Portugal & 38.7595162 & -9.223677009460125 & 1 & 0 & 0 & 0 \\
+LISBOA & 505526.0 & Portugal & 38.7077507 & -9.1365919 & 2 & 0 & 0 & 0 \\
+Porto & 214353.0 & Portugal & 41.1494512 & -8.6107884 & 1 & 0 & 0 & 0 \\
+CHIŞINĂU (KISHINEV) & 339079.0 & Moldova & 47.0129704 & 28.8601025 & 1 & 0 & 3 & 0 \\
+BUCURESTI & 1826830.0 & Romania & 44.4361414 & 26.1027202 & 3 & 0 & 0 & 0 \\
+Abakan & 168655.0 & Russia & 53.7209024 & 91.442435 & 1 & 1 & 0 & 0 \\
+Achinsk & 107943.0 & Russia & 56.2694846 & 90.4953964 & 1 & 0 & 0 & 0 \\
+Almetievsk & 148384.0 & Russia & 54.9005008 & 52.2963777 & 1 & 0 & 0 & 0 \\
+Angarsk & 231944.0 & Russia & 52.5311117 & 103.8826109 & 1 & 0 & 2 & 0 \\
+Arkhangelsk & 350258.0 & Russia & 64.543022 & 40.537121 & 1 & 0 & 3 & 0 \\
+Armavir & 190831.0 & Russia & 44.9993585 & 41.1294061 & 1 & 0 & 2 & 0 \\
+Arzamas & 105506.0 & Russia & 55.3989463 & 43.8408129 & 1 & 0 & 0 & 0 \\
+Astrakhan & 526363.0 & Russia & 46.3652486 & 48.05521686177834 & 2 & 0 & 1 & 0 \\
+Balakovo & 196918.0 & Russia & 52.01812 & 47.819141 & 1 & 0 & 0 & 0 \\
+Balashikha & 228567.0 & Russia & 55.8036225 & 37.9646488 & 1 & 0 & 1 & 0 \\
+Barnaul & 625679.0 & Russia & 53.347402 & 83.7784496 & 2 & 0 & 0 & 0 \\
+Bataisk & 115016.0 & Russia & 47.138527 & 39.742348 & 1 & 0 & 0 & 0 \\
+Belgorod & 369815.0 & Russia & 50.5955595 & 36.5873394 & 1 & 0 & 2 & 0 \\
+Berezniki & 153806.0 & Russia & 59.4084171 & 56.8036958 & 1 & 0 & 2 & 0 \\
+Biisk & 206327.0 & Russia & 52.5394905 & 85.2148673 & 1 & 0 & 0 & 0 \\
+Bratsk & 242604.0 & Russia & 56.1517085 & 101.6334907 & 1 & 0 & 0 & 0 \\
+Bryansk & 411798.0 & Russia & 53.2423778 & 34.3668288 & 1 & 0 & 0 & 0 \\
+Cheboksary & 462669.0 & Russia & 56.1307195 & 47.2449597 & 1 & 0 & 2 & 0 \\
+Chelyabinsk & 1149829.0 & Russia & 55.1598408 & 61.4025547 & 3 & 0 & 0 & 0 \\
+Cherepovets & 315186.0 & Russia & 59.128696 & 37.916389 & 1 & 1 & 3 & 0 \\
+Cherkessk & 126884.0 & Russia & 44.2285229 & 42.048257 & 1 & 0 & 1 & 0 \\
+Chita & 329391.0 & Russia & 52.033409 & 113.500893 & 1 & 0 & 0 & 0 \\
+Derbent & 119647.0 & Russia & 42.057858 & 48.2887648 & 1 & 0 & 0 & 0 \\
+Dimitrovgrad & 120750.0 & Russia & 54.2188995 & 49.6038982 & 1 & 0 & 0 & 0 \\
+Ekaterinburg & 1386909.0 & Russia & 56.839104 & 60.60825 & 3 & 0 & 2 & 0 \\
+Elektrostal & 156136.0 & Russia & 55.7903785 & 38.4405711 & 1 & 1 & 1 & 0 \\
+Elets & 107347.0 & Russia & 52.6219865 & 38.5003298 & 1 & 0 & 1 & 0 \\
+Elista & 104177.0 & Russia & 46.306999 & 44.270187 & 1 & 0 & 0 & 0 \\
+Engels & 210190.0 & Russia & 51.5013775 & 46.1233093 & 1 & 0 & 1 & 0 \\
+Groznyi & 276524.0 & Russia & 43.3197031 & 45.6934308 & 1 & 0 & 2 & 0 \\
+Irkutsk & 601993.0 & Russia & 52.289597 & 104.280586 & 2 & 0 & 0 & 0 \\
+Ivanovo & 408952.0 & Russia & 56.9984452 & 40.9737394 & 1 & 0 & 2 & 0 \\
+Izhevsk & 631182.0 & Russia & 56.866557 & 53.2094166 & 2 & 0 & 4 & 0 \\
+Kaluga & 328871.0 & Russia & 54.5101087 & 36.2598115 & 1 & 0 & 0 & 0 \\
+Kamensk-Uralsky & 172639.0 & Russia & 56.415451 & 61.917797 & 1 & 0 & 0 & 0 \\
+Kamyshin & 117352.0 & Russia & 50.06525345 & 45.38449115922653 & 1 & 0 & 0 & 0 \\
+Kaspiysk & 102421.0 & Russia & 42.8881414 & 47.6424676 & 1 & 0 & 0 & 0 \\
+Kazan & 1168745.0 & Russia & 55.7823547 & 49.1242266 & 3 & 0 & 1 & 0 \\
+Khabarovsk & 589596.0 & Russia & 48.481403 & 135.076935 & 2 & 0 & 0 & 0 \\
+Khimki & 218275.0 & Russia & 55.8892847 & 37.4449896 & 1 & 0 & 1 & 0 \\
+Kirov & 480594.0 & Russia & 58.6035257 & 49.6639029 & 1 & 0 & 0 & 0 \\
+Kislovodsk & 129313.0 & Russia & 43.9128743 & 42.7192186 & 1 & 0 & 1 & 0 \\
+Kolomna & 144838.0 & Russia & 55.0938743 & 38.7670121 & 1 & 0 & 2 & 0 \\
+Komsomolsk-na-Amure & 259081.0 & Russia & 50.550877 & 137.020782 & 1 & 0 & 1 & 0 \\
+Kopeysk & 139161.0 & Russia & 55.1131951 & 61.6216332 & 1 & 0 & 0 & 0 \\
+Kostroma & 270366.0 & Russia & 57.7679158 & 40.9269141 & 1 & 0 & 1 & 0 \\
+Krasnodar & 773970.0 & Russia & 45.0352566 & 38.9764814 & 2 & 0 & 1 & 0 \\
+Krasnogorsk & 125198.0 & Russia & 55.821744 & 37.3404142 & 1 & 0 & 0 & 0 \\
+Kursk & 425950.0 & Russia & 51.739433 & 36.179604 & 1 & 0 & 2 & 0 \\
+Kyzyl & 112659.0 & Russia & 51.7190995 & 94.4300627 & 1 & 0 & 0 & 0 \\
+Leninsk-Kuznetsky & 100073.0 & Russia & 54.665443 & 86.166115 & 1 & 0 & 0 & 0 \\
+Lipetsk & 508585.0 & Russia & 52.6946301 & 39.4278734 & 2 & 0 & 0 & 0 \\
+Lyubertsy & 178884.0 & Russia & 55.6783142 & 37.89377 & 1 & 0 & 1 & 0 \\
+Magadan & 95263.0 & Russia & 59.5604768 & 150.7988617 & 1 & 0 & 1 & 0 \\
+Magnitogorsk & 410733.0 & Russia & 53.4242184 & 58.983136 & 1 & 0 & 1 & 0 \\
+Maikop & 144579.0 & Russia & 44.6062079 & 40.104053 & 1 & 0 & 3 & 0 \\
+Makhachkala & 575243.0 & Russia & 42.9830241 & 47.5048717 & 2 & 0 & 0 & 0 \\
+Mezhdurechensk & 100278.0 & Russia & 53.6863763 & 88.0703443 & 1 & 0 & 0 & 0 \\
+Miass & 150806.0 & Russia & 55.065304 & 60.108337 & 1 & 0 & 1 & 0 \\
+MOSKVA & 11918057.0 & Russia & 55.7504461 & 37.6174943 & 5 & 0 & 0 & 0 \\
+Murmansk & 303754.0 & Russia & 68.970665 & 33.07497 & 1 & 0 & 2 & 0 \\
+Murom & 113330.0 & Russia & 55.5738 & 42.0447 & 1 & 0 & 0 & 0 \\
+Mytishchi & 176825.0 & Russia & 55.9094928 & 37.7339358 & 1 & 0 & 0 & 0 \\
+Naberezhnye Tchelny & 517831.0 & Russia & 55.7420117 & 52.3992173 & 2 & 0 & 2 & 0 \\
+Nakhodka & 158649.0 & Russia & 42.8246489 & 132.8926 & 1 & 0 & 1 & 0 \\
+Naltchik & 239230.0 & Russia & 43.4769604 & 43.5966578 & 1 & 0 & 2 & 0 \\
+Nazran & 100574.0 & Russia & 43.2320774 & 44.7540128 & 1 & 0 & 0 & 0 \\
+Neftekamsk & 123202.0 & Russia & 56.0884031 & 54.2478094 & 1 & 0 & 1 & 0 \\
+Nefteyugansk & 125528.0 & Russia & 61.090309 & 72.6101 & 1 & 0 & 1 & 0 \\
+Nevinnomyssk & 117949.0 & Russia & 44.6245814 & 41.9475941 & 1 & 0 & 0 & 0 \\
+Nizhnekamsk & 235179.0 & Russia & 55.6412879 & 51.8160376 & 1 & 0 & 2 & 0 \\
+Nizhnevartovsk & 261011.0 & Russia & 60.9339411 & 76.5814274 & 1 & 0 & 3 & 0 \\
+Nizhny Novgorod & 1257260.0 & Russia & 56.328571 & 44.003506 & 3 & 0 & 1 & 0 \\
+Nizhny Tagil & 358651.0 & Russia & 57.905149 & 59.9508466 & 1 & 0 & 0 & 0 \\
+Noginsk & 101779.0 & Russia & 55.8553511 & 38.4411898 & 1 & 0 & 1 & 0 \\
+Norilsk & 177506.0 & Russia & 69.3498394 & 88.200517 & 1 & 0 & 0 & 0 \\
+Novocherkassk & 171081.0 & Russia & 47.41066 & 40.101986 & 1 & 0 & 0 & 0 \\
+Novokuznetsk & 549383.0 & Russia & 53.757607 & 87.136101 & 2 & 0 & 1 & 0 \\
+Novorossiysk & 248857.0 & Russia & 44.7239578 & 37.7690711 & 1 & 0 & 0 & 0 \\
+Novoshakhtinsk & 110243.0 & Russia & 47.7558886 & 39.935987 & 1 & 0 & 0 & 0 \\
+Novosibirsk & 1511369.0 & Russia & 55.0282171 & 82.9234509 & 3 & 0 & 0 & 0 \\
+Novy Urengoy & 114332.0 & Russia & 66.085196 & 76.6799167 & 1 & 0 & 1 & 0 \\
+Noyabrsk & 108662.0 & Russia & 63.1150538 & 75.34254236988208 & 1 & 0 & 0 & 0 \\
+Obninsk & 105722.0 & Russia & 55.0951738 & 36.611913 & 1 & 0 & 1 & 0 \\
+Odintsovo & 137706.0 & Russia & 55.6711507 & 37.2727963 & 1 & 0 & 0 & 0 \\
+Oktyabrsky & 111109.0 & Russia & 56.8407917 & 53.3237481 & 1 & 0 & 6 & 0 \\
+Omsk & 1158627.0 & Russia & 54.991375 & 73.371529 & 3 & 0 & 2 & 0 \\
+Orekhovo-Zuevo & 121341.0 & Russia & 55.8083278 & 38.9790038 & 1 & 0 & 4 & 0 \\
+Orel & 318642.0 & Russia & 52.9685433 & 36.0692477 & 1 & 0 & 1 & 0 \\
+Orenburg & 555420.0 & Russia & 51.767452 & 55.097118 & 2 & 0 & 0 & 0 \\
+Orsk & 237194.0 & Russia & 51.2305015 & 58.4738015 & 1 & 0 & 0 & 0 \\
+Penza & 519948.0 & Russia & 53.1937836 & 45.00674125017068 & 2 & 0 & 1 & 0 \\
+Pervouralsk & 125421.0 & Russia & 56.904858 & 59.943119 & 1 & 0 & 0 & 0 \\
+Petropavlovsk-Kamchatsky & 180702.0 & Russia & 53.0199693 & 158.6472187 & 1 & 0 & 1 & 0 \\
+Petrozavodsk & 267102.0 & Russia & 61.790039 & 34.390007 & 1 & 0 & 2 & 0 \\
+Podolsk & 200059.0 & Russia & 55.4308841 & 37.5453056 & 1 & 1 & 3 & 0 \\
+Prokopyevsk & 206023.0 & Russia & 53.890972 & 86.737663 & 1 & 0 & 0 & 0 \\
+Pskov & 205062.0 & Russia & 57.817398 & 28.334368 & 1 & 0 & 1 & 0 \\
+Pushkino & 104020.0 & Russia & 56.0104274 & 37.8461892 & 1 & 0 & 3 & 0 \\
+Pyatigorsk & 144603.0 & Russia & 44.039775 & 43.0706669 & 1 & 0 & 1 & 0 \\
+Rostov-na-Donu & 1100091.0 & Russia & 47.2213858 & 39.7114196 & 3 & 0 & 1 & 0 \\
+Rubtsovsk & 146075.0 & Russia & 51.5276264 & 81.2176174 & 1 & 0 & 0 & 0 \\
+Ryazan & 526919.0 & Russia & 54.6295687 & 39.7425039 & 2 & 0 & 4 & 0 \\
+Rybinsk & 197359.0 & Russia & 58.050373 & 38.834637 & 1 & 0 & 1 & 0 \\
+Salavat & 155174.0 & Russia & 53.361687 & 55.924641 & 1 & 0 & 0 & 0 \\
+Saransk & 298103.0 & Russia & 54.18671 & 45.18383 & 1 & 0 & 0 & 0 \\
+Saratov & 838321.0 & Russia & 51.530018 & 46.034683 & 2 & 0 & 1 & 0 \\
+Sergiev Posad & 109076.0 & Russia & 56.3133404 & 38.1320729 & 1 & 0 & 2 & 0 \\
+Serpukhov & 126729.0 & Russia & 54.9155247 & 37.4195533 & 1 & 0 & 2 & 0 \\
+Severodvinsk & 189313.0 & Russia & 64.563385 & 39.823769 & 1 & 0 & 1 & 0 \\
+Seversk & 109630.0 & Russia & 56.603161 & 84.881012 & 1 & 0 & 0 & 0 \\
+Shakhty & 238031.0 & Russia & 47.7119167 & 40.2115699 & 1 & 0 & 0 & 0 \\
+Smolensk & 330451.0 & Russia & 54.7814057 & 32.0461261 & 1 & 1 & 2 & 0 \\
+Sochi & 364171.0 & Russia & 43.5854823 & 39.723109 & 1 & 0 & 0 & 0 \\
+St. Petersburg & 4990602.0 & Russia & 59.9606739 & 30.1586551 & 3 & 0 & 1 & 0 \\
+Stary Oskol & 220719.0 & Russia & 51.298038 & 37.833202 & 1 & 1 & 1 & 0 \\
+Stavropol & 408361.0 & Russia & 45.0433245 & 41.9690934 & 1 & 0 & 0 & 0 \\
+Sterlitamak & 275087.0 & Russia & 53.632374 & 55.952259 & 1 & 0 & 1 & 0 \\
+Surgut & 321062.0 & Russia & 61.254032 & 73.3964 & 1 & 0 & 6 & 0 \\
+Syzran & 177404.0 & Russia & 53.09579215 & 48.39405728270984 & 1 & 0 & 1 & 0 \\
+Taganrog & 255671.0 & Russia & 47.2153657 & 38.9285216 & 1 & 0 & 2 & 0 \\
+Tambov & 281348.0 & Russia & 52.72879 & 41.45536 & 1 & 1 & 1 & 0 \\
+Tolyatti & 719363.0 & Russia & 53.52185365 & 49.37475729080717 & 2 & 0 & 3 & 0 \\
+Tula & 496656.0 & Russia & 54.1930321 & 37.61754 & 1 & 0 & 1 & 0 \\
+Tver & 407896.0 & Russia & 56.858675 & 35.9208284 & 1 & 0 & 1 & 0 \\
+Tyumen & 621918.0 & Russia & 57.153534 & 65.542274 & 2 & 0 & 0 & 0 \\
+Ufa & 1075007.0 & Russia & 54.726288 & 55.947727 & 3 & 0 & 1 & 0 \\
+Uhta & 99680.0 & Russia & 63.5624585 & 53.684243 & 1 & 0 & 0 & 0 \\
+Ulan-Ude & 413850.0 & Russia & 51.8357841 & 107.5839105 & 1 & 0 & 0 & 0 \\
+Ulyanovsk & 614878.0 & Russia & 54.3107593 & 48.3642771 & 2 & 0 & 1 & 0 \\
+Ussuriisk & 163465.0 & Russia & 43.7972447 & 131.9520752 & 1 & 0 & 2 & 0 \\
+Velikiy Novgorod & 219941.0 & Russia & 58.5209862 & 31.2757862 & 1 & 0 & 3 & 0 \\
+Vladimir & 346922.0 & Russia & 56.1288899 & 40.4075203 & 1 & 0 & 1 & 0 \\
+Vladivostok & 598927.0 & Russia & 43.1150678 & 131.8855768 & 2 & 0 & 0 & 0 \\
+Volgodonsk & 170189.0 & Russia & 47.54140719999999 & 42.22810482864755 & 1 & 0 & 0 & 0 \\
+Volgograd & 1018762.0 & Russia & 48.64820995 & 44.38576379902911 & 3 & 0 & 1 & 0 \\
+Vologda & 305397.0 & Russia & 59.218876 & 39.893276 & 1 & 0 & 1 & 0 \\
+Volzhsky & 320761.0 & Russia & 48.782102 & 44.7779843 & 1 & 0 & 1 & 0 \\
+Voronezh & 997447.0 & Russia & 51.6605982 & 39.2005858 & 2 & 0 & 1 & 0 \\
+Yakutsk & 282419.0 & Russia & 62.027287 & 129.732086 & 1 & 0 & 0 & 0 \\
+Yaroslavl & 597161.0 & Russia & 57.64955255 & 39.87485827162618 & 2 & 1 & 1 & 0 \\
+Yoshkar-Ola & 254987.0 & Russia & 56.6328248 & 47.8972462 & 1 & 0 & 0 & 0 \\
+Yuzhno-Sakhalinsk & 188242.0 & Russia & 46.9574273 & 142.727438 & 1 & 0 & 1 & 0 \\
+Zheleznodorozhny & 138814.0 & Russia & 55.7459388 & 38.0158304 & 1 & 0 & 2 & 0 \\
+Zhukovsky & 106555.0 & Russia & 55.5691727 & 38.11680191095483 & 1 & 0 & 1 & 0 \\
+Zlatoust & 172972.0 & Russia & 55.1674213 & 59.6792625 & 1 & 0 & 0 & 0 \\
+SAN MARINO & 4127.0 & San Marino & 43.9458623 & 12.458306 & 1 & 0 & 2 & 0 \\
+BEOGRAD (BELGRADE) & 1378682.0 & Serbia & 44.8178131 & 20.4568974 & 3 & 0 & 0 & 0 \\
+Čačak & 71883.0 & Serbia & 43.8913319 & 20.3501125 & 1 & 0 & 0 & 0 \\
+Kragujevac & 150623.0 & Serbia & 44.0125745 & 20.91877 & 1 & 0 & 0 & 0 \\
+Kraljevo & 66688.0 & Serbia & 43.7235798 & 20.6875995 & 1 & 0 & 1 & 0 \\
+Kruševac & 57213.0 & Serbia & 43.5825653 & 21.326599 & 1 & 0 & 1 & 0 \\
+Leskovac & 63618.0 & Serbia & 42.9951304 & 21.9464271 & 1 & 0 & 0 & 0 \\
+Niš & 185853.0 & Serbia & 43.321504 & 21.8957301 & 1 & 0 & 1 & 0 \\
+Novi Pazar & 72372.0 & Serbia & 43.136667 & 20.512222 & 1 & 0 & 0 & 0 \\
+Novi Sad & 291706.0 & Serbia & 45.2551338 & 19.8451756 & 1 & 0 & 0 & 0 \\
+Pancevo & 89024.0 & Serbia & 44.8705686 & 20.6399643 & 1 & 0 & 2 & 0 \\
+Šabac & 52929.0 & Serbia & 44.7571535 & 19.6953972 & 1 & 0 & 1 & 0 \\
+Smederevo & 62593.0 & Serbia & 44.6662524 & 20.9269355 & 1 & 0 & 2 & 0 \\
+Subotica & 103694.0 & Serbia & 46.1000129 & 19.6640974 & 1 & 0 & 1 & 0 \\
+Zrenjanin & 73945.0 & Serbia & 45.3802683 & 20.3907614 & 1 & 0 & 1 & 0 \\
+BRATISLAVA & 427744.0 & Slovakia & 48.1516988 & 17.1093063 & 1 & 0 & 0 & 0 \\
+Kosice & 239119.0 & Slovakia & 48.7172272 & 21.2496774 & 1 & 0 & 1 & 0 \\
+LJUBLJANA & 279650.0 & Slovenia & 46.0499803 & 14.5068602 & 1 & 0 & 0 & 0 \\
+Maribor & 94248.0 & Slovenia & 46.555628 & 15.64477 & 1 & 0 & 1 & 0 \\
+A Coruña & 244474.0 & Spain & 43.3712091 & -8.3958768 & 1 & 0 & 0 & 0 \\
+Albacete & 172933.0 & Spain & 38.9890121 & -1.8548699 & 1 & 0 & 0 & 0 \\
+Alcalá de Henares & 194030.0 & Spain & 40.4818396 & -3.3644973 & 1 & 0 & 3 & 0 \\
+Alcobendas & 115450.0 & Spain & 40.5400082 & -3.6358494 & 1 & 0 & 0 & 0 \\
+Alcorcón & 168821.0 & Spain & 40.3492998 & -3.8284295 & 1 & 0 & 0 & 0 \\
+Algeciras & 121273.0 & Spain & 36.1310804 & -5.4487055 & 1 & 0 & 2 & 0 \\
+Alicante/Alacant & 330782.0 & Spain & 38.353738 & -0.4901846 & 1 & 0 & 0 & 0 \\
+Almería & 196120.0 & Spain & 36.8414197 & -2.4628135 & 1 & 0 & 1 & 0 \\
+Badajoz & 150536.0 & Spain & 38.8780585 & -6.9702048 & 1 & 0 & 2 & 0 \\
+Badalona & 216794.0 & Spain & 41.4493539 & 2.248254 & 1 & 0 & 0 & 0 \\
+Barakaldo & 100374.0 & Spain & 43.29548 & -2.9900933 & 1 & 0 & 5 & 0 \\
+Barcelona & 1620576.0 & Spain & 41.3828939 & 2.1774322 & 3 & 0 & 0 & 0 \\
+Bilbao & 345465.0 & Spain & 43.2630051 & -2.9349915 & 1 & 0 & 0 & 0 \\
+Burgos & 175772.0 & Spain & 42.343926 & -3.696977 & 1 & 0 & 0 & 0 \\
+Cádiz & 117513.0 & Spain & 36.5297438 & -6.2928976 & 1 & 0 & 0 & 0 \\
+Cartagena & 214060.0 & Spain & 37.6267868 & -1.0006184 & 1 & 0 & 3 & 0 \\
+Castellón de la Plana/Castelló de la Plana & 170193.0 & Spain & 39.9860347 & -0.0377354 & 1 & 0 & 1 & 0 \\
+Córdoba & 325812.0 & Spain & 37.8845813 & -4.7760138 & 1 & 0 & 0 & 0 \\
+Donostia/San Sebastián & 186517.0 & Spain & 43.3224219 & -1.9838889 & 1 & 0 & 0 & 0 \\
+Dos Hermanas & 132859.0 & Spain & 37.283689 & -5.9226718 & 1 & 0 & 2 & 0 \\
+Elche/Elx & 229650.0 & Spain & 38.2682326 & -0.696458 & 1 & 0 & 2 & 0 \\
+Fuenlabrada & 194127.0 & Spain & 40.282476 & -3.7923422 & 1 & 0 & 5 & 0 \\
+Getafe & 179517.0 & Spain & 40.3081807 & -3.7302679 & 1 & 0 & 1 & 0 \\
+Gijón & 272104.0 & Spain & 43.5450394 & -5.6626443 & 1 & 0 & 1 & 0 \\
+Granada & 232489.0 & Spain & 37.183054 & -3.6021928 & 1 & 0 & 0 & 0 \\
+Huelva & 144686.0 & Spain & 37.2575874 & -6.9484945 & 1 & 0 & 3 & 0 \\
+Jaén & 113847.0 & Spain & 37.9557275 & -3.492055612037218 & 1 & 0 & 0 & 0 \\
+Jerez de la Frontera & 212897.0 & Spain & 36.6816936 & -6.1377402 & 1 & 0 & 5 & 0 \\
+Las Palmas de Gran Canaria & 378083.0 & Spain & 28.128874 & -15.4349448 & 1 & 0 & 0 & 0 \\
+Leganés & 188072.0 & Spain & 40.3281942 & -3.76527 & 1 & 0 & 1 & 0 \\
+León & 125044.0 & Spain & 42.63414505 & -5.971415104539984 & 1 & 0 & 0 & 0 \\
+L'Hospitalet de Llobregat & 259208.0 & Spain & 41.3598601 & 2.0997927 & 1 & 0 & 0 & 0 \\
+Lleida & 137591.0 & Spain & 41.6147605 & 0.6267842 & 1 & 0 & 2 & 0 \\
+Logroño & 151046.0 & Spain & 42.4661196 & -2.4396676 & 1 & 0 & 1 & 0 \\
+MADRID & 3203157.0 & Spain & 40.4167047 & -3.7035825 & 3 & 0 & 0 & 0 \\
+Málaga & 570014.0 & Spain & 36.7213028 & -4.4216366 & 2 & 0 & 0 & 0 \\
+Marbella & 141317.0 & Spain & 36.508976 & -4.88562 & 1 & 0 & 0 & 0 \\
+Mataró & 126557.0 & Spain & 41.5398348 & 2.4448926 & 1 & 0 & 0 & 0 \\
+Móstoles & 206842.0 & Spain & 40.3238525 & -3.8649214 & 1 & 0 & 2 & 0 \\
+Murcia & 445212.0 & Spain & 37.9923795 & -1.1305431 & 1 & 0 & 0 & 0 \\
+Ourense & 105570.0 & Spain & 42.1968459 & -7.6114105 & 1 & 0 & 0 & 0 \\
+Oviedo & 220160.0 & Spain & 43.3533424 & -5.879514339526834 & 1 & 0 & 0 & 0 \\
+Palma de Mallorca & 408076.0 & Spain & 39.5695818 & 2.6500745 & 1 & 0 & 0 & 0 \\
+Pamplona/Iruña & 198102.0 & Spain & 42.8184538 & -1.6442556 & 1 & 0 & 0 & 0 \\
+Parla & 127077.0 & Spain & 40.2373952 & -3.7718902 & 1 & 0 & 5 & 0 \\
+Reus & 103300.0 & Spain & 41.1555564 & 1.1076133 & 1 & 0 & 1 & 0 \\
+Sabadell & 210832.0 & Spain & 41.5421013 & 2.1138977 & 1 & 0 & 1 & 0 \\
+Salamanca & 144207.0 & Spain & 40.9651572 & -5.6640182 & 1 & 0 & 1 & 0 \\
+San Cristóbal de La Laguna & 154602.0 & Spain & 28.4857715 & -16.3159422 & 1 & 0 & 3 & 0 \\
+Santa Coloma de Gramenet & 118209.0 & Spain & 41.4515626 & 2.2083371 & 1 & 0 & 0 & 0 \\
+Santa Cruz de Tenerife & 204274.0 & Spain & 28.469648 & -16.2540884 & 1 & 0 & 0 & 0 \\
+Santander & 171997.0 & Spain & 43.4620412 & -3.8099719 & 1 & 0 & 2 & 0 \\
+Sevilla & 689072.0 & Spain & 37.3886303 & -5.9953403 & 2 & 0 & 0 & 0 \\
+Tarragona & 131903.0 & Spain & 41.1172364 & 1.2546057 & 1 & 0 & 1 & 0 \\
+Telde & 102214.0 & Spain & 27.9984538 & -15.4166761 & 1 & 0 & 8 & 0 \\
+Torrejón de Ardoz & 128871.0 & Spain & 40.4587767 & -3.4793343 & 1 & 0 & 1 & 0 \\
+Vigo & 293314.0 & Spain & 42.2376602 & -8.7247205 & 1 & 0 & 2 & 0 \\
+Vitoria-Gasteiz & 248076.0 & Spain & 42.8465088 & -2.6724025 & 1 & 0 & 1 & 0 \\
+Zaragoza & 665909.0 & Spain & 41.6521342 & -0.8809428 & 2 & 0 & 0 & 0 \\
+Göteborg & 491629.5 & Sweden & 57.7072326 & 11.9670171 & 1 & 0 & 1 & 0 \\
+Helsingborg & 124187.5 & Sweden & 56.0441984 & 12.7040684 & 1 & 0 & 1 & 0 \\
+Jönköping & 122951.5 & Sweden & 57.7825634 & 14.165719 & 1 & 0 & 2 & 0 \\
+Linköping & 139473.5 & Sweden & 58.4098135 & 15.6245252 & 1 & 0 & 4 & 0 \\
+Malmö & 278522.5 & Sweden & 55.6052931 & 13.0001566 & 1 & 0 & 0 & 0 \\
+Norrköping & 126071.5 & Sweden & 58.5909124 & 16.1903511 & 1 & 0 & 4 & 0 \\
+Orebro & 129703.0 & Sweden & 59.2747287 & 15.2151181 & 1 & 0 & 2 & 0 \\
+STOCKHOLM & 789024.0 & Sweden & 59.3251172 & 18.0710935 & 2 & 0 & 0 & 0 \\
+Umeå & 111503.0 & Sweden & 63.8256568 & 20.2630745 & 1 & 0 & 0 & 0 \\
+Uppsala & 186364.0 & Sweden & 59.8586126 & 17.6387436 & 1 & 0 & 2 & 0 \\
+Västerås & 133324.0 & Sweden & 59.6110992 & 16.5463679 & 1 & 0 & 2 & 0 \\
+Bâle & 171513.0 & Switzerland & 47.5581077 & 7.5878261 & 1 & 0 & 0 & 0 \\
+BERNE & 133798.0 & Switzerland & 46.9482713 & 7.4514512 & 1 & 0 & 0 & 0 \\
+Fribourg & 38521.0 & Switzerland & 46.6789116 & 7.1027113 & 1 & 0 & 0 & 0 \\
+Genève & 200548.0 & Switzerland & 46.2017559 & 6.1466014 & 1 & 0 & 0 & 0 \\
+Lausanne & 138905.0 & Switzerland & 46.5218269 & 6.6327025 & 1 & 0 & 0 & 0 \\
+Lugano & 63494.0 & Switzerland & 46.0050102 & 8.9520281 & 1 & 0 & 0 & 0 \\
+Luzern & 81401.0 & Switzerland & 47.0505452 & 8.3054682 & 1 & 0 & 0 & 0 \\
+St. Gallen & 75522.0 & Switzerland & 47.4250593 & 9.3765878 & 1 & 0 & 0 & 0 \\
+Winterthur & 110912.0 & Switzerland & 47.4991723 & 8.7291498 & 1 & 0 & 1 & 0 \\
+Zug & 30205.0 & Switzerland & 47.1486137 & 8.5539378 & 1 & 0 & 0 & 0 \\
+Zürich & 409241.0 & Switzerland & 47.3723941 & 8.5423328 & 1 & 0 & 0 & 0 \\
+Alchevsk & 107542.0 & Ukraine & 48.4693266 & 38.803538 & 1 & 0 & 0 & 0 \\
+Berdyansk & 111955.0 & Ukraine & 46.97827909999999 & 36.7808059200313 & 1 & 0 & 0 & 0 \\
+Bila Tserkva & 205247.0 & Ukraine & 49.8038191 & 30.1116924 & 1 & 0 & 0 & 0 \\
+Cherkasy & 275469.0 & Ukraine & 49.4447888 & 32.0587805 & 1 & 0 & 2 & 0 \\
+Chernivtsi & 261924.0 & Ukraine & 48.2864702 & 25.9376532 & 1 & 0 & 4 & 0 \\
+Dnepropetrovsk & 990381.0 & Ukraine & 48.4680221 & 35.0417711 & 2 & 0 & 0 & 0 \\
+Dniprodzerzhynsk & 234516.0 & Ukraine & 48.5167748 & 34.6068797 & 1 & 0 & 0 & 0 \\
+Donets'k & 910252.0 & Ukraine & 48.0158753 & 37.8013407 & 2 & 0 & 0 & 0 \\
+Gorlivka & 243536.0 & Ukraine & 48.3058686 & 38.0027664 & 1 & 0 & 0 & 0 \\
+Ivano-Frankivsk & 232502.0 & Ukraine & 48.9225224 & 24.7103188 & 1 & 0 & 1 & 0 \\
+Kharkiv & 1430515.0 & Ukraine & 49.9902794 & 36.2303893 & 3 & 0 & 0 & 0 \\
+Kherson & 287826.0 & Ukraine & 46.6412644 & 32.625794 & 1 & 0 & 1 & 0 \\
+Kirovograd & 225489.0 & Ukraine & 48.5105805 & 32.2656283 & 1 & 0 & 0 & 0 \\
+Kramatorsk & 155155.0 & Ukraine & 48.72880905 & 37.56709527846677 & 1 & 0 & 3 & 0 \\
+Krivoy Rog & 628181.0 & Ukraine & 47.924081 & 33.39054023287501 & 2 & 0 & 1 & 0 \\
+KYIV & 2893215.0 & Ukraine & 50.4500336 & 30.5241361 & 3 & 0 & 0 & 0 \\
+Lugansk & 403254.0 & Ukraine & 48.5717084 & 39.2973153 & 1 & 0 & 2 & 0 \\
+Luts'k & 213422.0 & Ukraine & 50.7450733 & 25.320078 & 1 & 0 & 1 & 0 \\
+Lviv & 720105.0 & Ukraine & 49.841952 & 24.0315921 & 2 & 0 & 0 & 0 \\
+Lysychansk & 97935.0 & Ukraine & 48.8943809 & 38.4432589 & 1 & 0 & 0 & 0 \\
+Makijivka & 343102.0 & Ukraine & 48.0448144 & 37.9635093 & 1 & 0 & 0 & 0 \\
+Mariupol & 441098.0 & Ukraine & 47.0957648 & 37.5499621 & 1 & 0 & 0 & 0 \\
+Melitopol & 153839.0 & Ukraine & 46.8487478 & 35.3676448 & 1 & 0 & 0 & 0 \\
+Nikolaev & 481760.0 & Ukraine & 46.9737705 & 31.9853819 & 1 & 0 & 1 & 0 \\
+Nikopol & 114156.0 & Ukraine & 47.5692061 & 34.3917272 & 1 & 0 & 0 & 0 \\
+Odessa & 993831.0 & Ukraine & 46.4873195 & 30.7392776 & 2 & 0 & 0 & 0 \\
+Pavlograd & 107127.0 & Ukraine & 48.5317201 & 35.8703535 & 1 & 0 & 0 & 0 \\
+Poltava & 282523.0 & Ukraine & 49.5897423 & 34.5507948 & 1 & 0 & 0 & 0 \\
+Rivne & 243152.0 & Ukraine & 50.6196175 & 26.2513165 & 1 & 0 & 0 & 0 \\
+Sievierodonetsk & 104828.0 & Ukraine & 48.9457932 & 38.4975554 & 1 & 0 & 0 & 0 \\
+Slovyansk & 109374.0 & Ukraine & 48.8489051 & 37.58844054183906 & 1 & 0 & 0 & 0 \\
+Sumy & 263681.0 & Ukraine & 50.9070007 & 34.798386 & 1 & 0 & 1 & 0 \\
+Ternopil & 217171.0 & Ukraine & 49.5557716 & 25.591886 & 1 & 0 & 1 & 0 \\
+Uzhhorod & 112436.0 & Ukraine & 48.6223502 & 22.3021255 & 1 & 0 & 0 & 0 \\
+Vinnitsa & 370017.0 & Ukraine & 49.2320162 & 28.467975 & 1 & 0 & 0 & 0 \\
+Zaporozhye & 741496.0 & Ukraine & 47.8507859 & 35.1182867 & 2 & 0 & 1 & 0 \\
+Zhytomyr & 265679.0 & Ukraine & 50.2598298 & 28.6692345 & 1 & 0 & 0 & 0 \\
+Aberdeen & 207932.0 & United Kingdom & 57.1482429 & -2.0928095 & 1 & 0 & 0 & 0 \\
+Belfast & 280211.0 & United Kingdom & 54.5964411 & -5.9302761 & 1 & 0 & 1 & 0 \\
+Birmingham & 1085810.0 & United Kingdom & 52.4796992 & -1.9026911 & 3 & 0 & 0 & 0 \\
+Bolton & 194189.0 & United Kingdom & 53.5782863 & -2.4300367 & 1 & 0 & 1 & 0 \\
+Bournemouth & 187503.0 & United Kingdom & 50.7194784 & -1.8767712 & 1 & 0 & 0 & 0 \\
+Bradford & 349561.0 & United Kingdom & 53.7944229 & -1.7519186 & 1 & 0 & 3 & 0 \\
+Brighton and Hove & 229700.0 & United Kingdom & 50.84522124999999 & -0.1497585054113925 & 1 & 0 & 1 & 0 \\
+Bristol & 535907.0 & United Kingdom & 51.4538022 & -2.5972985 & 2 & 0 & 0 & 0 \\
+Cardiff & 335145.0 & United Kingdom & 51.4816546 & -3.1791934 & 1 & 0 & 0 & 0 \\
+Coventry & 325949.0 & United Kingdom & 52.4081812 & -1.510477 & 1 & 0 & 3 & 0 \\
+Derby & 255394.0 & United Kingdom & 52.9212617 & -1.4761491 & 1 & 0 & 1 & 0 \\
+Edinburgh & 482005.0 & United Kingdom & 55.9533456 & -3.1883749 & 1 & 0 & 0 & 0 \\
+Kingston-upon-Hull & 284321.0 & United Kingdom & 53.7435722 & -0.3394758 & 1 & 0 & 1 & 0 \\
+Leeds & 474632.0 & United Kingdom & 53.7974185 & -1.5437941 & 1 & 0 & 0 & 0 \\
+Leicester & 443760.0 & United Kingdom & 52.6361398 & -1.1330789 & 1 & 0 & 2 & 0 \\
+Liverpool & 552267.0 & United Kingdom & 53.407154 & -2.991665 & 2 & 0 & 1 & 0 \\
+Luton & 211228.0 & United Kingdom & 51.8784385 & -0.4152837 & 1 & 0 & 3 & 0 \\
+Manchester & 510746.0 & United Kingdom & 53.4794892 & -2.2451148 & 2 & 0 & 1 & 0 \\
+Newcastle-upon-Tyne & 268064.0 & United Kingdom & 54.9738474 & -1.6131572 & 1 & 0 & 0 & 0 \\
+Northampton & 215173.0 & United Kingdom & 52.2381355 & -0.8963907 & 1 & 0 & 1 & 0 \\
+Nottingham & 289301.0 & United Kingdom & 52.9534193 & -1.1496461 & 1 & 0 & 1 & 0 \\
+Plymouth & 234982.0 & United Kingdom & 50.3712659 & -4.1425658 & 1 & 0 & 0 & 0 \\
+Portsmouth & 238137.0 & United Kingdom & 50.8036831 & -1.075614 & 1 & 0 & 2 & 0 \\
+Reading & 218705.0 & United Kingdom & 51.456659 & -0.9696512 & 1 & 0 & 0 & 0 \\
+Sheffield & 518090.0 & United Kingdom & 53.3806626 & -1.4702278 & 2 & 0 & 0 & 0 \\
+Southampton & 253651.0 & United Kingdom & 50.9025349 & -1.404189 & 1 & 0 & 2 & 0 \\
+Stoke-on-Trent & 270726.0 & United Kingdom & 53.0162014 & -2.1812607 & 1 & 0 & 2 & 0 \\
+Wolverhampton & 210319.0 & United Kingdom & 52.5847651 & -2.127567 & 1 & 0 & 2 & 0 \\
+PAGO PAGO & 3656.0 & American Samoa & -14.2754786 & -170.7048298 & 1 & 0 & 0 & 0 \\
+Adelaide & 24193.0 & Australia & -34.9281805 & 138.5999312 & 1 & 0 & 0 & 0 \\
+Ballarat & 105438.0 & Australia & -37.5622632 & 143.8607215 & 1 & 0 & 4 & 0 \\
+Brisbane & 1209322.0 & Australia & -27.4689682 & 153.0234991 & 3 & 0 & 0 & 0 \\
+Cairns & 163814.0 & Australia & -16.9206657 & 145.7721854 & 1 & 0 & 4 & 0 \\
+CANBERRA & 411667.0 & Australia & -35.2975906 & 149.1012676 & 1 & 0 & 0 & 0 \\
+Canberra-Queanbeyan & 470438.0 & Australia & -35.30287875 & 149.191800563258 & 1 & 0 & 3 & 0 \\
+Central Coast & 339196.0 & Australia & -33.3117096 & 151.312067495083 & 1 & 0 & 0 & 0 \\
+Darwin & 85914.0 & Australia & -12.46044 & 130.8410469 & 1 & 0 & 0 & 0 \\
+Geelong & 245751.0 & Australia & -38.1492813 & 144.3598269 & 1 & 0 & 1 & 0 \\
+Gold Coast & 591356.0 & Australia & -28.0023731 & 153.4145987 & 2 & 0 & 0 & 0 \\
+Gold Coast-Tweed Heads & 686213.0 & Australia & -28.164853 & 153.5081045532748 & 2 & 0 & 8 & 1 \\
+Hobart & 52785.0 & Australia & -42.8825088 & 147.3281233 & 1 & 0 & 2 & 0 \\
+Melbourne & 158923.0 & Australia & -37.8142176 & 144.9631608 & 1 & 0 & 0 & 0 \\
+Newcastle & 162358.0 & Australia & -32.9272881 & 151.7812534 & 1 & 0 & 3 & 0 \\
+Newcastle-Maitland & 243347.0 & Australia & -32.84815395 & 151.739729559677 & 1 & 0 & 1 & 0 \\
+Perth & 27340.0 & Australia & -31.9527121 & 115.8604796 & 1 & 0 & 0 & 0 \\
+Sunshine Coast & 311211.0 & Australia & -26.5443222 & 153.0507705 & 1 & 0 & 1 & 0 \\
+Sydney & 232926.0 & Australia & -33.8548157 & 151.2164539 & 1 & 0 & 0 & 0 \\
+Townsville & 192988.0 & Australia & -19.2569391 & 146.8239537 & 1 & 0 & 2 & 0 \\
+RAROTONGA & 13044.0 & Cook Islands & -21.24755285 & -159.7761090428452 & 1 & 0 & 0 & 0 \\
+SUVA & 74481.0 & Fiji & -18.1415884 & 178.4421662 & 1 & 0 & 5 & 0 \\
+PAPEETE & 25763.0 & French Polynesia & -17.5373835 & -149.5659964 & 1 & 0 & 0 & 0 \\
+MAJURO & 27797.0 & Marshall Islands & 7.0909924 & 171.3816354 & 1 & 0 & 0 & 0 \\
+PALIKIR & 6227.0 & Micronesia & 6.920744 & 158.1627143 & 1 & 0 & 0 & 0 \\
+NOUMEA & 99926.0 & New Caledonia & -22.2745264 & 166.442419 & 1 & 0 & 1 & 0 \\
+Auckland & 1695900.0 & New Zealand & -36.852095 & 174.7631803 & 3 & 0 & 0 & 0 \\
+Christchurch & 388500.0 & New Zealand & -43.530955 & 172.6366455 & 1 & 0 & 0 & 0 \\
+Dunedin & 130700.0 & New Zealand & -45.8740984 & 170.5035755 & 1 & 0 & 3 & 0 \\
+Lower Hutt & 105900.0 & New Zealand & -41.2125751 & 174.9057626 & 1 & 0 & 0 & 0 \\
+Tauranga & 135000.0 & New Zealand & -37.6859006 & 176.167505 & 1 & 0 & 6 & 0 \\
+WELLINGTON & 216300.0 & New Zealand & -41.2887953 & 174.7772114 & 1 & 0 & 0 & 0 \\
+ALOFI & 639.0 & Niue & -19.0534159 & -169.9191992 & 1 & 0 & 0 & 0 \\
+GARAPAN & 3983.0 & Northern Mariana Islands & 15.2058119 & 145.7183430079398 & 1 & 0 & 2 & 0 \\
+PORT MORESBY & 364125.0 & Papua New Guinea & -9.4743301 & 147.1599504 & 1 & 0 & 0 & 0 \\
+ADAMSTOWN & 49.0 & Pitcairn & -25.066667 & -130.1002054 & 1 & 0 & 0 & 0 \\
+APIA & 37391.0 & Samoa & -13.8343691 & -171.7692793 & 1 & 0 & 0 & 0 \\
+HONIARA & 64609.0 & Solomon Islands & -9.4310769 & 159.9552552 & 1 & 0 & 0 & 0 \\
+PORT VILA & 44039.0 & Vanuatu & -17.7414972 & 168.3150163 & 1 & 0 & 0 & 0 \\

@@ -13,6 +13,8 @@
 #     name: python3
 # ---
 
+# Write a little introduction
+
 # {{{
 import numpy as np # library to handle data in a vectorized manner
 
@@ -617,11 +619,11 @@ future_vacation_destination.head()
 # ### 5.2 pretend to select a city  
 #
 
-# Our first example input 'BERLIN' revealed, that Toronto (Canada) is most similar to Berlin (Germany). It has a similar amount of coffee shops, parks and other cultural as well as cousine related venues. Furthermore, Toronto and Berlin fall into the same population bin (1-5Mio inhabitants). Thus we select Toronto for our next vacation. Let's use the function `get_information_on_next_vacation` to find out more about Toronto
+# Our first example input 'BERLIN' revealed, that s-Gravenhage (The Netherlands) is quite similar to Berlin (Germany). It has a similar amount of coffee shops, parks and other cultural as well as cousine related venues. Furthermore, s-Gravenhage is smaller than Berlin and far less known. Let's use the function `get_information_on_next_vacation` to find out more about s-Gravenhage.
 
 # ### 5.3 use `foursquare` to get more information on an example city  
 
-future_vacation_destination_info = get_information_on_next_vacation('Toronto', population_venue_data, 20)
+future_vacation_destination_info = get_information_on_next_vacation('s-Gravenhage', population_venue_data, 20)
 future_vacation_destination_info
 
 # It looks like our next vacation will be filled with food and a little bit of culture.

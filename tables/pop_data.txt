@@ -1,0 +1,2556 @@
+City & Population Size & Country \\
+Adrar & 200834.0 & Algeria \\
+Ain Defla & 450280.0 & Algeria \\
+Ain Temouchent & 299341.0 & Algeria \\
+ALGIERS (EL DJAZAIR) & 2712944.0 & Algeria \\
+Annaba & 442230.0 & Algeria \\
+Batna & 768444.0 & Algeria \\
+Béchar & 236213.0 & Algeria \\
+Bejaïa & 559981.0 & Algeria \\
+Beskra (Biskra) & 563245.0 & Algeria \\
+Bordj Bou Arreridj & 422986.0 & Algeria \\
+Bouira & 372196.0 & Algeria \\
+Boumerdes & 459250.0 & Algeria \\
+Chlef & 521070.0 & Algeria \\
+El Bayadh & 192958.0 & Algeria \\
+El Djelfa & 825411.0 & Algeria \\
+El Oued & 495573.0 & Algeria \\
+El Tarf & 230157.0 & Algeria \\
+Ghardaïa & 355701.0 & Algeria \\
+Guelma & 363716.0 & Algeria \\
+Jijel & 391096.0 & Algeria \\
+Khenchela & 288849.0 & Algeria \\
+Laghouat & 371204.0 & Algeria \\
+Mila & 440735.0 & Algeria \\
+M'Sila & 666848.0 & Algeria \\
+Naama & 160381.0 & Algeria \\
+Oum El Bouaghi & 467997.0 & Algeria \\
+Qacentina (Constantine) & 717646.0 & Algeria \\
+Saïda & 248939.0 & Algeria \\
+Sidi-bel-Abbès & 517836.0 & Algeria \\
+Skikda & 543402.0 & Algeria \\
+Souq Ahras & 308319.0 & Algeria \\
+Tamanrasset & 136822.0 & Algeria \\
+Tbessa (Tébessa) & 515786.0 & Algeria \\
+Tihert (Tiaret) & 637991.0 & Algeria \\
+Tilimsen (Tlemcen) & 672490.0 & Algeria \\
+Tipaza & 343838.0 & Algeria \\
+Tissemsilt & 193011.0 & Algeria \\
+Tizi Ouzou & 585775.0 & Algeria \\
+Wahran (Oran) & 1165687.0 & Algeria \\
+Cotonou & 679012.0 & Benin \\
+Parakou & 255478.0 & Benin \\
+PORTO-NOVO & 264320.0 & Benin \\
+Francistown & 110077.0 & Botswana \\
+GABORONE & 264311.0 & Botswana \\
+Banfora & 75917.0 & Burkina Faso \\
+Bobo Dioulasso & 489967.0 & Burkina Faso \\
+Dori & 21078.0 & Burkina Faso \\
+Fada N'gourma & 41785.0 & Burkina Faso \\
+Gorom-Gorom & 8882.0 & Burkina Faso \\
+Kaya & 54365.0 & Burkina Faso \\
+Koudougou & 88184.0 & Burkina Faso \\
+OUAGADOUGOU & 1475223.0 & Burkina Faso \\
+Ouahigouya & 73153.0 & Burkina Faso \\
+Solenzo & 16850.0 & Burkina Faso \\
+Tenkodogo & 44491.0 & Burkina Faso \\
+BUJUMBURA & 497169.0 & Burundi \\
+Douala & 2948464.0 & Cameroon \\
+YAOUNDE & 2873567.0 & Cameroon \\
+Abengourou & 100910.0 & Côte d'Ivoire \\
+Abidjan & 4395243.0 & Côte d'Ivoire \\
+Anyama & 103297.0 & Côte d'Ivoire \\
+Bouake & 536719.0 & Côte d'Ivoire \\
+Daloa & 245360.0 & Côte d'Ivoire \\
+Divo & 105397.0 & Côte d'Ivoire \\
+Gagnoa & 160465.0 & Côte d'Ivoire \\
+Korhogo & 243048.0 & Côte d'Ivoire \\
+Man & 148945.0 & Côte d'Ivoire \\
+San Pédro & 164944.0 & Côte d'Ivoire \\
+Soubre & 101196.0 & Côte d'Ivoire \\
+YAMOUSSOUKRO & 212670.0 & Côte d'Ivoire \\
+DJIBOUTI & 475322.0 & Djibouti \\
+ASMARA & 501203.0 & Eritrea \\
+ADDIS ABABA & 4215965.41463451 & Ethiopia \\
+Awassa & 241825.244096661 & Ethiopia \\
+Bahir Dar & 239192.142240029 & Ethiopia \\
+Debre Zeit & 153781.76641121 & Ethiopia \\
+Dessie & 184817.280813729 & Ethiopia \\
+Dire Dawa & 358914.405266673 & Ethiopia \\
+Gondar & 318625.330686521 & Ethiopia \\
+Harar & 152919.968024469 & Ethiopia \\
+Jimma & 186148.451536106 & Ethiopia \\
+Mekele & 471545.29871099 & Ethiopia \\
+Nazareth & 338889.904180464 & Ethiopia \\
+ACCRA & 1594419.0 & Ghana \\
+Ashiaman & 190972.0 & Ghana \\
+Koforidua & 122300.0 & Ghana \\
+Kumasi & 1730249.0 & Ghana \\
+Madina & 111926.0 & Ghana \\
+Obuasi & 168641.0 & Ghana \\
+Tamale & 223252.0 & Ghana \\
+Tema & 292773.0 & Ghana \\
+Boke & 185548.0 & Guinea \\
+CONAKRY & 1659785.0 & Guinea \\
+Coyah & 216928.0 & Guinea \\
+Dubreka & 157017.0 & Guinea \\
+Kankan & 190722.0 & Guinea \\
+Kindia & 138695.0 & Guinea \\
+Nzérékoré & 195027.0 & Guinea \\
+Siguiri & 127492.0 & Guinea \\
+BISSAU & 387909.0 & Guinea-Bissau \\
+Eldoret & 247500.0 & Kenya \\
+Garissa & 109224.0 & Kenya \\
+Kangundo & 13119.0 & Kenya \\
+Karuri & 107754.0 & Kenya \\
+Kikuyu & 200285.0 & Kenya \\
+Kisumu & 254016.0 & Kenya \\
+Machakos & 40819.0 & Kenya \\
+Mombasa & 905627.0 & Kenya \\
+NAIROBI & 3109861.0 & Kenya \\
+Nakuru & 343395.0 & Kenya \\
+Ngong & 103927.0 & Kenya \\
+Ruiru & 238329.0 & Kenya \\
+Thika & 136386.0 & Kenya \\
+MASERU & 330760.0 & Lesotho \\
+Blantyre City & 800264.0 & Malawi \\
+LILONGWE & 989318.0 & Malawi \\
+Mzuzu City & 221272.0 & Malawi \\
+Zomba City & 105013.0 & Malawi \\
+Nouadhibou & 118167.0 & Mauritania \\
+NOUAKCHOTT & 958399.0 & Mauritania \\
+Beau Bassin - Rose Hill & 104086.0 & Mauritius \\
+PORT LOUIS & 147448.0 & Mauritius \\
+Vacoas - Phoenix & 106022.0 & Mauritius \\
+Agadir & 505765.0 & Morocco \\
+Al Hoceima & 137024.0 & Morocco \\
+Azilal & 100327.0 & Morocco \\
+Béni-Mellal & 325405.0 & Morocco \\
+Benslimane & 113341.0 & Morocco \\
+Berkane & 182203.0 & Morocco \\
+Berrechid & 272356.0 & Morocco \\
+Casablanca (Dar-el-Beida) & 3352399.0 & Morocco \\
+Chtouka-Ait Baha & 111522.0 & Morocco \\
+El Hajeb & 121226.0 & Morocco \\
+El Kelâa des Sraghna & 152900.0 & Morocco \\
+El-Jadida & 311038.0 & Morocco \\
+Errachidia & 193748.0 & Morocco \\
+Essaouira & 106319.0 & Morocco \\
+Fès & 1126551.0 & Morocco \\
+Fquih Ben Salah & 204732.0 & Morocco \\
+Guelmim & 138788.0 & Morocco \\
+Inezgane ait Melloul & 511209.0 & Morocco \\
+Kénitra & 604206.0 & Morocco \\
+Khemisset & 279890.0 & Morocco \\
+Khénifra & 228509.0 & Morocco \\
+Khouribga & 376829.0 & Morocco \\
+Laayoune & 234870.0 & Morocco \\
+Larache & 264802.0 & Morocco \\
+Marrakech & 978045.0 & Morocco \\
+M'Diq-Fnideq & 196586.0 & Morocco \\
+Médiouna & 119054.0 & Morocco \\
+Meknès & 685408.0 & Morocco \\
+Midelt & 124684.0 & Morocco \\
+Mohammedia & 288131.0 & Morocco \\
+Nador & 390913.0 & Morocco \\
+Nouaceur & 271052.0 & Morocco \\
+Ouarzazate & 113230.0 & Morocco \\
+Oued Ed-Dahab & 105193.0 & Morocco \\
+Oujda & 504480.0 & Morocco \\
+RABAT & 578644.0 & Morocco \\
+Rehamna & 102715.0 & Morocco \\
+Safi & 345595.0 & Morocco \\
+Salé & 912957.0 & Morocco \\
+Sefrou & 154973.0 & Morocco \\
+Settat & 215665.0 & Morocco \\
+Sidi Kacem & 168302.0 & Morocco \\
+Sidi Slimane & 130576.0 & Morocco \\
+Skhirate-Témara & 512867.0 & Morocco \\
+Tanger & 998972.0 & Morocco \\
+Taourirt & 149604.0 & Morocco \\
+Taroudannt & 247428.0 & Morocco \\
+Taza & 207719.0 & Morocco \\
+Tétouan & 396806.0 & Morocco \\
+Youssoufia & 100617.0 & Morocco \\
+Beira & 460904.232348069 & Mozambique \\
+Chimoio & 314751.068625649 & Mozambique \\
+Lichinga & 214613.890891649 & Mozambique \\
+MAPUTO & 1241702.0 & Mozambique \\
+Matola & 927123.484500845 & Mozambique \\
+Maxixe & 127372.135214175 & Mozambique \\
+Nacala & 241065.773765736 & Mozambique \\
+Nampula & 622423.462583879 & Mozambique \\
+Pemba & 199457.010666893 & Mozambique \\
+Quelimane & 241076.703996154 & Mozambique \\
+Tete & 213405.94589976 & Mozambique \\
+Xai-Xai & 128946.06957616 & Mozambique \\
+WINDHOEK & 325858.0 & Namibia \\
+Maradi & 267249.0 & Niger \\
+NIAMEY & 1026848.0 & Niger \\
+Tahoua & 149498.0 & Niger \\
+Zinder & 322935.0 & Niger \\
+JUBA & 230195.0 & South Sudan \\
+Malakal & 114528.0 & South Sudan \\
+Wau & 118331.0 & South Sudan \\
+SAINT-DENIS & 146985.0 & Reunion \\
+Saint-Paul & 105967.0 & Reunion \\
+KIGALI & 859332.0 & Rwanda \\
+JAMESTOWN & 657.0 & Saint Helena \\
+DAKAR & 1056009.0 & Senegal \\
+Diourbel & 279667.0 & Senegal \\
+Guediawaye & 317464.0 & Senegal \\
+Kaolack & 410577.0 & Senegal \\
+Mbour & 605346.0 & Senegal \\
+Pikine & 941245.0 & Senegal \\
+Rufisque & 333032.0 & Senegal \\
+Saint Louis & 277245.13181342 & Senegal \\
+Thiès & 618436.0 & Senegal \\
+Ziguinchor & 337295.0 & Senegal \\
+Bo & 174369.0 & Sierra Leone \\
+FREETOWN & 1055964.0 & Sierra Leone \\
+Kenema & 200443.0 & Sierra Leone \\
+Makeni & 124634.0 & Sierra Leone \\
+MOGADISHU & 1212000.0 & Somalia \\
+Durban & 595061.0 & South Africa \\
+Johannesburg & 957441.0 & South Africa \\
+Kara & 104400.0 & Togo \\
+Sokode & 101900.0 & Togo \\
+KAMPALA & 1507114.0 & Uganda \\
+Dar es Salaam & 5147070.0 & Western Sahara \\
+EL AAIUN & 169000.0 & Morocco \\
+Chingola & 216626.0 & Zambia \\
+Chipata & 455783.0 & Zambia \\
+Kabwe & 202360.0 & Zambia \\
+Kasama & 231824.0 & Zambia \\
+Kitwe & 517543.0 & Zambia \\
+Livingstone & 139509.0 & Zambia \\
+Luanshya & 156059.0 & Zambia \\
+LUSAKA & 1747152.0 & Zambia \\
+Mufulira & 162889.0 & Zambia \\
+Ndola & 451246.0 & Zambia \\
+Bulawayo & 653337.0 & Zimbabwe \\
+Chitungwiza & 356840.0 & Zimbabwe \\
+HARARE & 1485231.0 & Zimbabwe \\
+Mutare & 262124.0 & Zimbabwe \\
+THE VALLEY & 2812.0 & Anguilla \\
+ORANJESTAD & 28295.0 & Aruba \\
+NASSAU & 266100.0 & Bahamas \\
+BELMOPAN & 23038.0 & Belize \\
+HAMILTON & 854.0 & Bermuda \\
+Abbotsford & 153745.0 & Canada \\
+Ajax & 126924.0 & Canada \\
+Barrie & 147685.0 & Canada \\
+Belleville & 53971.0 & Canada \\
+Brampton & 656977.0 & Canada \\
+Brantford & 104231.0 & Canada \\
+Burlington & 189204.0 & Canada \\
+Burnaby & 248071.0 & Canada \\
+Calgary & 1311833.0 & Canada \\
+Cambridge & 136945.0 & Canada \\
+Chatham-Kent & 105445.0 & Canada \\
+Chilliwack & 91346.0 & Canada \\
+Coquitlam & 149391.0 & Canada \\
+Delta & 108724.0 & Canada \\
+Edmonton & 1004947.0 & Canada \\
+Gatineau & 282596.0 & Canada \\
+Greater Sudbury / Grand Sudbury & 168141.0 & Canada \\
+Guelph & 140683.0 & Canada \\
+Halifax & 430230.0 & Canada \\
+Hamilton & 567979.0 & Canada \\
+Kamloops & 97842.0 & Canada \\
+Kelowna & 138513.0 & Canada \\
+Kingston & 132943.0 & Canada \\
+Kitchener & 254740.0 & Canada \\
+Langley & 128487.0 & Canada \\
+Laval & 432858.0 & Canada \\
+Lethbridge & 98960.0 & Canada \\
+Lévis V & 146080.0 & Canada \\
+London & 414959.0 & Canada \\
+Longueuil & 243921.0 & Canada \\
+Markham & 336445.0 & Canada \\
+Milton & 120558.0 & Canada \\
+Mississauga & 747651.0 & Canada \\
+Moncton & 75613.0 & Canada \\
+Montréal & 1784420.0 & Canada \\
+Nanaimo & 97826.0 & Canada \\
+Oakville & 206452.0 & Canada \\
+Oshawa & 169509.0 & Canada \\
+OTTAWA & 1007501.0 & Canada \\
+Peterborough & 86538.0 & Canada \\
+Québec & 542602.0 & Canada \\
+Red Deer & 104493.0 & Canada \\
+Regina & 233170.0 & Canada \\
+Richmond & 209838.0 & Canada \\
+Richmond Hill & 199496.0 & Canada \\
+Saanich & 121032.0 & Canada \\
+Saguenay & 146436.0 & Canada \\
+Saint John & 70455.0 & Canada \\
+Saskatoon & 268188.0 & Canada \\
+Sherbrooke & 166863.0 & Canada \\
+St. Catharines & 139168.0 & Canada \\
+St. John's & 110999.0 & Canada \\
+Surrey & 568158.0 & Canada \\
+Terrebonne & 115484.0 & Canada \\
+Thunder Bay & 112014.0 & Canada \\
+Toronto & 2956024.0 & Canada \\
+Trois-Rivières & 136954.0 & Canada \\
+Vancouver & 676593.0 & Canada \\
+Vaughan & 318279.0 & Canada \\
+Victoria & 92292.0 & Canada \\
+Waterloo & 115921.0 & Canada \\
+Whitby & 135345.0 & Canada \\
+Windsor & 229787.0 & Canada \\
+Winnipeg & 753674.0 & Canada \\
+GEORGE TOWN & 28089.0 & Cayman Islands \\
+Alajuela & 306206.0 & Costa Rica \\
+Cartago & 161727.0 & Costa Rica \\
+Desamparados & 240671.0 & Costa Rica \\
+Goicoechea & 136112.0 & Costa Rica \\
+Heredia & 140131.0 & Costa Rica \\
+La Unión & 110194.0 & Costa Rica \\
+Pérez Zeledón & 142789.0 & Costa Rica \\
+Pococí & 146482.0 & Costa Rica \\
+Puntarenas & 136328.0 & Costa Rica \\
+San Carlos & 194207.0 & Costa Rica \\
+SAN JOSÉ & 342188.0 & Costa Rica \\
+Bayamo & 159797.298902928 & Cuba \\
+Camagüey & 307527.18641163 & Cuba \\
+Ciego de Ávila & 120152.557014113 & Cuba \\
+Cienfuegos & 151287.165640015 & Cuba \\
+Guantánamo & 215847.154901444 & Cuba \\
+Holguín & 296199.026429795 & Cuba \\
+LA HABANA & 2130516.5 & Cuba \\
+Las Tunas & 171631.259452883 & Cuba \\
+Matanzas & 141908.556207161 & Cuba \\
+Pinar del Río & 144102.273508239 & Cuba \\
+Sancti Spíritus & 108883.0 & Cuba \\
+Santa Clara & 216497.993560697 & Cuba \\
+Santiago de Cuba & 433539.660182045 & Cuba \\
+Bajos de Haina & 136157.0 & Dominican Republic \\
+Baní & 166522.0 & Dominican Republic \\
+Boca Chica & 167784.0 & Dominican Republic \\
+Bonao & 131036.0 & Dominican Republic \\
+Higüey & 311001.0 & Dominican Republic \\
+La Romana & 152344.0 & Dominican Republic \\
+La Vega & 257145.0 & Dominican Republic \\
+Los Alcarrizos & 322256.0 & Dominican Republic \\
+Moca & 184611.0 & Dominican Republic \\
+Puerto Plata & 163663.0 & Dominican Republic \\
+San Cristóbal & 255184.0 & Dominican Republic \\
+San Francisco de Macoris & 193244.0 & Dominican Republic \\
+San Juan de la Maguana & 127548.0 & Dominican Republic \\
+San Pedro de Macorís & 203461.0 & Dominican Republic \\
+Santiago de los Caballeros & 739631.0 & Dominican Republic \\
+SANTO DOMINGO & 1029607.0 & Dominican Republic \\
+Santo Domingo East - Santo Domingo Este & 1121121.0 & Dominican Republic \\
+Santo Domingo North - Santo Domingo Norte & 625430.0 & Dominican Republic \\
+Santo Domingo West - Santo Domingo Oeste & 429260.0 & Dominican Republic \\
+Ahuachapán & 129750.0 & El Salvador \\
+Apopa & 185073.0 & El Salvador \\
+Ciudad Delgado & 128012.0 & El Salvador \\
+Ilopango & 135703.0 & El Salvador \\
+Mejicanos & 144872.0 & El Salvador \\
+San Martin & 103245.0 & El Salvador \\
+San Miguel & 265921.0 & El Salvador \\
+SAN SALVADOR & 238244.0 & El Salvador \\
+Santa Ana & 272554.0 & El Salvador \\
+Santa Tecla & 138695.0 & El Salvador \\
+Soyapango & 283223.0 & El Salvador \\
+NUUK (GODTHAB) & 17798.0 & Greenland \\
+BASSE-TERRE & 12377.0 & Guadeloupe \\
+CUIDAD DE GUATEMALA & 942348.0 & Guatemala \\
+Cap-Haitien & 113555.0 & Haiti \\
+Carrefour & 336222.0 & Haiti \\
+Delmas & 284079.0 & Haiti \\
+PORT-AU-PRINCE & 990558.0 & Haiti \\
+Catacamas & 117493.0 & Honduras \\
+Choloma & 231669.0 & Honduras \\
+Choluteca & 152519.0 & Honduras \\
+Comayagua & 144785.0 & Honduras \\
+Danlí & 195916.0 & Honduras \\
+El Progreso & 188366.0 & Honduras \\
+Juticalpa & 124828.0 & Honduras \\
+La Ceiba & 197267.0 & Honduras \\
+Olanchito & 104609.0 & Honduras \\
+Puerto Cortés & 122426.0 & Honduras \\
+San Pedro Sula & 719064.0 & Honduras \\
+TEGUCIGALPA & 1157509.0 & Honduras \\
+Villanueva & 149977.0 & Honduras \\
+FORT-DE-FRANCE & 82502.0 & Martinique \\
+CIUDAD DE PANAMÁ & 481993.0 & Panama \\
+San Miguelito & 370009.0 & Panama \\
+Bayamón & 179565.0 & Puerto Rico \\
+Caguas & 129604.0 & Puerto Rico \\
+Carolina & 154489.0 & Puerto Rico \\
+Ponce & 140859.0 & Puerto Rico \\
+SAN JUAN & 337288.0 & Puerto Rico \\
+CASTRIES & 4173.0 & Saint Lucia \\
+SAINT-PIERRE & 5415.0 & Saint Pierre and Miquelon \\
+PORT-OF-SPAIN & 37074.0 & Trinidad and Tobago \\
+GRAND TURK & 4831.0 & Turks and Caicos Islands \\
+Abilene (TX) & 122225.0 & United States of America \\
+Akron (OH) & 197633.0 & United States of America \\
+Albuquerque (NM) & 559277.0 & United States of America \\
+Alexandria (VA) & 155810.0 & United States of America \\
+Allentown (PA) & 120443.0 & United States of America \\
+Amarillo (TX) & 199582.0 & United States of America \\
+Anaheim (CA) & 351043.0 & United States of America \\
+Anchorage (AK) & 298192.0 & United States of America \\
+Ann Arbor (MI) & 120782.0 & United States of America \\
+Antioch (CA) & 110898.0 & United States of America \\
+Arlington (TX) & 392772.0 & United States of America \\
+Arvada (CO) & 117453.0 & United States of America \\
+Athens (GA) & 123371.0 & United States of America \\
+Atlanta (GA) & 472522.0 & United States of America \\
+Augusta (GA) & 197081.0 & United States of America \\
+Aurora (CO) & 361710.0 & United States of America \\
+Aurora (IL) & 201110.0 & United States of America \\
+Austin (TX) & 947890.0 & United States of America \\
+Bakersfield (CA) & 376380.0 & United States of America \\
+Baltimore (MD) & 614664.0 & United States of America \\
+Baton Rouge (LA) & 227715.0 & United States of America \\
+Beaumont (TX) & 118299.0 & United States of America \\
+Bellevue (WA) & 141400.0 & United States of America \\
+Berkeley (CA) & 121240.0 & United States of America \\
+Billings (MT) & 110323.0 & United States of America \\
+Birmingham (AL) & 212157.0 & United States of America \\
+Boise City (ID) & 223154.0 & United States of America \\
+Boston (MA) & 673184.0 & United States of America \\
+Boulder (CO) & 108090.0 & United States of America \\
+Bridgeport (CT) & 145936.0 & United States of America \\
+Broken Arrow (OK) & 107403.0 & United States of America \\
+Brownsville (TX) & 183823.0 & United States of America \\
+Buffalo (NY) & 256902.0 & United States of America \\
+Burbank (CA) & 104447.0 & United States of America \\
+Cambridge (MA) & 110651.0 & United States of America \\
+Cape Coral (FL) & 179804.0 & United States of America \\
+Carlsbad (CA) & 113952.0 & United States of America \\
+Carrollton (TX) & 133351.0 & United States of America \\
+Cary (NC) & 162320.0 & United States of America \\
+Cedar Rapids (IA) & 131127.0 & United States of America \\
+Centennial (CO) & 109932.0 & United States of America \\
+Chandler (AZ) & 247477.0 & United States of America \\
+Charleston (SC) & 134385.0 & United States of America \\
+Charlotte (NC) & 842051.0 & United States of America \\
+Chattanooga (TN) & 177571.0 & United States of America \\
+Chesapeake (VA) & 237940.0 & United States of America \\
+Chicago (IL) & 2704958.0 & United States of America \\
+Chula Vista (CA) & 267172.0 & United States of America \\
+Cincinnati (OH) & 298800.0 & United States of America \\
+Clarksville (TN) & 150287.0 & United States of America \\
+Clearwater (FL) & 114361.0 & United States of America \\
+Cleveland (OH) & 385809.0 & United States of America \\
+Clovis (CA) & 106583.0 & United States of America \\
+College Station (TX) & 112141.0 & United States of America \\
+Colorado Springs (CO) & 465101.0 & United States of America \\
+Columbia (MO) & 120612.0 & United States of America \\
+Columbia (SC) & 134309.0 & United States of America \\
+Columbus (GA) & 197485.0 & United States of America \\
+Columbus (OH) & 860090.0 & United States of America \\
+Concord (CA) & 128726.0 & United States of America \\
+Coral Springs (FL) & 130059.0 & United States of America \\
+Corona (CA) & 166785.0 & United States of America \\
+Corpus Christi (TX) & 325733.0 & United States of America \\
+Costa Mesa (CA) & 112822.0 & United States of America \\
+Dallas (TX) & 1317929.0 & United States of America \\
+Daly City (CA) & 106472.0 & United States of America \\
+Davenport (IA) & 102612.0 & United States of America \\
+Davie (FL) & 101871.0 & United States of America \\
+Dayton (OH) & 140489.0 & United States of America \\
+Denton (TX) & 133808.0 & United States of America \\
+Denver (CO) & 693060.0 & United States of America \\
+Des Moines (IA) & 215472.0 & United States of America \\
+Detroit (MI) & 672795.0 & United States of America \\
+Downey (CA) & 113267.0 & United States of America \\
+Durham (NC) & 263016.0 & United States of America \\
+El Cajon (CA) & 103768.0 & United States of America \\
+El Monte (CA) & 115807.0 & United States of America \\
+El Paso (TX) & 683080.0 & United States of America \\
+Elgin (IL) & 112123.0 & United States of America \\
+Elizabeth (NJ) & 128640.0 & United States of America \\
+Elk Grove (CA) & 169743.0 & United States of America \\
+Escondido (CA) & 151613.0 & United States of America \\
+Eugene (OR) & 166575.0 & United States of America \\
+Evansville (IN) & 119477.0 & United States of America \\
+Everett (WA) & 109043.0 & United States of America \\
+Fairfield (CA) & 114756.0 & United States of America \\
+Fargo (ND) & 120762.0 & United States of America \\
+Fayetteville (NC) & 204759.0 & United States of America \\
+Fontana (CA) & 209665.0 & United States of America \\
+Fort Collins (CO) & 164207.0 & United States of America \\
+Fort Lauderdale (FL) & 178752.0 & United States of America \\
+Fort Wayne (IN) & 264488.0 & United States of America \\
+Fort Worth (TX) & 854113.0 & United States of America \\
+Fremont (CA) & 233136.0 & United States of America \\
+Fresno (CA) & 522053.0 & United States of America \\
+Frisco (TX) & 163656.0 & United States of America \\
+Fullerton (CA) & 140721.0 & United States of America \\
+Gainesville (FL) & 131591.0 & United States of America \\
+Garden Grove (CA) & 174858.0 & United States of America \\
+Garland (TX) & 234943.0 & United States of America \\
+Gilbert (AZ) & 237133.0 & United States of America \\
+Glendale (AZ) & 245895.0 & United States of America \\
+Glendale (CA) & 200831.0 & United States of America \\
+Grand Prairie (TX) & 190682.0 & United States of America \\
+Grand Rapids (MI) & 196445.0 & United States of America \\
+Greeley (CO) & 103990.0 & United States of America \\
+Green Bay (WI) & 105139.0 & United States of America \\
+Greensboro (NC) & 287027.0 & United States of America \\
+Gresham (OR) & 111523.0 & United States of America \\
+Hampton (VA) & 135410.0 & United States of America \\
+Hartford (CT) & 123243.0 & United States of America \\
+Hayward (CA) & 158937.0 & United States of America \\
+Henderson (NV) & 292969.0 & United States of America \\
+Hialeah (FL) & 236387.0 & United States of America \\
+High Point City (NC) & 111223.0 & United States of America \\
+Hillsboro (OR) & 105164.0 & United States of America \\
+Hollywood (FL) & 151998.0 & United States of America \\
+Houston (TX) & 2303482.0 & United States of America \\
+Huntington Beach (CA) & 200652.0 & United States of America \\
+Huntsville (AL) & 193079.0 & United States of America \\
+Independence (MO) & 117030.0 & United States of America \\
+Indianapolis (IN) & 855164.0 & United States of America \\
+Inglewood (CA) & 110654.0 & United States of America \\
+Irvine (CA) & 266122.0 & United States of America \\
+Irving (TX) & 238289.0 & United States of America \\
+Jackson (MS) & 169148.0 & United States of America \\
+Jacksonville (FL) & 880619.0 & United States of America \\
+Jersey City (NJ) & 264152.0 & United States of America \\
+Joliet (IL) & 148262.0 & United States of America \\
+Jurupa Valley (CA) & 103541.0 & United States of America \\
+Kansas City (KS) & 151709.0 & United States of America \\
+Kansas City (MO) & 481420.0 & United States of America \\
+Kent (WA) & 127514.0 & United States of America \\
+Killeen (TX) & 143400.0 & United States of America \\
+Knoxville (TN) & 186239.0 & United States of America \\
+Lafayette (LA) & 127626.0 & United States of America \\
+Lakeland (FL) & 106420.0 & United States of America \\
+Lakewood (CO) & 154393.0 & United States of America \\
+Lancaster (CA) & 160106.0 & United States of America \\
+Lansing (MI) & 116020.0 & United States of America \\
+Laredo (TX) & 257156.0 & United States of America \\
+Las Cruces (NM) & 101759.0 & United States of America \\
+Las Vegas (NV) & 632912.0 & United States of America \\
+League City (TX) & 102010.0 & United States of America \\
+Lewisville (TX) & 104659.0 & United States of America \\
+Lexington-Fayette (KY) & 318449.0 & United States of America \\
+Lincoln (NE) & 280364.0 & United States of America \\
+Little Rock (AR) & 198541.0 & United States of America \\
+Long Beach (CA) & 470130.0 & United States of America \\
+Los Angeles (CA) & 3976322.0 & United States of America \\
+Louisville (KY) & 616261.0 & United States of America \\
+Lowell (MA) & 110558.0 & United States of America \\
+Lubbock (TX) & 252506.0 & United States of America \\
+Macon-Bibb (GA) & 152555.0 & United States of America \\
+Madison (WI) & 252551.0 & United States of America \\
+Manchester (NH) & 110506.0 & United States of America \\
+McAllen (TX) & 142212.0 & United States of America \\
+McKinney City (TX) & 172298.0 & United States of America \\
+Memphis (TN) & 652717.0 & United States of America \\
+Mesa (AZ) & 484587.0 & United States of America \\
+Mesquite (TX) & 143736.0 & United States of America \\
+Miami (FL) & 453579.0 & United States of America \\
+Miami Gardens (FL) & 113058.0 & United States of America \\
+Midland City (TX) & 134610.0 & United States of America \\
+Milwaukee (WI) & 595047.0 & United States of America \\
+Minneapolis (MN) & 413651.0 & United States of America \\
+Miramar (FL) & 138449.0 & United States of America \\
+Mobile (AL) & 192904.0 & United States of America \\
+Modesto (CA) & 212175.0 & United States of America \\
+Montgomery (AL) & 200022.0 & United States of America \\
+Moreno Valley (CA) & 205499.0 & United States of America \\
+Murfreesboro (TN) & 131947.0 & United States of America \\
+Murrieta (CA) & 111674.0 & United States of America \\
+Naperville (IL) & 147122.0 & United States of America \\
+Nashville-Davidson (TN) & 660388.0 & United States of America \\
+New Haven (CT) & 129934.0 & United States of America \\
+New Orleans (LA) & 391495.0 & United States of America \\
+New York (NY) & 8537673.0 & United States of America \\
+Newark (NJ) & 281764.0 & United States of America \\
+Newport News (VA) & 181825.0 & United States of America \\
+Norfolk (VA) & 245115.0 & United States of America \\
+Norman (OK) & 122180.0 & United States of America \\
+North Charleston (SC) & 109298.0 & United States of America \\
+North Las Vegas (NV) & 238702.0 & United States of America \\
+Norwalk (CA) & 106178.0 & United States of America \\
+Oakland (CA) & 420005.0 & United States of America \\
+Oceanside (CA) & 175464.0 & United States of America \\
+Odessa (TX) & 117871.0 & United States of America \\
+Oklahoma City (OK) & 638367.0 & United States of America \\
+Olathe (KS) & 135473.0 & United States of America \\
+Omaha (NE) & 446970.0 & United States of America \\
+Ontario (CA) & 173212.0 & United States of America \\
+Orange (CA) & 140504.0 & United States of America \\
+Orlando (FL) & 277173.0 & United States of America \\
+Overland Park (KS) & 188966.0 & United States of America \\
+Oxnard (CA) & 207906.0 & United States of America \\
+Palm Bay City (FL) & 110104.0 & United States of America \\
+Palmdale (CA) & 157356.0 & United States of America \\
+Pasadena (CA) & 142059.0 & United States of America \\
+Pasadena (TX) & 153351.0 & United States of America \\
+Paterson (NJ) & 147000.0 & United States of America \\
+Pearland (TX) & 113570.0 & United States of America \\
+Pembroke Pines (FL) & 168587.0 & United States of America \\
+Peoria (AZ) & 164173.0 & United States of America \\
+Peoria (IL) & 114265.0 & United States of America \\
+Philadelphia (PA) & 1567872.0 & United States of America \\
+Phoenix (AZ) & 1615017.0 & United States of America \\
+Pittsburgh (PA) & 303625.0 & United States of America \\
+Plano (TX) & 286057.0 & United States of America \\
+Pomona (CA) & 152494.0 & United States of America \\
+Pompano Beach (FL) & 109393.0 & United States of America \\
+Port St. Lucie (FL) & 185132.0 & United States of America \\
+Portland (OR) & 639863.0 & United States of America \\
+Providence (RI) & 179219.0 & United States of America \\
+Provo (UT) & 116868.0 & United States of America \\
+Pueblo (CO) & 110291.0 & United States of America \\
+Raleigh (NC) & 458880.0 & United States of America \\
+Rancho Cucamonga (CA) & 176534.0 & United States of America \\
+Reno (NV) & 245255.0 & United States of America \\
+Renton (WA) & 100953.0 & United States of America \\
+Rialto (CA) & 103314.0 & United States of America \\
+Richardson (TX) & 113347.0 & United States of America \\
+Richmond (CA) & 109813.0 & United States of America \\
+Richmond (VA) & 223170.0 & United States of America \\
+Riverside (CA) & 324722.0 & United States of America \\
+Rochester (MN) & 114011.0 & United States of America \\
+Rochester (NY) & 208880.0 & United States of America \\
+Rockford (IL) & 147651.0 & United States of America \\
+Roseville (CA) & 132671.0 & United States of America \\
+Round Rock (TX) & 120892.0 & United States of America \\
+Sacramento (CA) & 495234.0 & United States of America \\
+Salem (OR) & 167419.0 & United States of America \\
+Salinas (CA) & 157218.0 & United States of America \\
+Salt Lake City (UT) & 193744.0 & United States of America \\
+San Angelo (TX) & 100702.0 & United States of America \\
+San Antonio (TX) & 1492510.0 & United States of America \\
+San Bernardino (CA) & 216239.0 & United States of America \\
+San Buenaventura (CA) & 109592.0 & United States of America \\
+San Diego (CA) & 1406630.0 & United States of America \\
+San Francisco (CA) & 870887.0 & United States of America \\
+San Jose (CA) & 1025350.0 & United States of America \\
+San Mateo (CA) & 103959.0 & United States of America \\
+Sandy Springs (GA) & 105703.0 & United States of America \\
+Santa Ana (CA) & 334217.0 & United States of America \\
+Santa Clara (CA) & 125948.0 & United States of America \\
+Santa Clarita (CA) & 181972.0 & United States of America \\
+Santa Maria (CA) & 106290.0 & United States of America \\
+Santa Rosa (CA) & 175155.0 & United States of America \\
+Savannah (GA) & 146763.0 & United States of America \\
+Scottsdale (AZ) & 246645.0 & United States of America \\
+Seattle (WA) & 704352.0 & United States of America \\
+Shreveport (LA) & 194920.0 & United States of America \\
+Simi Valley (CA) & 126327.0 & United States of America \\
+Sioux Falls (SD) & 174360.0 & United States of America \\
+South Bend (IN) & 101735.0 & United States of America \\
+Spokane (WA) & 215973.0 & United States of America \\
+Springfield (IL) & 115715.0 & United States of America \\
+Springfield (MA) & 154074.0 & United States of America \\
+Springfield (MO) & 167319.0 & United States of America \\
+St. Louis (MO) & 311404.0 & United States of America \\
+St. Paul (MN) & 302398.0 & United States of America \\
+St. Petersburg (FL) & 260999.0 & United States of America \\
+Stamford (CT) & 129113.0 & United States of America \\
+Sterling Heights (MI) & 132427.0 & United States of America \\
+Stockton (CA) & 307072.0 & United States of America \\
+Sunnyvale (CA) & 152771.0 & United States of America \\
+Surprise (AZ) & 132677.0 & United States of America \\
+Syracuse (NY) & 143378.0 & United States of America \\
+Tacoma (WA) & 211277.0 & United States of America \\
+Tallahassee (FL) & 190894.0 & United States of America \\
+Tampa (FL) & 377165.0 & United States of America \\
+Temecula (CA) & 113054.0 & United States of America \\
+Tempe (AZ) & 182498.0 & United States of America \\
+Thornton (CO) & 136703.0 & United States of America \\
+Thousand Oaks (CA) & 128888.0 & United States of America \\
+Toledo (OH) & 278508.0 & United States of America \\
+Topeka (KS) & 126808.0 & United States of America \\
+Torrance (CA) & 147195.0 & United States of America \\
+Tucson (AZ) & 530706.0 & United States of America \\
+Tulsa (OK) & 403090.0 & United States of America \\
+Tyler (TX) & 104798.0 & United States of America \\
+Vallejo (CA) & 121299.0 & United States of America \\
+Vancouver (WA) & 174826.0 & United States of America \\
+Victorville City (CA) & 122265.0 & United States of America \\
+Virginia Beach (VA) & 452602.0 & United States of America \\
+Visalia (CA) & 131074.0 & United States of America \\
+Vista (CA) & 101659.0 & United States of America \\
+Waco (TX) & 134432.0 & United States of America \\
+Warren (MI) & 135125.0 & United States of America \\
+WASHINGTON (DC) & 681170.0 & United States of America \\
+Waterbury (CT) & 108272.0 & United States of America \\
+West Covina (CA) & 107847.0 & United States of America \\
+West Jordan (UT) & 113699.0 & United States of America \\
+West Palm Beach (FL) & 108161.0 & United States of America \\
+West Valley City (UT) & 136574.0 & United States of America \\
+Westminster (CO) & 113875.0 & United States of America \\
+Wichita (KS) & 389902.0 & United States of America \\
+Wichita Falls (TX) & 104724.0 & United States of America \\
+Wilmington (NC) & 117525.0 & United States of America \\
+Winston-Salem (NC) & 242203.0 & United States of America \\
+Worcester (MA) & 184508.0 & United States of America \\
+Yonkers (NY) & 200807.0 & United States of America \\
+CHARLOTTE AMALIE & 10354.0 & United States of America \\
+Cochabamba & 618376.395435085 & Bolivia \\
+El Alto & 953253.083500101 & Bolivia \\
+LA PAZ & 835361.03527057 & Bolivia \\
+Oruro & 216723.94486692 & Bolivia \\
+Potosí & 154693.31187481 & Bolivia \\
+Sacaba & 155667.626656472 & Bolivia \\
+Santa Cruz & 1616062.80790088 & Bolivia \\
+SUCRE & 284032.46973283 & Bolivia \\
+Tarija & 194313.116657503 & Bolivia \\
+Yacuiba & 112095.957587932 & Bolivia \\
+Açailândia & 110543.0 & Brazil \\
+Aguas Lindas de Goiás & 191499.0 & Brazil \\
+Alagoinhas & 155362.0 & Brazil \\
+Almirante Tamandaré & 114129.0 & Brazil \\
+Altamira & 109938.0 & Brazil \\
+Alvorada & 207392.0 & Brazil \\
+Americana & 231621.0 & Brazil \\
+Ananindeua & 510834.0 & Brazil \\
+Anápolis & 370875.0 & Brazil \\
+Angra dos Reis & 191504.0 & Brazil \\
+Aparecida de Goiania & 532135.0 & Brazil \\
+Apucarana & 131571.0 & Brazil \\
+Aracaju & 641523.0 & Brazil \\
+Araçatuba & 193828.0 & Brazil \\
+Araguaina & 173112.0 & Brazil \\
+Arapiraca & 232671.0 & Brazil \\
+Arapongas & 116960.0 & Brazil \\
+Araraquara & 228664.0 & Brazil \\
+Araras & 130102.0 & Brazil \\
+Araruama & 124940.0 & Brazil \\
+Araucária & 135459.0 & Brazil \\
+Araxá & 103287.0 & Brazil \\
+Ariquemes & 105896.0 & Brazil \\
+Assis & 102268.0 & Brazil \\
+Atibaia & 138449.0 & Brazil \\
+Bacabal & 103020.0 & Brazil \\
+Bagé & 121986.0 & Brazil \\
+Balneário Camboriú & 131727.0 & Brazil \\
+Barbacena & 135829.0 & Brazil \\
+Barcarena & 118537.0 & Brazil \\
+Barra Mansa & 180126.0 & Brazil \\
+Barreiras & 155519.0 & Brazil \\
+Barretos & 119948.0 & Brazil \\
+Barueri & 264935.0 & Brazil \\
+Bauru & 369368.0 & Brazil \\
+Belém & 1446042.0 & Brazil \\
+Belford Roxo & 494141.0 & Brazil \\
+Belo Horizonte & 2513451.0 & Brazil \\
+Bento Gonçalves & 114203.0 & Brazil \\
+Betim & 422354.0 & Brazil \\
+Birigui & 119536.0 & Brazil \\
+Boa Vista & 326419.0 & Brazil \\
+Botucatu & 141032.0 & Brazil \\
+Bragança & 122881.0 & Brazil \\
+Bragança Paulista & 162435.0 & Brazil \\
+BRASILIA & 2977216.0 & Brazil \\
+Brusque & 125810.0 & Brazil \\
+Cabo de Santo Agostinho & 202636.0 & Brazil \\
+Cabo Frio & 212289.0 & Brazil \\
+Cachoeirinha & 126666.0 & Brazil \\
+Cachoeiro de Itapemirim & 210325.0 & Brazil \\
+Camacari & 292074.0 & Brazil \\
+Camaragibe & 155228.0 & Brazil \\
+Cambé & 104592.0 & Brazil \\
+Cametá & 132515.0 & Brazil \\
+Campina Grande & 407754.0 & Brazil \\
+Campinas & 1173370.0 & Brazil \\
+Campo Grande & 863982.0 & Brazil \\
+Campo Largo & 125719.0 & Brazil \\
+Campos dos Goytacazes & 487186.0 & Brazil \\
+Canoas & 342634.0 & Brazil \\
+Caraguatatuba & 115071.0 & Brazil \\
+Carapicuíba & 394465.0 & Brazil \\
+Cariacica & 384621.0 & Brazil \\
+Caruaru & 351686.0 & Brazil \\
+Cascavel & 316226.0 & Brazil \\
+Castanhal & 192571.0 & Brazil \\
+Catalão & 100590.0 & Brazil \\
+Catanduva & 120092.0 & Brazil \\
+Caucaia & 358164.0 & Brazil \\
+Caxias & 161926.0 & Brazil \\
+Caxias do Sul & 479236.0 & Brazil \\
+Chapecó & 209553.0 & Brazil \\
+Codo & 120548.0 & Brazil \\
+Colatina & 123598.0 & Brazil \\
+Colombo & 234941.0 & Brazil \\
+Conselheiro Lafaiete & 126420.0 & Brazil \\
+Contagem & 653800.0 & Brazil \\
+Coronel Fabriciano & 109857.0 & Brazil \\
+Corumbá & 109294.0 & Brazil \\
+Cotia & 233696.0 & Brazil \\
+Crato & 129662.0 & Brazil \\
+Criciúma & 209153.0 & Brazil \\
+Cubatao & 127887.0 & Brazil \\
+Cuiabá & 585367.0 & Brazil \\
+Curitiba & 1893997.0 & Brazil \\
+Diadema & 415180.0 & Brazil \\
+Divinópolis & 232945.0 & Brazil \\
+Dourados & 215486.0 & Brazil \\
+Duque de Caxias & 886917.0 & Brazil \\
+Embu & 264448.0 & Brazil \\
+Erechim & 102906.0 & Brazil \\
+Eunápolis & 114275.0 & Brazil \\
+Feira de Santana & 622639.0 & Brazil \\
+Ferraz de Vasconcelos & 186808.0 & Brazil \\
+Florianópolis & 477798.0 & Brazil \\
+Formosa & 114036.0 & Brazil \\
+Fortaleza & 2609716.0 & Brazil \\
+Foz do Iguaçu & 263915.0 & Brazil \\
+Franca & 344704.0 & Brazil \\
+Francisco Morato & 169942.0 & Brazil \\
+Franco da Rocha & 147650.0 & Brazil \\
+Garanhuns & 137810.0 & Brazil \\
+Goiânia & 1448639.0 & Brazil \\
+Governador Valadares & 279665.0 & Brazil \\
+Gravatai & 273742.0 & Brazil \\
+Guarapari & 121506.0 & Brazil \\
+Guarapuava & 179256.0 & Brazil \\
+Guaratinguetá & 119753.0 & Brazil \\
+Guarujá & 313421.0 & Brazil \\
+Guarulhos & 1337087.0 & Brazil \\
+Hortolandia & 219039.0 & Brazil \\
+Ibirité & 175721.0 & Brazil \\
+Igarassu & 113956.0 & Brazil \\
+Iguatu & 102013.0 & Brazil \\
+Ilhéus & 178210.0 & Brazil \\
+Imperatriz & 253873.0 & Brazil \\
+Indaiatuba & 235367.0 & Brazil \\
+Ipatinga & 259324.0 & Brazil \\
+Itaboraí & 230786.0 & Brazil \\
+Itabuna & 220386.0 & Brazil \\
+Itaguaí & 120855.0 & Brazil \\
+Itajaí & 208958.0 & Brazil \\
+Itapecerica da Serra & 169103.0 & Brazil \\
+Itapetininga & 158561.0 & Brazil \\
+Itapevi & 226488.0 & Brazil \\
+Itapipoca & 126234.0 & Brazil \\
+Itaquaquecetuba & 356774.0 & Brazil \\
+Itatiba & 114912.0 & Brazil \\
+Itu & 168643.0 & Brazil \\
+Ituiutaba & 103945.0 & Brazil \\
+Itumbiara & 101544.0 & Brazil \\
+Jacareí & 228214.0 & Brazil \\
+Jandira & 120177.0 & Brazil \\
+Japeri & 100562.0 & Brazil \\
+Jaraguá do Sul & 167300.0 & Brazil \\
+Jaú & 144828.0 & Brazil \\
+Jequié & 161880.0 & Brazil \\
+Ji-Paraná & 131560.0 & Brazil \\
+Joao Pessoa & 801718.0 & Brazil \\
+Joinville & 569645.0 & Brazil \\
+Juazeiro & 220253.0 & Brazil \\
+Juàzeiro do Norte & 268248.0 & Brazil \\
+Juiz de Fora & 559636.0 & Brazil \\
+Jundiaí & 405740.0 & Brazil \\
+Lagarto & 103188.0 & Brazil \\
+Lages & 158620.0 & Brazil \\
+Lauro de Freitas & 194641.0 & Brazil \\
+Lavras & 101208.0 & Brazil \\
+Leme & 100296.0 & Brazil \\
+Limeira & 298701.0 & Brazil \\
+Linhares & 166491.0 & Brazil \\
+Londrina & 553393.0 & Brazil \\
+Luziânia & 196864.0 & Brazil \\
+Macae & 239471.0 & Brazil \\
+Macapá & 465495.0 & Brazil \\
+Maceió & 1021709.0 & Brazil \\
+Magé & 236319.0 & Brazil \\
+Manaus & 2094391.0 & Brazil \\
+Maraba & 266932.0 & Brazil \\
+Maracanau & 223188.0 & Brazil \\
+Maranguape & 125058.0 & Brazil \\
+Maricá & 149876.0 & Brazil \\
+Marília & 233639.0 & Brazil \\
+Maringá & 403063.0 & Brazil \\
+Marituba & 125435.0 & Brazil \\
+Mauá & 457696.0 & Brazil \\
+Mesquita & 171020.0 & Brazil \\
+Moji-Guaçu & 148327.0 & Brazil \\
+Montes Claros & 398288.0 & Brazil \\
+Mossoró & 291937.0 & Brazil \\
+Muriaé & 107916.0 & Brazil \\
+Natal & 877662.0 & Brazil \\
+Nilópolis & 158319.0 & Brazil \\
+Niterói & 497883.0 & Brazil \\
+Nossa Senhora do Socorro & 179661.0 & Brazil \\
+Nova Friburgo & 185102.0 & Brazil \\
+Nova Iguaçu & 797435.0 & Brazil \\
+Novo Gama & 108410.0 & Brazil \\
+Nôvo Hamburgo & 249113.0 & Brazil \\
+Olinda & 390144.0 & Brazil \\
+Osasco & 696382.0 & Brazil \\
+Ourinhos & 111056.0 & Brazil \\
+Paço do Lumiar & 119915.0 & Brazil \\
+Palhoça & 161395.0 & Brazil \\
+Palmas & 279856.0 & Brazil \\
+Paragominas & 108547.0 & Brazil \\
+Paranaguá & 151829.0 & Brazil \\
+Parauapebas & 196259.0 & Brazil \\
+Parintins & 112716.0 & Brazil \\
+Parnaíba & 150201.0 & Brazil \\
+Parnamirim & 248623.0 & Brazil \\
+Passo Fundo & 197798.0 & Brazil \\
+Passos & 113807.0 & Brazil \\
+Patos & 107067.0 & Brazil \\
+Patos de Minas & 149856.0 & Brazil \\
+Paulínia & 100128.0 & Brazil \\
+Paulista & 325590.0 & Brazil \\
+Paulo Afonso & 119930.0 & Brazil \\
+Pelotas & 343651.0 & Brazil \\
+Petrolina & 337683.0 & Brazil \\
+Petrópolis & 298158.0 & Brazil \\
+Pindamonhangaba & 162327.0 & Brazil \\
+Pinhais & 128256.0 & Brazil \\
+Piracicaba & 394419.0 & Brazil \\
+Piraquara & 106132.0 & Brazil \\
+Poà & 114650.0 & Brazil \\
+Poços de Caldas & 164912.0 & Brazil \\
+Ponta Grossa & 341130.0 & Brazil \\
+Porto Alegre & 1481019.0 & Brazil \\
+Porto Seguro & 147444.0 & Brazil \\
+Porto Velho & 511219.0 & Brazil \\
+Pouso Alegre & 145535.0 & Brazil \\
+Praia Grande & 304705.0 & Brazil \\
+Presidente Prudente & 223749.0 & Brazil \\
+Queimados & 144525.0 & Brazil \\
+Recife & 1625583.0 & Brazil \\
+Resende & 126084.0 & Brazil \\
+Ribeirao das Neves & 325846.0 & Brazil \\
+Ribeirao Pires & 121130.0 & Brazil \\
+Ribeirao Prêto & 674405.0 & Brazil \\
+Rio Branco & 377057.0 & Brazil \\
+Rio Claro & 201473.0 & Brazil \\
+Rio das Ostras & 136626.0 & Brazil \\
+Rio de Janeiro & 6498837.0 & Brazil \\
+Rio Grande & 208641.0 & Brazil \\
+Rio Verde & 212237.0 & Brazil \\
+Rondonópolis & 218899.0 & Brazil \\
+Sabára & 135196.0 & Brazil \\
+Salto & 115193.0 & Brazil \\
+Salvador & 2938092.0 & Brazil \\
+Santa Bárbara D'Oeste & 191024.0 & Brazil \\
+Santa Cruz do Capibaribe & 103660.0 & Brazil \\
+Santa Cruz do Sul & 126775.0 & Brazil \\
+Santa Luzia (Minas Gerais) & 217610.0 & Brazil \\
+Santa Maria & 277309.0 & Brazil \\
+Santa Rita & 135915.0 & Brazil \\
+Santana & 113854.0 & Brazil \\
+Santana de Parnaíba & 129261.0 & Brazil \\
+Santarém & 294447.0 & Brazil \\
+Santo André & 712749.0 & Brazil \\
+Santo Antônio de Jesus & 102469.0 & Brazil \\
+Santos & 434359.0 & Brazil \\
+Sao Bernardo do Campo & 822242.0 & Brazil \\
+Sao Caetano do Sul & 158825.0 & Brazil \\
+Sao Carlo & 243765.0 & Brazil \\
+São Félix do Xingu & 120580.0 & Brazil \\
+Sao Gonçalo & 1044058.0 & Brazil \\
+Sao Joao de Meriti & 460541.0 & Brazil \\
+Sao José & 236029.0 & Brazil \\
+Sao José de Ribamar & 176008.0 & Brazil \\
+Sao José do Rio Prêto & 446649.0 & Brazil \\
+Sao José dos Campos & 695992.0 & Brazil \\
+Sao José dos Pinhais & 302759.0 & Brazil \\
+Sao Leopoldo & 229678.0 & Brazil \\
+São Lourenço da Mata & 111197.0 & Brazil \\
+Sao Luís & 1082935.0 & Brazil \\
+São Mateus & 126437.0 & Brazil \\
+Sao Paulo & 12038175.0 & Brazil \\
+Sao Vicente & 357989.0 & Brazil \\
+Sapucaia do Sul & 138933.0 & Brazil \\
+Senador Canedo & 102947.0 & Brazil \\
+Serra & 494109.0 & Brazil \\
+Sertaozinho & 121412.0 & Brazil \\
+Sete Lagoas & 234221.0 & Brazil \\
+Simoes Filho & 134674.0 & Brazil \\
+Sinop & 132934.0 & Brazil \\
+Sobral & 203682.0 & Brazil \\
+Sorocaba & 652481.0 & Brazil \\
+Sumaré & 269522.0 & Brazil \\
+Susano & 288056.0 & Brazil \\
+Taboao da Serra & 275948.0 & Brazil \\
+Tailândia & 100300.0 & Brazil \\
+Tatuí & 117823.0 & Brazil \\
+Taubaté & 305174.0 & Brazil \\
+Teixeira de Freitas & 159813.0 & Brazil \\
+Teófilo Otoni & 141502.0 & Brazil \\
+Teresina & 847430.0 & Brazil \\
+Teresópolis & 174587.0 & Brazil \\
+Timon & 166295.0 & Brazil \\
+Toledo & 133824.0 & Brazil \\
+Três Lagoas & 115561.0 & Brazil \\
+Trindade & 119385.0 & Brazil \\
+Tubarão & 103674.0 & Brazil \\
+Tucuruí & 108885.0 & Brazil \\
+Ubá & 112186.0 & Brazil \\
+Uberaba & 325279.0 & Brazil \\
+Uberlândia & 669672.0 & Brazil \\
+Umuarama & 109132.0 & Brazil \\
+Uruguaiana & 129720.0 & Brazil \\
+Valinhos & 122163.0 & Brazil \\
+Valparaíso de Goiás & 156419.0 & Brazil \\
+Varginha & 133384.0 & Brazil \\
+Varzea Grande & 271339.0 & Brazil \\
+Varzea Paulista & 117772.0 & Brazil \\
+Vespasiano & 120510.0 & Brazil \\
+Viamao & 252872.0 & Brazil \\
+Vila Velha & 479664.0 & Brazil \\
+Vitória & 359555.0 & Brazil \\
+Vitória da Conquista & 346069.0 & Brazil \\
+Vitória de Santo Antao & 136706.0 & Brazil \\
+Volta Redonda & 263659.0 & Brazil \\
+Votorantim & 118858.0 & Brazil \\
+Alto Hospicio & 124877.0 & Chile \\
+Antofagasta & 388545.0 & Chile \\
+Arica & 229689.0 & Chile \\
+Calama & 180283.0 & Chile \\
+Chillán & 159476.0 & Chile \\
+Concepción & 220746.0 & Chile \\
+Copiapó & 175162.0 & Chile \\
+Coquimbo & 216623.0 & Chile \\
+Coronel & 109709.0 & Chile \\
+Curicó & 102710.0 & Chile \\
+Hualpén & 108803.0 & Chile \\
+Iquique & 196562.0 & Chile \\
+La Serena & 205635.0 & Chile \\
+Los Ángeles & 128933.0 & Chile \\
+Osorno & 139550.0 & Chile \\
+Puente Alto & 625551.0 & Chile \\
+Puerto Montt & 213119.0 & Chile \\
+Punta Arenas & 124169.0 & Chile \\
+Quilpué & 172049.0 & Chile \\
+Rancagua & 225563.0 & Chile \\
+San Bernardo & 296583.0 & Chile \\
+San Pedro de la Paz & 139174.0 & Chile \\
+SANTIAGO & 5613962.0 & Chile \\
+Talca & 203873.0 & Chile \\
+Temuco & 221375.0 & Chile \\
+Valdivia & 143207.0 & Chile \\
+Valparaíso & 295113.0 & Chile \\
+Villa Alemana & 144417.0 & Chile \\
+Viña del Mar & 326759.0 & Chile \\
+Armenia (Quindio) & 301224.0 & Colombia \\
+BOGOTÁ, D.C. & 8181047.0 & Colombia \\
+Ciénaga (Magdalena)39 & 105206.0 & Colombia \\
+Ocaña & 100461.0 & Colombia \\
+Rionegro (Antioquia)39 & 126193.0 & Colombia \\
+Sabanalarga & 101339.0 & Colombia \\
+Ambato & 178203.0 & Ecuador \\
+Babahoyo & 102531.0 & Ecuador \\
+Cuenca & 396990.0 & Ecuador \\
+Durán & 294734.0 & Ecuador \\
+Esmeraldas & 196666.0 & Ecuador \\
+Guayaquil & 2581884.0 & Ecuador \\
+Ibarra & 159591.0 & Ecuador \\
+La Libertad & 114123.0 & Ecuador \\
+Loja & 226824.0 & Ecuador \\
+Machala & 266255.0 & Ecuador \\
+Manta & 250489.0 & Ecuador \\
+Milagro & 154204.0 & Ecuador \\
+Portoviejo & 237982.0 & Ecuador \\
+Quevedo & 181373.0 & Ecuador \\
+QUITO & 1805522.0 & Ecuador \\
+Riobamba & 168514.0 & Ecuador \\
+Santo Domingo de los Colorados & 335123.0 & Ecuador \\
+STANLEY & 2108.0 & Falkland Islands \\
+CAYENNE & 57614.0 & French Guiana \\
+GEORGETOWN & 24849.0 & Guyana \\
+Capiatá & 257115.665639912 & Paraguay \\
+Ciudad del Este & 317524.643816769 & Paraguay \\
+Fernando de la Mora & 200111.718957809 & Paraguay \\
+Lambaré & 210724.568023314 & Paraguay \\
+Luque & 358264.788290524 & Paraguay \\
+San Lorenzo & 354283.39494957 & Paraguay \\
+Arequipa & 893491.0 & Peru \\
+Ayacucho & 190861.0 & Peru \\
+Cajamarca & 248222.0 & Peru \\
+Chiclayo & 617089.0 & Peru \\
+Chimbote & 380011.0 & Peru \\
+Chincha Alta & 185054.0 & Peru \\
+Cuzco & 448124.0 & Peru \\
+Huancayo & 375857.0 & Peru \\
+Huánuco & 181318.0 & Peru \\
+Huaral & 102811.0 & Peru \\
+Huaraz & 136628.0 & Peru \\
+Ica & 251573.0 & Peru \\
+Iquitos & 450799.0 & Peru \\
+Jaen & 100551.0 & Peru \\
+Juliaca & 294921.0 & Peru \\
+Paita & 104367.0 & Peru \\
+Pisco & 105394.0 & Peru \\
+Piura & 458262.0 & Peru \\
+Pucallpa & 211708.0 & Peru \\
+Puno & 147385.0 & Peru \\
+Sullana & 206213.0 & Peru \\
+Tacna & 306021.0 & Peru \\
+Tarapoto & 153613.0 & Peru \\
+Trujillo & 833379.0 & Peru \\
+Tumbes & 115141.0 & Peru \\
+PARAMARIBO & 240924.0 & Suriname \\
+Wanica & 118222.0 & Suriname \\
+MONTEVIDEO & 1381946.48006258 & Uruguay \\
+Anaco(F) (Capital) & 140496.0 & Venezuela \\
+Barinas & 389578.0 & Venezuela \\
+Barquisimeto & 881127.0 & Venezuela \\
+Baruta & 358221.0 & Venezuela \\
+Cabimas & 293365.0 & Venezuela \\
+Cagua & 118290.0 & Venezuela \\
+CARACAS & 2082130.0 & Venezuela \\
+Carora & 111963.0 & Venezuela \\
+Carúpano & 156380.0 & Venezuela \\
+Ciudad Bolívar & 407452.0 & Venezuela \\
+Ciudad Guayana & 877547.0 & Venezuela \\
+Ciudad Ojeda & 216489.0 & Venezuela \\
+Cua & 143164.0 & Venezuela \\
+Cumaná & 358138.0 & Venezuela \\
+El Tigre & 203403.0 & Venezuela \\
+Guacara & 192536.0 & Venezuela \\
+Guanare & 160234.0 & Venezuela \\
+Guarenas & 247131.0 & Venezuela \\
+Guatire & 177794.0 & Venezuela \\
+Los Guayos & 173878.0 & Venezuela \\
+Los Teques & 216358.0 & Venezuela \\
+Maracaibo & 1653215.0 & Venezuela \\
+Maracay & 419052.0 & Venezuela \\
+Maturín & 571276.0 & Venezuela \\
+Mérida & 248410.0 & Venezuela \\
+Naguanagua & 161658.0 & Venezuela \\
+Ocumare Del Tuy & 197952.0 & Venezuela \\
+Petare & 434320.0 & Venezuela \\
+Pozuelos (F) (Capital) & 144045.0 & Venezuela \\
+Puerto Cabello & 193025.0 & Venezuela \\
+Punto Fijo & 272239.0 & Venezuela \\
+San Cristóbal & 282830.0 & Venezuela \\
+San Fernando de Apure & 217590.0 & Venezuela \\
+San Francisco & 106763.0 & Venezuela \\
+Santa Lucía & 133543.0 & Venezuela \\
+Táriba & 132657.0 & Venezuela \\
+Tocuyito & 186755.0 & Venezuela \\
+Turmero & 238570.0 & Venezuela \\
+Valencia & 888109.0 & Venezuela \\
+Valera & 161771.0 & Venezuela \\
+Herat Center & 491967.0 & Afghanistan \\
+KABUL CENTER & 3817241.0 & Afghanistan \\
+Kunduz Center & 162168.0 & Afghanistan \\
+YEREVAN & 1076716.0 & Armenia \\
+BAKU & 2254175.0 & Azerbaijan \\
+Ganja & 331986.0 & Azerbaijan \\
+Sumgayit & 340091.0 & Azerbaijan \\
+MANAMA & 176909.0 & Bahrain \\
+Barisal & 339308.0 & Bangladesh \\
+Chittagong & 2591681.0 & Bangladesh \\
+Comilla & 296010.0 & Bangladesh \\
+DHAKA & 8906035.0 & Bangladesh \\
+Khulna & 664728.0 & Bangladesh \\
+Mymensingh & 389918.0 & Bangladesh \\
+Narayanganj & 286330.0 & Bangladesh \\
+Rajshahi & 449756.0 & Bangladesh \\
+Saidpur & 133433.0 & Bangladesh \\
+THIMPHU & 114551.0 & Bhutan \\
+BANDAR SERI BEGAWAN & 27285.0 & Brunei Darussalam \\
+Bat Dambang & 1126345.01046136 & Cambodia \\
+PHNOM PENH & 1570790.86456886 & Cambodia \\
+HONG KONG SAR & 7451000.0 & China, Hong Kong SAR \\
+MACAO & 650834.0 & China, Macao SAR \\
+Anju & 167646.0 & North Korea \\
+Chongjin & 614892.0 & North Korea \\
+Haeju & 241599.0 & North Korea \\
+Hamhung & 614198.0 & North Korea \\
+Huichon & 136093.0 & North Korea \\
+Hyesan & 174015.0 & North Korea \\
+Jongju & 102659.0 & South Korea \\
+Kaechon & 262389.0 & North Korea \\
+Kaesong & 192578.0 & North Korea \\
+Kanggye & 251971.0 & North Korea \\
+Kim Chaek & 155284.0 & North Korea \\
+Kusong & 155181.0 & North Korea \\
+PYONGYANG & 2581076.0 & North Korea \\
+Rason & 158337.0 & North Korea \\
+Sariwon & 271434.0 & North Korea \\
+Sinpho & 130951.0 & North Korea \\
+Sinuiju & 334031.0 & North Korea \\
+Sunchon & 250738.0 & North Korea \\
+Tanchon & 240873.0 & North Korea \\
+Tokchon & 210571.0 & North Korea \\
+Wonsan & 328467.0 & North Korea \\
+Batumi & 155000.0 & Georgia \\
+Kutaisi & 147500.0 & Georgia \\
+Rustavi & 126200.0 & Georgia \\
+TBILISI & 1113800.0 & Georgia \\
+Ambon & 431092.0 & Indonesia \\
+Balikpapan & 624033.0 & Indonesia \\
+Banda Aceh & 264054.0 & Indonesia \\
+Bandar Lampung & 1033601.0 & Indonesia \\
+Bandung & 2525220.0 & Indonesia \\
+Batam & 1347762.0 & Indonesia \\
+Bengkulu & 354079.0 & Indonesia \\
+Binjai & 274063.0 & Indonesia \\
+Bitung & 193883.0 & Indonesia \\
+Blitar & 503718.0 & Indonesia \\
+Bogor & 5162044.0 & Indonesia \\
+Cirebon (Tjirebon) & 1891957.0 & Indonesia \\
+Denpasar & 938188.0 & Indonesia \\
+Gorontalo & 138590.0 & Indonesia \\
+Jambi & 585392.0 & Indonesia \\
+Kediri & 800716.0 & Indonesia \\
+Madiun & 237668.0 & Indonesia \\
+Magelang & 413946.0 & Indonesia \\
+Makasar (Ujung Pandang) & 1502459.0 & Indonesia \\
+Malang & 1382786.0 & Indonesia \\
+Manado & 427409.0 & Indonesia \\
+Mataram & 483908.0 & Indonesia \\
+Medan & 2269588.0 & Indonesia \\
+Mojokerto & 598783.0 & Indonesia \\
+Padang & 941136.0 & Indonesia \\
+Pakalongan & 498568.0 & Indonesia \\
+Palangkaraya & 265154.0 & Indonesia \\
+Palembang & 1649298.0 & Indonesia \\
+Pangkal Pinang & 201207.0 & Indonesia \\
+Pare Pare & 142391.0 & Indonesia \\
+Pasuruan & 799137.0 & Indonesia \\
+Pematang Siantar & 254010.0 & Indonesia \\
+Probolinggo & 458338.0 & Indonesia \\
+Salatiga & 190872.0 & Indonesia \\
+Samarinda & 831608.0 & Indonesia \\
+Semarang & 459358.0 & Indonesia \\
+Sukabumi & 1301873.0 & Indonesia \\
+Surabaya & 2885245.0 & Indonesia \\
+Surakarta & 515865.0 & Indonesia \\
+Tangerang & 3050758.0 & Indonesia \\
+Tanjung Balai & 174049.0 & Indonesia \\
+Tebing Tinggi & 163292.0 & Indonesia \\
+Tegal & 895902.0 & Indonesia \\
+Yogyakarta & 427801.0 & Indonesia \\
+Abadan & 231476.0 & Iran \\
+Ahar & 100641.0 & Iran \\
+Ahwaz & 1184788.0 & Iran \\
+Amol & 237528.0 & Iran \\
+Andimeshk & 135116.0 & Iran \\
+Andisheh & 116062.0 & Iran \\
+Arak & 520944.0 & Iran \\
+Ardabil & 529374.0 & Iran \\
+Babol & 250217.0 & Iran \\
+Bam & 127396.0 & Iran \\
+Bandar-e-Abbas & 526648.0 & Iran \\
+Bandar-e-Anzali & 118564.0 & Iran \\
+Bandar-e-Mahshahr & 162797.0 & Iran \\
+Baneh & 110218.0 & Iran \\
+Behbahan & 122604.0 & Iran \\
+Birjand & 203636.0 & Iran \\
+Bojnurd & 228931.0 & Iran \\
+Borazjan & 110567.0 & Iran \\
+Borujerd & 234997.0 & Iran \\
+Bukand & 193501.0 & Iran \\
+Bushehr & 223504.0 & Iran \\
+Chabahar & 106739.0 & Iran \\
+Dezful & 264709.0 & Iran \\
+Dorud & 121638.0 & Iran \\
+Esfahan & 1961260.0 & Iran \\
+Fardis & 181174.0 & Iran \\
+Fasa & 110825.0 & Iran \\
+Gonbad-e-Kavus & 151910.0 & Iran \\
+Gorgan & 350676.0 & Iran \\
+Hamadan & 554406.0 & Iran \\
+Ilam & 194030.0 & Iran \\
+Iranshahr & 113750.0 & Iran \\
+Izeh & 119399.0 & Iran \\
+Jahrom & 141634.0 & Iran \\
+Jiroft & 130429.0 & Iran \\
+Kamal Shahr & 141669.0 & Iran \\
+Karaj & 1592492.0 & Iran \\
+Kashan & 304487.0 & Iran \\
+Kashmar & 102282.0 & Iran \\
+Kerman & 537718.0 & Iran \\
+Kermanshah & 946651.0 & Iran \\
+Khomeini shahr & 247128.0 & Iran \\
+Khoramabad & 373416.0 & Iran \\
+Khoramshahr & 133097.0 & Iran \\
+Khoy & 198845.0 & Iran \\
+Lahijan & 101073.0 & Iran \\
+Mahabad & 168393.0 & Iran \\
+Malard & 281027.0 & Iran \\
+Malayer & 170237.0 & Iran \\
+Marand & 130825.0 & Iran \\
+Marivan & 136654.0 & Iran \\
+Mashhad & 3001184.0 & Iran \\
+Masjed Soleyman & 100497.0 & Iran \\
+Miandoab & 134425.0 & Iran \\
+Mohammad Shahr & 119418.0 & Iran \\
+Najafabad & 235281.0 & Iran \\
+Nasim Shahr & 200393.0 & Iran \\
+Nazar Abad & 119512.0 & Iran \\
+Neyshabur & 264375.0 & Iran \\
+Orumiyeh & 736224.0 & Iran \\
+Pakdasht & 236319.0 & Iran \\
+Qaem shahr & 204953.0 & Iran \\
+Qarchak & 231075.0 & Iran \\
+Qazvin & 402748.0 & Iran \\
+Qods & 309605.0 & Iran \\
+Qom & 1201158.0 & Iran \\
+Quchan & 101604.0 & Iran \\
+Rafsanjan & 161909.0 & Iran \\
+Rasht & 679995.0 & Iran \\
+Robatkarim & 105393.0 & Iran \\
+Sanandaj & 412767.0 & Iran \\
+Saqez & 165258.0 & Iran \\
+Sari & 309820.0 & Iran \\
+Saveh & 220762.0 & Iran \\
+Semnan & 185129.0 & Iran \\
+Shahinshahr & 173329.0 & Iran \\
+Shahr-e-Kord & 190441.0 & Iran \\
+Shahreza & 134952.0 & Iran \\
+Shahriar & 309607.0 & Iran \\
+Shahrud & 150129.0 & Iran \\
+Shiraz & 1565572.0 & Iran \\
+Sirjan & 199704.0 & Iran \\
+Tabriz & 1558693.0 & Iran \\
+TEHRAN & 8693706.0 & Iran \\
+Torbat-e-heydariyeh & 140019.0 & Iran \\
+Varamin & 225628.0 & Iran \\
+Yazd & 529673.0 & Iran \\
+Zabol & 134950.0 & Iran \\
+Zahedan & 587730.0 & Iran \\
+Zanjan & 430871.0 & Iran \\
+Al-Amara Qadha Center & 541034.0 & Iran \\
+Al-Basrah Qadha Center & 1225793.0 & Iran \\
+Al-Falluja Qadha Center & 321106.0 & Iran \\
+Al-Hilla Qadha Center & 559834.0 & Iran \\
+Al-Hindiya Qadha Center & 113021.0 & Iran \\
+Al-Jisr Nahia & 159306.0 & Iran \\
+Al-Khalis Qadha Center & 139713.0 & Iran \\
+Al-Kut Qadha Center & 436673.0 & Iran \\
+Al-Nasiriya Qadha Center & 537544.0 & Iran \\
+Al-Qurna Qadha Center & 136677.0 & Iran \\
+Al-Ramadi Qadha Center & 419053.0 & Iran \\
+Al-Samawa Qadha Center & 288948.0 & Iran \\
+Al-Shattra Qadha Center & 239680.0 & Iran \\
+Arbil Qadha Center & 787997.0 & Iran \\
+BAGHDAD & 1211934.0 & Iran \\
+Baquba Qadha Center & 276029.0 & Iran \\
+Kerbela Qadha Center & 514356.0 & Iran \\
+Kirkuk Qadha Center & 938336.0 & Iraq \\
+Samarra Qadha Center & 203011.0 & Iraq \\
+Sulaimania Qadha Center & 651173.0 & Iraq \\
+Tikrit Qadha Center & 182464.0 & Iraq \\
+Ashdod & 222237.0 & Israel \\
+Ashqelon & 136199.0 & Israel \\
+Bat Yam & 128779.0 & Israel \\
+Be'er Sheva & 206680.0 & Israel \\
+Bet Shemesh & 112066.0 & Israel \\
+Haifa & 280339.0 & Israel \\
+Holon & 191731.0 & Israel \\
+Netanya & 212468.0 & Israel \\
+Petah Tiqwa & 238263.0 & Israel \\
+Ramat Gan & 154976.0 & Israel \\
+Rehovot & 137053.0 & Israel \\
+Rishon Leziyyon & 248591.0 & Israel \\
+Tel Aviv-Yafo & 441379.0 & Israel \\
+Abiko & 131606.0 & Japan \\
+Ageo & 225196.0 & Japan \\
+Aizuwakamatsu & 124062.0 & Japan \\
+Akashi & 293409.0 & Japan \\
+Akishima & 111539.0 & Japan \\
+Akita & 315814.0 & Japan \\
+Amagasaki & 452563.0 & Japan \\
+Anjo & 184140.0 & Japan \\
+Aomori & 287648.0 & Japan \\
+Asahikawa & 339605.0 & Japan \\
+Asaka & 136299.0 & Japan \\
+Ashikaga & 149452.0 & Japan \\
+Atsugi & 225714.0 & Japan \\
+Beppu & 122138.0 & Japan \\
+Chiba & 971882.0 & Japan \\
+Chigasaki & 239348.0 & Japan \\
+Chikusei & 104573.0 & Japan \\
+Chikushino & 101081.0 & Japan \\
+Chofu & 229061.0 & Japan \\
+Daito & 123217.0 & Japan \\
+Ebetsu & 120636.0 & Japan \\
+Ebina & 130190.0 & Japan \\
+Fuchu & 260274.0 & Japan \\
+Fuji & 248399.0 & Japan \\
+Fujieda & 143605.0 & Japan \\
+Fujimi & 108102.0 & Japan \\
+Fujimino & 110970.0 & Japan \\
+Fujinomiya & 130770.0 & Japan \\
+Fujisawa & 423894.0 & Japan \\
+Fukaya & 143811.0 & Japan \\
+Fukui & 265904.0 & Japan \\
+Fukuoka & 1538681.0 & Japan \\
+Fukushima & 294247.0 & Japan \\
+Fukuyama & 464811.0 & Japan \\
+Funabashi & 622890.0 & Japan \\
+Gifu & 406735.0 & Japan \\
+Habikino & 112683.0 & Japan \\
+Hachinohe & 231257.0 & Japan \\
+Hachioji & 577513.0 & Japan \\
+Hadano & 167378.0 & Japan \\
+Hakodate & 265979.0 & Japan \\
+Hakusan & 109287.0 & Japan \\
+Hamamatsu & 797980.0 & Japan \\
+Handa & 116908.0 & Japan \\
+Hatsukaichi & 114906.0 & Japan \\
+Higashihiroshima & 192907.0 & Japan \\
+Higashikurume & 116632.0 & Japan \\
+Higashimurayama & 149956.0 & Japan \\
+Higashiomi & 114180.0 & Japan \\
+Higashiosaka & 502784.0 & Japan \\
+Hikone & 113679.0 & Japan \\
+Himeji & 535664.0 & Japan \\
+Hino & 186283.0 & Japan \\
+Hirakata & 404152.0 & Japan \\
+Hiratsuka & 258227.0 & Japan \\
+Hirosaki & 177411.0 & Japan \\
+Hiroshima & 1194034.0 & Japan \\
+Hitachi & 185054.0 & Japan \\
+Hitachinaka & 155689.0 & Japan \\
+Hofu & 115942.0 & Japan \\
+Ibaraki & 280033.0 & Japan \\
+Ichihara & 274656.0 & Japan \\
+Ichikawa & 481732.0 & Japan \\
+Ichinomiya & 380868.0 & Japan \\
+Ichinoseki & 121583.0 & Japan \\
+Iida & 101581.0 & Japan \\
+Iizuka & 129146.0 & Japan \\
+Ikeda & 103069.0 & Japan \\
+Ikoma & 118233.0 & Japan \\
+Imabari & 158114.0 & Japan \\
+Inazawa & 136867.0 & Japan \\
+Iruma & 148390.0 & Japan \\
+Isahaya & 138078.0 & Japan \\
+Ise & 127817.0 & Japan \\
+Isehara & 101514.0 & Japan \\
+Isesaki & 208814.0 & Japan \\
+Ishinomaki & 147214.0 & Japan \\
+Itami & 196883.0 & Japan \\
+Iwaki & 350237.0 & Japan \\
+Iwakuni & 136757.0 & Japan \\
+Iwata & 167210.0 & Japan \\
+Izumi (Osaka) & 186109.0 & Japan \\
+Izumisano & 100966.0 & Japan \\
+Izumo & 171938.0 & Japan \\
+Joetsu & 196987.0 & Japan \\
+Kadoma & 123576.0 & Japan \\
+Kagoshima & 599814.0 & Japan \\
+Kakamigahara & 144690.0 & Japan \\
+Kakegawa & 114602.0 & Japan \\
+Kakogawa & 267435.0 & Japan \\
+Kamagaya & 108917.0 & Japan \\
+Kamakura & 173019.0 & Japan \\
+Kanazawa & 465699.0 & Japan \\
+Kanoya & 103608.0 & Japan \\
+Karatsu & 122785.0 & Japan \\
+Kariya & 149765.0 & Japan \\
+Kashihara & 124111.0 & Japan \\
+Kashiwa & 413954.0 & Japan \\
+Kasuga & 110743.0 & Japan \\
+Kasugai & 306508.0 & Japan \\
+Kasukabe & 232709.0 & Japan \\
+Kawachinagano & 106987.0 & Japan \\
+Kawagoe & 350745.0 & Japan \\
+Kawaguchi & 578112.0 & Japan \\
+Kawanishi & 156375.0 & Japan \\
+Kawasaki & 1475213.0 & Japan \\
+Kazo & 112229.0 & Japan \\
+Kirishima & 125857.0 & Japan \\
+Kiryu & 114714.0 & Japan \\
+Kisarazu & 134141.0 & Japan \\
+Kishiwada & 194911.0 & Japan \\
+Kitakyushu & 961286.0 & Japan \\
+Kitami & 121226.0 & Japan \\
+Kobe & 1537272.0 & Japan \\
+Kochi & 337190.0 & Japan \\
+Kodaira & 190005.0 & Japan \\
+Kofu & 193125.0 & Japan \\
+Koga & 140946.0 & Japan \\
+Koganei & 121396.0 & Japan \\
+Kokubunji & 122742.0 & Japan \\
+Komaki & 149462.0 & Japan \\
+Komatsu & 106919.0 & Japan \\
+Konosu & 118072.0 & Japan \\
+Koriyama & 335444.0 & Japan \\
+Koshigaya & 337498.0 & Japan \\
+Kuki & 152311.0 & Japan \\
+Kumagaya & 198742.0 & Japan \\
+Kumamoto & 740822.0 & Japan \\
+Kurashiki & 477118.0 & Japan \\
+Kure & 228552.0 & Japan \\
+Kurume & 304552.0 & Japan \\
+Kusatsu & 137247.0 & Japan \\
+Kushiro & 174742.0 & Japan \\
+Kuwana & 140303.0 & Japan \\
+Kyoto & 1475183.0 & Japan \\
+Machida & 432348.0 & Japan \\
+Maebashi & 336154.0 & Japan \\
+Marugame & 110010.0 & Japan \\
+Matsubara & 120750.0 & Japan \\
+Matsudo & 483480.0 & Japan \\
+Matsue & 206230.0 & Japan \\
+Matsumoto & 243293.0 & Japan \\
+Matsusaka & 163863.0 & Japan \\
+Matsuyama & 514865.0 & Japan \\
+Minoh & 133411.0 & Japan \\
+Misato & 136521.0 & Japan \\
+Mishima & 110046.0 & Japan \\
+Mitaka & 186936.0 & Japan \\
+Mito & 270783.0 & Japan \\
+Miyakonojo & 165029.0 & Japan \\
+Miyazaki & 401138.0 & Japan \\
+Moriguchi & 143042.0 & Japan \\
+Morioka & 297631.0 & Japan \\
+Musashino & 144730.0 & Japan \\
+Nagahama & 118193.0 & Japan \\
+Nagano & 377598.0 & Japan \\
+Nagaoka & 275133.0 & Japan \\
+Nagareyama & 174373.0 & Japan \\
+Nagasaki & 429508.0 & Japan \\
+Nagoya & 2295638.0 & Japan \\
+Naha & 319435.0 & Japan \\
+Nara & 360310.0 & Japan \\
+Narashino & 167909.0 & Japan \\
+Narita & 131190.0 & Japan \\
+Nasushiobara & 117146.0 & Japan \\
+Neyagawa & 237518.0 & Japan \\
+Niigata & 810157.0 & Japan \\
+Niihama & 119903.0 & Japan \\
+Niiza & 162122.0 & Japan \\
+Nishinomiya & 487850.0 & Japan \\
+Nishio & 167990.0 & Japan \\
+Nishitokyo & 200012.0 & Japan \\
+Nobeoka & 125159.0 & Japan \\
+Noda & 153583.0 & Japan \\
+Numazu & 195633.0 & Japan \\
+Obihiro & 169327.0 & Japan \\
+Odawara & 194086.0 & Japan \\
+Ogaki & 159879.0 & Japan \\
+Oita & 478146.0 & Japan \\
+Okayama & 719474.0 & Japan \\
+Okazaki & 381051.0 & Japan \\
+Okinawa & 139279.0 & Japan \\
+Ome & 137381.0 & Japan \\
+Omuta & 117360.0 & Japan \\
+Onomichi & 138626.0 & Japan \\
+Osaka & 2691185.0 & Japan \\
+Osaki & 133391.0 & Japan \\
+Oshu & 119422.0 & Japan \\
+Ota & 219807.0 & Japan \\
+Otaru & 121924.0 & Japan \\
+Otsu & 340973.0 & Japan \\
+Oyama & 166760.0 & Japan \\
+Saga & 236372.0 & Japan \\
+Sagamihara & 720780.0 & Japan \\
+Saijo & 108174.0 & Japan \\
+Saitama & 1263979.0 & Japan \\
+Sakado & 101679.0 & Japan \\
+Sakai & 839310.0 & Japan \\
+Sakata & 106244.0 & Japan \\
+Sakura & 172739.0 & Japan \\
+Sanda & 112691.0 & Japan \\
+Sano & 118919.0 & Japan \\
+Sapporo & 1952356.0 & Japan \\
+Sasebo & 255439.0 & Japan \\
+Sayama & 152405.0 & Japan \\
+Sendai & 1082159.0 & Japan \\
+Seto & 129046.0 & Japan \\
+Shimonoseki & 268517.0 & Japan \\
+Shizuoka & 704989.0 & Japan \\
+Shunan & 144842.0 & Japan \\
+Soka & 247034.0 & Japan \\
+Suita & 374468.0 & Japan \\
+Suzuka & 196403.0 & Japan \\
+Tachikawa & 176295.0 & Japan \\
+Tajimi & 110441.0 & Japan \\
+Takamatsu & 420748.0 & Japan \\
+Takaoka & 172125.0 & Japan \\
+Takarazuka & 224903.0 & Japan \\
+Takasaki & 370884.0 & Japan \\
+Takatsuki & 351829.0 & Japan \\
+Tama & 146631.0 & Japan \\
+Tochigi & 159211.0 & Japan \\
+Toda & 136150.0 & Japan \\
+Tokai & 111944.0 & Japan \\
+Tokorozawa & 340386.0 & Japan \\
+Tokushima & 258554.0 & Japan \\
+TOKYO & 9272740.0 & Japan \\
+Tomakomai & 172737.0 & Japan \\
+Tondabayashi & 113984.0 & Japan \\
+Toride & 106570.0 & Japan \\
+Tottori & 193717.0 & Japan \\
+Toyama & 418686.0 & Japan \\
+Toyohashi & 374765.0 & Japan \\
+Toyokawa & 182436.0 & Japan \\
+Toyonaka & 395479.0 & Japan \\
+Toyota & 422542.0 & Japan \\
+Tsu & 279886.0 & Japan \\
+Tsuchiura & 140804.0 & Japan \\
+Tsukuba & 226963.0 & Japan \\
+Tsuruoka & 129652.0 & Japan \\
+Tsuyama & 103746.0 & Japan \\
+Ube & 169429.0 & Japan \\
+Ueda & 156827.0 & Japan \\
+Uji & 184678.0 & Japan \\
+Urasoe & 114232.0 & Japan \\
+Urayasu & 164024.0 & Japan \\
+Uruma & 118898.0 & Japan \\
+Utsunomiya & 518594.0 & Japan \\
+Wakayama & 364154.0 & Japan \\
+Yachiyo & 193152.0 & Japan \\
+Yaizu & 139462.0 & Japan \\
+Yamagata & 253832.0 & Japan \\
+Yamaguchi & 197422.0 & Japan \\
+Yamato & 232922.0 & Japan \\
+Yao & 268800.0 & Japan \\
+Yatsushiro & 127472.0 & Japan \\
+Yokkaichi & 311031.0 & Japan \\
+Yokohama & 3724844.0 & Japan \\
+Yokosuka & 406586.0 & Japan \\
+Yonago & 149313.0 & Japan \\
+Zama & 128737.0 & Japan \\
+AMMAN & 3728346.0 & Jordan \\
+Aqaba & 160265.0 & Jordan \\
+Irbid & 542884.0 & Jordan \\
+Madaba & 113771.0 & Jordan \\
+Mafraq & 114490.0 & Jordan \\
+Ramtha & 168134.0 & Jordan \\
+Salt & 107874.0 & Jordan \\
+Zarqa & 685941.0 & Jordan \\
+Aktau & 182415.0 & Kazakhstan \\
+Aktobe & 482523.0 & Kazakhstan \\
+Almaty & 1828324.5 & Kazakhstan \\
+ASTANA & 1054480.5 & Kazakhstan \\
+Atirau & 267762.0 & Kazakhstan \\
+Ekibastuz & 143348.0 & Kazakhstan \\
+Karaganda & 499467.0 & Kazakhstan \\
+Kustanai & 241341.5 & Kazakhstan \\
+Kyzylorda & 271069.0 & Kazakhstan \\
+Pavlodar & 344343.0 & Kazakhstan \\
+Rudni & 129507.0 & Kazakhstan \\
+Semipalatinsk & 326272.5 & Kazakhstan \\
+Shimkent & 980628.0 & Kazakhstan \\
+Taldykorgan & 145288.0 & Kazakhstan \\
+Taraz & 356808.0 & Kazakhstan \\
+Temirtau & 186109.5 & Kazakhstan \\
+Turkestan & 163142.5 & Kazakhstan \\
+Uralsk & 301330.0 & Kazakhstan \\
+Ust-Kamenogorsk & 330352.0 & Kazakhstan \\
+Hawalli & 127982.436734706 & Kuwait \\
+Salmiya & 177008.528854141 & Kuwait \\
+South Kheetan & 113425.859387683 & Kuwait \\
+BISHKEK & 976734.0 & Kyrgyzstan \\
+Osh & 256763.0 & Kyrgyzstan \\
+Alor Setar & 134611.0 & Malaysia \\
+Georgetown & 224256.0 & Malaysia \\
+Kajang dan Sungai Chua & 113053.0 & Malaysia \\
+Klang & 292134.0 & Malaysia \\
+Kota Kinabalu & 248893.0 & Malaysia \\
+KUALA LUMPUR & 1824323.0 & Malaysia \\
+Kuala Terengganu & 241583.0 & Malaysia \\
+Kuantan & 412022.0 & Malaysia \\
+Majlis Perbandaran Ipoh & 483299.0 & Malaysia \\
+MB Johor Bahru (Johor Bahru) & 510788.0 & Malaysia \\
+MP Kota Bharu & 325913.0 & Malaysia \\
+Petaling Jaya & 215152.0 & Malaysia \\
+Sandakan & 199648.0 & Malaysia \\
+Selayang Baru & 183759.0 & Malaysia \\
+Seremban & 378429.0 & Malaysia \\
+Shah Alam & 192055.0 & Malaysia \\
+Subang Jaya & 208353.0 & Malaysia \\
+Sungai Petani & 199141.0 & Malaysia \\
+Taiping & 241470.0 & Malaysia \\
+Tawau & 145022.0 & Malaysia \\
+MALÉ & 210247.93700458 & Mali \\
+Bayan-Olgii & 103847.0 & Mongolia \\
+Darkhan-Uul & 104999.0 & Mongolia \\
+Hovsgol & 132763.0 & Mongolia \\
+Orkhon & 104992.0 & Mongolia \\
+Ovorhangay & 116105.0 & Mongolia \\
+Selenge & 110504.0 & Mongolia \\
+ULAANBAATAR & 1477174.0 & Mongolia \\
+Bharatpur & 143836.0 & Nepal \\
+Biratnagar & 201125.0 & Nepal \\
+Birgunj & 135904.0 & Nepal \\
+Butwal & 118462.0 & Nepal \\
+Dhangadhi & 101970.0 & Nepal \\
+Dharan & 116181.0 & Nepal \\
+KATHMANDU & 975453.0 & Nepal \\
+Lalitpur & 220802.0 & Nepal \\
+Pokhara & 255465.0 & Nepal \\
+Al Buraymi & 107679.0 & Oman \\
+Al Mudaybi & 118164.0 & Oman \\
+Al Rustaq & 122985.0 & Oman \\
+As Seeb & 406771.0 & Oman \\
+As Suwayq & 181448.0 & Oman \\
+Barka & 151158.0 & Oman \\
+Bawshar & 372405.0 & Oman \\
+Ibri & 171555.0 & Oman \\
+MUSCAT & 315443.0 & Oman \\
+Mutrah & 226219.0 & Oman \\
+Nizwa & 127180.0 & Oman \\
+Saham & 150416.0 & Oman \\
+Salalah & 368159.0 & Oman \\
+Sohar & 237632.0 & Oman \\
+Sur & 121061.0 & Oman \\
+Faisalabad (Lyallpur) & 3203846.0 & Pakistan \\
+Gujranwala & 2027001.0 & Pakistan \\
+Hyderabad & 1732693.0 & Pakistan \\
+ISLAMABAD & 1014825.0 & Pakistan \\
+Karachi & 14910352.0 & Pakistan \\
+Lahore & 11126285.0 & Pakistan \\
+Multan & 1871843.0 & Pakistan \\
+Peshawar & 1970042.0 & Pakistan \\
+Quetta & 1001205.0 & Pakistan \\
+Rawalpindi & 2098231.0 & Pakistan \\
+Angeles & 411634.0 & Philippines \\
+Bacolod & 561875.0 & Philippines \\
+Baguio & 345366.0 & Philippines \\
+Butuan & 337063.0 & Philippines \\
+Cagayan de Oro & 675950.0 & Philippines \\
+Caloocan & 1583978.0 & Philippines \\
+Cebu & 922611.0 & Philippines \\
+Cotabato & 299438.0 & Philippines \\
+Davao & 1632991.0 & Philippines \\
+General Santos & 594446.0 & Philippines \\
+Iligan & 342618.0 & Philippines \\
+Iloilo & 447992.0 & Philippines \\
+Isabela & 112788.0 & Philippines \\
+Lapu-Lapu & 408112.0 & Philippines \\
+Las Piñas & 588894.0 & Philippines \\
+Lucena City & 266248.0 & Philippines \\
+Makati & 582602.0 & Philippines \\
+Malabon & 365525.0 & Philippines \\
+Mandaluyong & 386276.0 & Philippines \\
+Mandaue & 362654.0 & Philippines \\
+MANILA & 1780148.0 & Philippines \\
+Marikina & 450741.0 & Philippines \\
+Muntinlupa & 504509.0 & Philippines \\
+Navotas & 249463.0 & Philippines \\
+Olongapo & 233040.0 & Philippines \\
+Paranaque & 665822.0 & Philippines \\
+Pasay & 416522.0 & Philippines \\
+Pasig & 755300.0 & Philippines \\
+Puerto Princesa & 255116.0 & Philippines \\
+Quezon City & 2936116.0 & Philippines \\
+San Juan & 122180.0 & Philippines \\
+Tacloban & 242089.0 & Philippines \\
+Taguig & 804915.0 & Philippines \\
+Valenzuela & 620422.0 & Philippines \\
+Zamboanga & 861799.0 & Philippines \\
+Al-Khoor & 202031.0 & Qatar \\
+Al-Rayyan & 605712.0 & Qatar \\
+Al-Wakrah & 299037.0 & Qatar \\
+DOHA & 956457.0 & Qatar \\
+Busan (Pusan) & 3428923.0 & South Korea \\
+Daegu (Taegu) & 2465268.0 & South Korea \\
+Daejeon (Taejon) & 1531256.0 & South Korea \\
+Incheon & 2923047.0 & South Korea \\
+Jeju (Cheju) & 634161.0 & South Korea \\
+Sejong & 275594.0 & South Korea \\
+SEOUL & 9776305.0 & South Korea \\
+Ulsan & 1165646.0 & South Korea \\
+Abha & 236157.0 & Saudi Arabia \\
+Ad-Dammam & 903312.0 & Saudi Arabia \\
+Al-Hawiyah & 148151.0 & Saudi Arabia \\
+Al-Hufuf & 660788.0 & Saudi Arabia \\
+Al-Jubayl & 337778.0 & Saudi Arabia \\
+Al-Khubar & 219679.0 & Saudi Arabia \\
+Al-Madinah & 1100093.0 & Saudi Arabia \\
+Al-Qatif & 118327.0 & Saudi Arabia \\
+Al-Seeh & 234607.0 & Saudi Arabia \\
+Ar'ar & 167057.0 & Saudi Arabia \\
+Ath-Thuqbah & 238066.0 & Saudi Arabia \\
+At-Ta'if & 579970.0 & Saudi Arabia \\
+Buraydah & 467410.0 & Saudi Arabia \\
+Dhahran & 120521.0 & Saudi Arabia \\
+Hafar al-Batin & 271642.0 & Saudi Arabia \\
+Ha'il & 310897.0 & Saudi Arabia \\
+Jiddah & 3430697.0 & Saudi Arabia \\
+Jizan & 127743.0 & Saudi Arabia \\
+Makkah & 1534731.0 & Saudi Arabia \\
+Najran (Aba as-Suud) & 298288.0 & Saudi Arabia \\
+RIYADH & 5188286.0 & Saudi Arabia \\
+Sekaka & 150257.0 & Saudi Arabia \\
+Tabuk & 512629.0 & Saudi Arabia \\
+Unayzah & 152895.0 & Saudi Arabia \\
+Yanbu al-Bahr & 233236.0 & Saudi Arabia \\
+SINGAPORE & 5638676.0 & Singapore \\
+COLOMBO & 647100.0 & Sri Lanka \\
+Dehiwala-Mount Lavinia & 210546.0 & Sri Lanka \\
+Kandy & 109343.0 & Sri Lanka \\
+Moratuwa & 177563.0 & Sri Lanka \\
+Negombo & 121701.0 & Sri Lanka \\
+Sri Jayawardanapura Kotte & 116366.0 & Sri Lanka \\
+Gaza & 583447.0 & Palestinian Territory \\
+Hebron & 199319.0 & Palestinian Territory \\
+Jabalya & 170646.0 & Palestinian Territory \\
+Khan Yunis & 202682.0 & Palestinian Territory \\
+Nablus & 155545.0 & Palestinian Territory \\
+Rafah & 169851.0 & Palestinian Territory \\
+Aleppo & 4450000.0 & Syria \\
+Al-Hasakeh & 1392000.0 & Syria \\
+Al-Raqqah & 865000.0 & Syria \\
+Al-Sweida & 349000.0 & Syria \\
+DAMASCUS & 1680000.0 & Syria \\
+Deir El-Zor & 1111000.0 & Syria \\
+Dra'a & 930000.0 & Syria \\
+Hama & 1508000.0 & Syria \\
+Homs & 1667000.0 & Syria \\
+Idleb & 1376000.0 & Syria \\
+Lattakia & 951000.0 & Syria \\
+Tartous & 756000.0 & Syria \\
+DUSHANBE & 823787.0 & Tajikistan \\
+Khujand & 176710.0 & Tajikistan \\
+DILI & 222323.0 & Timor-Leste \\
+Adıyaman & 251893.0 & Turkey \\
+Afyonkarahisar & 229810.0 & Turkey \\
+Ağrı & 117431.0 & Turkey \\
+Aksaray & 220459.0 & Turkey \\
+Amasya & 109240.0 & Turkey \\
+Batman & 411251.0 & Turkey \\
+Bingöl & 117014.0 & Turkey \\
+Bolu & 168187.0 & Turkey \\
+Çanakkale & 132854.0 & Turkey \\
+Cizre & 118953.0 & Turkey \\
+Çorum & 265171.0 & Turkey \\
+Düzce & 169111.0 & Turkey \\
+Edirne & 166494.0 & Turkey \\
+Elazığ & 381794.0 & Turkey \\
+Ereğli & 118030.0 & Turkey \\
+Giresun & 112415.0 & Turkey \\
+Isparta & 230011.0 & Turkey \\
+Karabük & 119548.0 & Turkey \\
+Karaman & 158566.0 & Turkey \\
+Kastamonu & 116737.0 & Turkey \\
+Kırıkkale & 194828.0 & Turkey \\
+Kırşehir & 137290.0 & Turkey \\
+Kütahya & 244544.0 & Turkey \\
+Lüleburgaz & 117075.0 & Turkey \\
+Nevşehir & 106738.0 & Turkey \\
+Niğde & 141010.0 & Turkey \\
+Osmaniye & 233242.0 & Turkey \\
+Rize & 117664.0 & Turkey \\
+Siirt & 148906.0 & Turkey \\
+Sivas & 344185.0 & Turkey \\
+Tokat & 152314.0 & Turkey \\
+Uşak & 211187.0 & Turkey \\
+Yalova & 119605.0 & Turkey \\
+Zonguldak & 108424.0 & Turkey \\
+ABU DHABI & 527000.0 & United Arab Emirates \\
+Ajman & 205000.0 & United Arab Emirates \\
+Al-Ayn & 328000.0 & United Arab Emirates \\
+Al-Sharjah & 488000.0 & United Arab Emirates \\
+Dubai & 1089000.0 & United Arab Emirates \\
+Andizhan & 427447.0 & Uzbekistan \\
+Bukhara & 276433.0 & Uzbekistan \\
+Fergana & 278510.0 & Uzbekistan \\
+Jizzax & 171734.0 & Uzbekistan \\
+Karshi & 267561.0 & Uzbekistan \\
+Namangan & 600209.0 & Uzbekistan \\
+Navoi & 135548.0 & Uzbekistan \\
+Nukus & 310945.0 & Uzbekistan \\
+Samarkand & 529633.0 & Uzbekistan \\
+TASHKENT & 2464933.0 & Uzbekistan \\
+Termez & 143790.0 & Uzbekistan \\
+Urgentch & 140180.0 & Uzbekistan \\
+Adan & 684322.0 & Yemen \\
+SANA'A & 1976286.0 & Yemen \\
+MARIEHAMN & 11709.0 & Finland \\
+Durrës & 113249.0 & Albania \\
+TIRANA & 418495.0 & Albania \\
+Graz & 286292.0 & Austria \\
+Innsbruck & 132493.0 & Austria \\
+Klagenfurt & 100369.0 & Austria \\
+Linz & 204846.0 & Austria \\
+Salzburg & 153377.0 & Austria \\
+WIEN & 1888776.0 & Austria \\
+Baranovichi & 179166.0 & Belarus \\
+Bobruisk & 217546.0 & Belarus \\
+Borisov & 143051.0 & Belarus \\
+Brest & 347576.0 & Belarus \\
+Grodno & 370919.0 & Belarus \\
+Lida & 101616.0 & Belarus \\
+MINSK & 1982444.0 & Belarus \\
+Mogilev & 381353.0 & Belarus \\
+Mozir & 111733.0 & Belarus \\
+Orsha & 115052.0 & Belarus \\
+Pinsk & 137961.0 & Belarus \\
+Soligorsk & 106627.0 & Belarus \\
+Anderlecht & 108940.0 & Belgium \\
+Antwerpen (Anvers) & 498473.0 & Belgium \\
+Brugge & 117260.0 & Belgium \\
+BRUXELLES (BRUSSEL) & 174383.0 & Belgium \\
+Charleroi & 204150.0 & Belgium \\
+Gent (Gand) & 248358.0 & Belgium \\
+Liège (Luik) & 195965.0 & Belgium \\
+Namur & 110175.0 & Belgium \\
+Schaerbeek & 127525.0 & Belgium \\
+Burgas & 202694.0 & Bulgaria \\
+Plovdiv & 345213.0 & Bulgaria \\
+Ruse & 144125.0 & Bulgaria \\
+SOFIA & 1238438.0 & Bulgaria \\
+Stara Zagora & 136307.0 & Bulgaria \\
+Varna & 335854.0 & Bulgaria \\
+Osijek & 108048.0 & Croatia \\
+Rijeka & 128624.0 & Croatia \\
+Split & 178102.0 & Croatia \\
+ZAGREB & 790017.0 & Croatia \\
+Brno & 379527.0 & Czech Republic \\
+Liberec & 103979.0 & Czech Republic \\
+Olomouc & 100494.0 & Czech Republic \\
+Ostrava & 290450.0 & Czech Republic \\
+Plzen & 170936.0 & Czech Republic \\
+PRAHA & 1294513.0 & Czech Republic \\
+Ålborg & 213271.0 & Denmark \\
+Århus & 341497.0 & Denmark \\
+Esbjerg & 116061.0 & Denmark \\
+Frederiksberg & 103914.0 & Denmark \\
+KOBENHAVN & 616098.0 & Denmark \\
+Odense & 202663.0 & Denmark \\
+Vejle & 114464.0 & Denmark \\
+TALLINN & 430805.0 & Estonia \\
+TÓRSHAVN & 13262.0 & Faroe Islands \\
+Espoo & 276814.0 & Finland \\
+HELSINKI & 639227.0 & Finland \\
+Jyvaskyla & 139519.0 & Finland \\
+Kuopio & 117975.0 & Finland \\
+Lahti & 119513.0 & Finland \\
+Oulu & 201168.0 & Finland \\
+Tampere & 230064.0 & Finland \\
+Turku & 188637.0 & Finland \\
+Vantaa & 221184.0 & Finland \\
+Amiens & 132874.0 & France \\
+Angers & 151520.0 & France \\
+Besançon & 116676.0 & France \\
+Bordeaux & 249712.0 & France \\
+Brest & 139163.0 & France \\
+Caen & 106260.0 & France \\
+Clermont-Ferrand & 141398.0 & France \\
+Dijon & 155114.0 & France \\
+Grenoble & 160649.0 & France \\
+Le Havre & 172366.0 & France \\
+Le Mans & 143325.0 & France \\
+Lille & 232741.0 & France \\
+Limoges & 133627.0 & France \\
+Lyon & 513275.0 & France \\
+Marseille & 861635.0 & France \\
+Metz & 117492.0 & France \\
+Montpellier & 277639.0 & France \\
+Mulhouse & 110370.0 & France \\
+Nancy & 105162.0 & France \\
+Nantes & 303382.0 & France \\
+Nice & 342522.0 & France \\
+Nîmes & 150672.0 & France \\
+Orléans & 114644.0 & France \\
+PARIS & 2206488.0 & France \\
+Perpignan & 121934.0 & France \\
+Reims & 184076.0 & France \\
+Rennes & 215366.0 & France \\
+Rouen & 110169.0 & France \\
+Saint-Étienne & 171057.0 & France \\
+Strasbourg & 277270.0 & France \\
+Toulon & 167479.0 & France \\
+Toulouse & 471941.0 & France \\
+Tours & 136252.0 & France \\
+Aachen & 246272.0 & Germany \\
+Augsburg & 292851.0 & Germany \\
+Bergisch Gladbach & 111627.0 & Germany \\
+BERLIN & 3613495.0 & Germany \\
+Bielefeld & 332552.0 & Germany \\
+Bochum & 365529.0 & Germany \\
+Bonn & 325490.0 & Germany \\
+Bottrop & 117364.0 & Germany \\
+Braunschweig & 248023.0 & Germany \\
+Bremen & 568006.0 & Germany \\
+Bremerhaven & 113026.0 & Germany \\
+Chemnitz & 246855.0 & Germany \\
+Cottbus & 101036.0 & Germany \\
+Darmstadt & 158254.0 & Germany \\
+Dortmund & 586600.0 & Germany \\
+Dresden & 551072.0 & Germany \\
+Duisburg & 498110.0 & Germany \\
+Düsseldorf & 617280.0 & Germany \\
+Erfurt & 212988.0 & Germany \\
+Erlangen & 110998.0 & Germany \\
+Essen & 583393.0 & Germany \\
+Frankfurt am Main & 746878.0 & Germany \\
+Freiburg im Breisgau & 229636.0 & Germany \\
+Fürth & 126526.0 & Germany \\
+Gelsenkirchen & 260305.0 & Germany \\
+Göttingen & 119529.0 & Germany \\
+Hagen & 187730.0 & Germany \\
+Halle (Saale) & 239173.0 & Germany \\
+Hamburg & 1830584.0 & Germany \\
+Hamm & 179185.0 & Germany \\
+Hannover & 535061.0 & Germany \\
+Heidelberg & 160601.0 & Germany \\
+Heilbronn & 125113.0 & Germany \\
+Herne & 156490.0 & Germany \\
+Hildesheim & 101744.0 & Germany \\
+Ingolstadt & 135244.0 & Germany \\
+Jena & 111099.0 & Germany \\
+Karlsruhe & 311919.0 & Germany \\
+Kassel & 200736.0 & Germany \\
+Kiel & 247943.0 & Germany \\
+Koblenz & 113844.0 & Germany \\
+Köln & 1080394.0 & Germany \\
+Krefeld & 226699.0 & Germany \\
+Leipzig & 581980.0 & Germany \\
+Leverkusen & 163577.0 & Germany \\
+Lübeck & 216318.0 & Germany \\
+Ludwigshafen am Rhein & 168497.0 & Germany \\
+Magdeburg & 238478.0 & Germany \\
+Mainz & 215110.0 & Germany \\
+Mannheim & 307997.0 & Germany \\
+Moers & 103949.0 & Germany \\
+Mönchengladbach & 262188.0 & Germany \\
+Mülheim an der Ruhr & 171265.0 & Germany \\
+München & 1456039.0 & Germany \\
+Münster (Westf.) & 313559.0 & Germany \\
+Neuss & 153810.0 & Germany \\
+Nürnberg & 515201.0 & Germany \\
+Oberhausen & 211422.0 & Germany \\
+Offenbach am Main & 126658.0 & Germany \\
+Oldenburg (Oldenburg) & 167081.0 & Germany \\
+Osnabrück & 164374.0 & Germany \\
+Paderborn & 149075.0 & Germany \\
+Pforzheim & 124289.0 & Germany \\
+Potsdam & 175710.0 & Germany \\
+Recklinghausen & 113360.0 & Germany \\
+Regensburg & 150894.0 & Germany \\
+Remscheid & 110584.0 & Germany \\
+Reutlingen & 115762.0 & Germany \\
+Rostock & 208409.0 & Germany \\
+Saarbrücken & 180966.0 & Germany \\
+Salzgitter & 104548.0 & Germany \\
+Siegen & 102337.0 & Germany \\
+Solingen & 158803.0 & Germany \\
+Stuttgart & 632743.0 & Germany \\
+Trier & 110013.0 & Germany \\
+Ulm & 125596.0 & Germany \\
+Wiesbaden & 278654.0 & Germany \\
+Wolfsburg & 123914.0 & Germany \\
+Wuppertal & 353590.0 & Germany \\
+Würzburg & 126635.0 & Germany \\
+GIBRALTAR & 34003.0 & Gibraltar \\
+ATHINAI & 664046.0 & Greece \\
+Calithèa & 100641.0 & Greece \\
+Larissa & 144651.0 & Greece \\
+Patrai & 167446.0 & Greece \\
+Pireas & 163688.0 & Greece \\
+Thessaloniki & 315196.0 & Greece \\
+ST. PETER PORT & 18599.0 & Guernsey \\
+VATICAN CITY & 451.0 & Vatican City \\
+BUDAPEST & 1751219.0 & Hungary \\
+Debrecen & 202097.5 & Hungary \\
+Györ & 129697.5 & Hungary \\
+Kecskemét & 110725.5 & Hungary \\
+Miskolc & 156413.5 & Hungary \\
+Nyiregyhaza & 117405.0 & Hungary \\
+Pécs & 144431.5 & Hungary \\
+Szeged & 161129.5 & Hungary \\
+REYKJAVIK & 124643.5 & Iceland \\
+Cork & 124391.0 & Ireland \\
+DUBLIN & 544107.0 & Ireland \\
+DOUGLAS & 26218.0 & Isle of Man \\
+Ancona & 100810.0 & Italy \\
+Bari & 323784.0 & Italy \\
+Bergamo & 120605.0 & Italy \\
+Bologna & 388814.0 & Italy \\
+Bolzano & 107134.0 & Italy \\
+Brescia & 196707.5 & Italy \\
+Cagliari & 154094.5 & Italy \\
+Catania & 312508.0 & Italy \\
+Ferrara & 132143.5 & Italy \\
+Firenze & 381603.0 & Italy \\
+Foggia & 151549.0 & Italy \\
+Forli & 117904.5 & Italy \\
+Genova & 581849.0 & Italy \\
+Giugliano in Campania & 124100.0 & Italy \\
+Latina & 126310.5 & Italy \\
+Livorno & 158643.5 & Italy \\
+Messina & 235627.5 & Italy \\
+Milano & 1358871.0 & Italy \\
+Modena & 185000.0 & Italy \\
+Monza & 123276.5 & Italy \\
+Napoli & 968164.5 & Italy \\
+Novara & 104233.5 & Italy \\
+Padova & 210134.5 & Italy \\
+Palermo & 671070.0 & Italy \\
+Parma & 195052.0 & Italy \\
+Perugia & 166179.5 & Italy \\
+Pescara & 119818.5 & Italy \\
+Piacenza & 102718.5 & Italy \\
+Prato & 192897.0 & Italy \\
+Ravenna & 159086.0 & Italy \\
+Reggio di Calabria & 181999.0 & Italy \\
+Reggio nell'Emilia & 171717.5 & Italy \\
+Rimini & 149155.5 & Italy \\
+ROMA & 2873147.0 & Italy \\
+Salerno & 134410.0 & Italy \\
+Sassari & 127151.0 & Italy \\
+Siracusa & 121818.0 & Italy \\
+Taranto & 198922.0 & Italy \\
+Terni & 111322.0 & Italy \\
+Torino & 884680.0 & Italy \\
+Trento & 117707.0 & Italy \\
+Trieste & 204286.0 & Italy \\
+Venezia & 261613.0 & Italy \\
+Verona & 257314.0 & Italy \\
+Vicenza & 111909.0 & Italy \\
+ST. HELIER & 28310.0 & Jersey \\
+RIGA & 637971.0 & Latvia \\
+VADUZ & 5605.0 & Liechtenstein \\
+Kaunas & 290527.0 & Lithuania \\
+Klaipeda & 150109.0 & Lithuania \\
+Shauliai & 100895.0 & Lithuania \\
+VILNIUS & 546382.0 & Lithuania \\
+LUXEMBOURG-VILLE & 116323.0 & Luxembourg \\
+VALLETTA & 5735.0 & Malta \\
+MONACO & 31109.0 & Monaco \\
+PODGORICA & 185937.0 & Montenegro \\
+Alkmaar & 107106.0 & The Netherlands \\
+Almere & 196932.0 & The Netherlands \\
+Alphen aan den & 107396.0 & The Netherlands \\
+Amersfoort & 152481.0 & The Netherlands \\
+AMSTERDAM & 821752.0 & The Netherlands \\
+Apeldoorn & 158099.0 & The Netherlands \\
+Arnhem & 152293.0 & The Netherlands \\
+Breda & 180937.0 & The Netherlands \\
+Delft & 101030.0 & The Netherlands \\
+Dordrecht & 118899.0 & The Netherlands \\
+Ede & 111575.0 & The Netherlands \\
+Eindhoven & 223209.0 & The Netherlands \\
+Emmen & 107775.0 & The Netherlands \\
+Enschede & 158553.0 & The Netherlands \\
+Groningen & 200336.0 & The Netherlands \\
+Haarlem & 156645.0 & The Netherlands \\
+Haarlemmermeer & 144152.0 & The Netherlands \\
+Leeuwarden & 107691.0 & The Netherlands \\
+Leiden & 121562.0 & The Netherlands \\
+Maastricht & 122397.0 & The Netherlands \\
+Nijmegen & 170681.0 & The Netherlands \\
+Rotterdam & 623652.0 & The Netherlands \\
+s-Gravenhage & 514861.0 & The Netherlands \\
+s-Hertogenbosch & 150889.0 & The Netherlands \\
+Tilburg & 211648.0 & The Netherlands \\
+Utrecht & 334176.0 & The Netherlands \\
+Venlo & 100536.0 & The Netherlands \\
+Westland & 104302.0 & The Netherlands \\
+Zaanstad & 151418.0 & The Netherlands \\
+Zoetermeer & 124025.0 & The Netherlands \\
+Zwolle & 123861.0 & The Netherlands \\
+SKOPJE & 546824.0 & Macedonia \\
+OSLO & 634293.0 & Norway \\
+Bialystok & 294362.0 & Poland \\
+Bielsko-Biala & 170005.0 & Poland \\
+Bydgoszcz & 352870.0 & Poland \\
+Bytom & 167359.0 & Poland \\
+Chorzów & 108205.0 & Poland \\
+Czestochowa & 223373.0 & Poland \\
+Dabrowa Górnicza & 120478.0 & Poland \\
+Elblag & 118925.0 & Poland \\
+Gdansk & 463352.0 & Poland \\
+Gdynia & 243910.0 & Poland \\
+Gliwice & 180193.0 & Poland \\
+Gorzów Wielkopolski & 122299.0 & Poland \\
+Kalisz & 100812.0 & Poland \\
+Katowice & 301202.0 & Poland \\
+Kielce & 195655.0 & Poland \\
+Koszalin & 105989.0 & Poland \\
+Kraków & 759104.0 & Poland \\
+Lódz & 692284.0 & Poland \\
+Lublin & 341794.0 & Poland \\
+Olsztyn & 173693.0 & Poland \\
+Opole & 127084.0 & Poland \\
+Plock & 119840.0 & Poland \\
+Poznan & 538439.0 & Poland \\
+Radom & 212765.0 & Poland \\
+Ruda Slaska & 137546.0 & Poland \\
+Rybnik & 137436.0 & Poland \\
+Rzeszów & 186391.0 & Poland \\
+Sosnowiec & 203001.0 & Poland \\
+Szczecin & 401940.0 & Poland \\
+Tarnów & 106709.0 & Poland \\
+Torun & 199490.0 & Poland \\
+Tychy & 126661.0 & Poland \\
+Walbrzych & 112720.0 & Poland \\
+WARSZAWA & 1754511.0 & Poland \\
+Wloclawek & 110563.0 & Poland \\
+Wroclaw & 634873.0 & Poland \\
+Zabrze & 172909.0 & Poland \\
+Zielona Góra & 139818.0 & Poland \\
+Amadora & 179055.5 & Portugal \\
+LISBOA & 505526.0 & Portugal \\
+Porto & 214353.0 & Portugal \\
+CHIŞINĂU (KISHINEV) & 339079.0 & Moldova \\
+BUCURESTI & 1826830.0 & Romania \\
+Abakan & 168655.0 & Russia \\
+Achinsk & 107943.0 & Russia \\
+Almetievsk & 148384.0 & Russia \\
+Angarsk & 231944.0 & Russia \\
+Arkhangelsk & 350258.0 & Russia \\
+Armavir & 190831.0 & Russia \\
+Arzamas & 105506.0 & Russia \\
+Astrakhan & 526363.0 & Russia \\
+Balakovo & 196918.0 & Russia \\
+Balashikha & 228567.0 & Russia \\
+Barnaul & 625679.0 & Russia \\
+Bataisk & 115016.0 & Russia \\
+Belgorod & 369815.0 & Russia \\
+Berezniki & 153806.0 & Russia \\
+Biisk & 206327.0 & Russia \\
+Blagoveshchensk (Amurskaya oblast) & 216691.0 & Russia \\
+Bratsk & 242604.0 & Russia \\
+Bryansk & 411798.0 & Russia \\
+Cheboksary & 462669.0 & Russia \\
+Chelyabinsk & 1149829.0 & Russia \\
+Cherepovets & 315186.0 & Russia \\
+Cherkessk & 126884.0 & Russia \\
+Chita & 329391.0 & Russia \\
+Derbent & 119647.0 & Russia \\
+Dimitrovgrad & 120750.0 & Russia \\
+Ekaterinburg & 1386909.0 & Russia \\
+Elektrostal & 156136.0 & Russia \\
+Elets & 107347.0 & Russia \\
+Elista & 104177.0 & Russia \\
+Engels & 210190.0 & Russia \\
+Groznyi & 276524.0 & Russia \\
+Irkutsk & 601993.0 & Russia \\
+Ivanovo & 408952.0 & Russia \\
+Izhevsk & 631182.0 & Russia \\
+Kaliningrad (Kaliningradskaya oblast) & 437456.0 & Russia \\
+Kaluga & 328871.0 & Russia \\
+Kamensk-Uralsky & 172639.0 & Russia \\
+Kamyshin & 117352.0 & Russia \\
+Kaspiysk & 102421.0 & Russia \\
+Kazan & 1168745.0 & Russia \\
+Kemerovo & 538188.0 & Russia \\
+Khabarovsk & 589596.0 & Russia \\
+Khimki & 218275.0 & Russia \\
+Kirov & 480594.0 & Russia \\
+Kislovodsk & 129313.0 & Russia \\
+Kolomna & 144838.0 & Russia \\
+Komsomolsk-na-Amure & 259081.0 & Russia \\
+Kopeysk & 139161.0 & Russia \\
+Kostroma & 270366.0 & Russia \\
+Krasnodar & 773970.0 & Russia \\
+Krasnogorsk & 125198.0 & Russia \\
+Krasnoyarsk & 1006856.0 & Russia \\
+Kurgan & 326729.0 & Russia \\
+Kursk & 425950.0 & Russia \\
+Kyzyl & 112659.0 & Russia \\
+Leninsk-Kuznetsky & 100073.0 & Russia \\
+Lipetsk & 508585.0 & Russia \\
+Lyubertsy & 178884.0 & Russia \\
+Magadan & 95263.0 & Russia \\
+Magnitogorsk & 410733.0 & Russia \\
+Maikop & 144579.0 & Russia \\
+Makhachkala & 575243.0 & Russia \\
+Mezhdurechensk & 100278.0 & Russia \\
+Miass & 150806.0 & Russia \\
+MOSKVA & 11918057.0 & Russia \\
+Murmansk & 303754.0 & Russia \\
+Murom & 113330.0 & Russia \\
+Mytishchi & 176825.0 & Russia \\
+Naberezhnye Tchelny & 517831.0 & Russia \\
+Nakhodka & 158649.0 & Russia \\
+Naltchik & 239230.0 & Russia \\
+Nazran & 100574.0 & Russia \\
+Neftekamsk & 123202.0 & Russia \\
+Nefteyugansk & 125528.0 & Russia \\
+Nevinnomyssk & 117949.0 & Russia \\
+Nizhnekamsk & 235179.0 & Russia \\
+Nizhnevartovsk & 261011.0 & Russia \\
+Nizhny Novgorod & 1257260.0 & Russia \\
+Nizhny Tagil & 358651.0 & Russia \\
+Noginsk & 101779.0 & Russia \\
+Norilsk & 177506.0 & Russia \\
+Novocherkassk & 171081.0 & Russia \\
+Novokuznetsk & 549383.0 & Russia \\
+Novorossiysk & 248857.0 & Russia \\
+Novoshakhtinsk & 110243.0 & Russia \\
+Novosibirsk & 1511369.0 & Russia \\
+Novy Urengoy & 114332.0 & Russia \\
+Noyabrsk & 108662.0 & Russia \\
+Obninsk & 105722.0 & Russia \\
+Odintsovo & 137706.0 & Russia \\
+Oktyabrsky & 111109.0 & Russia \\
+Omsk & 1158627.0 & Russia \\
+Orekhovo-Zuevo & 121341.0 & Russia \\
+Orel & 318642.0 & Russia \\
+Orenburg & 555420.0 & Russia \\
+Orsk & 237194.0 & Russia \\
+Penza & 519948.0 & Russia \\
+Perm & 1007272.0 & Russia \\
+Pervouralsk & 125421.0 & Russia \\
+Petropavlovsk-Kamchatsky & 180702.0 & Russia \\
+Petrozavodsk & 267102.0 & Russia \\
+Podolsk & 200059.0 & Russia \\
+Prokopyevsk & 206023.0 & Russia \\
+Pskov & 205062.0 & Russia \\
+Pushkino & 104020.0 & Russia \\
+Pyatigorsk & 144603.0 & Russia \\
+Rostov-na-Donu & 1100091.0 & Russia \\
+Rubtsovsk & 146075.0 & Russia \\
+Ryazan & 526919.0 & Russia \\
+Rybinsk & 197359.0 & Russia \\
+Salavat & 155174.0 & Russia \\
+Samara (Samarskaya oblast) & 1170381.0 & Russia \\
+Saransk & 298103.0 & Russia \\
+Saratov & 838321.0 & Russia \\
+Sergiev Posad & 109076.0 & Russia \\
+Serpukhov & 126729.0 & Russia \\
+Severodvinsk & 189313.0 & Russia \\
+Seversk & 109630.0 & Russia \\
+Shakhty & 238031.0 & Russia \\
+Smolensk & 330451.0 & Russia \\
+Sochi & 364171.0 & Russia \\
+St. Petersburg & 4990602.0 & Russia \\
+Stary Oskol & 220719.0 & Russia \\
+Stavropol & 408361.0 & Russia \\
+Sterlitamak & 275087.0 & Russia \\
+Surgut & 321062.0 & Russia \\
+Syzran & 177404.0 & Russia \\
+Taganrog & 255671.0 & Russia \\
+Tambov & 281348.0 & Russia \\
+Tolyatti & 719363.0 & Russia \\
+Tomsk & 543596.0 & Russia \\
+Tula & 496656.0 & Russia \\
+Tver & 407896.0 & Russia \\
+Tyumen & 621918.0 & Russia \\
+Ufa & 1075007.0 & Russia \\
+Uhta & 99680.0 & Russia \\
+Ulan-Ude & 413850.0 & Russia \\
+Ulyanovsk & 614878.0 & Russia \\
+Ussuriisk & 163465.0 & Russia \\
+Velikiy Novgorod & 219941.0 & Russia \\
+Vladimir & 346922.0 & Russia \\
+Vladivostok & 598927.0 & Russia \\
+Volgodonsk & 170189.0 & Russia \\
+Volgograd & 1018762.0 & Russia \\
+Vologda & 305397.0 & Russia \\
+Volzhsky & 320761.0 & Russia \\
+Voronezh & 997447.0 & Russia \\
+Yakutsk & 282419.0 & Russia \\
+Yaroslavl & 597161.0 & Russia \\
+Yoshkar-Ola & 254987.0 & Russia \\
+Yuzhno-Sakhalinsk & 188242.0 & Russia \\
+Zheleznodorozhny & 138814.0 & Russia \\
+Zhukovsky & 106555.0 & Russia \\
+Zlatoust & 172972.0 & Russia \\
+SAN MARINO & 4127.0 & San Marino \\
+BEOGRAD (BELGRADE) & 1378682.0 & Serbia \\
+Čačak & 71883.0 & Serbia \\
+Kragujevac & 150623.0 & Serbia \\
+Kraljevo & 66688.0 & Serbia \\
+Kruševac & 57213.0 & Serbia \\
+Leskovac & 63618.0 & Serbia \\
+Niš & 185853.0 & Serbia \\
+Novi Pazar & 72372.0 & Serbia \\
+Novi Sad & 291706.0 & Serbia \\
+Pancevo & 89024.0 & Serbia \\
+Šabac & 52929.0 & Serbia \\
+Smederevo & 62593.0 & Serbia \\
+Subotica & 103694.0 & Serbia \\
+Zrenjanin & 73945.0 & Serbia \\
+BRATISLAVA & 427744.0 & Slovakia \\
+Kosice & 239119.0 & Slovakia \\
+LJUBLJANA & 279650.0 & Slovenia \\
+Maribor & 94248.0 & Slovenia \\
+A Coruña & 244474.0 & Spain \\
+Albacete & 172933.0 & Spain \\
+Alcalá de Henares & 194030.0 & Spain \\
+Alcobendas & 115450.0 & Spain \\
+Alcorcón & 168821.0 & Spain \\
+Algeciras & 121273.0 & Spain \\
+Alicante/Alacant & 330782.0 & Spain \\
+Almería & 196120.0 & Spain \\
+Badajoz & 150536.0 & Spain \\
+Badalona & 216794.0 & Spain \\
+Barakaldo & 100374.0 & Spain \\
+Barcelona & 1620576.0 & Spain \\
+Bilbao & 345465.0 & Spain \\
+Burgos & 175772.0 & Spain \\
+Cádiz & 117513.0 & Spain \\
+Cartagena & 214060.0 & Spain \\
+Castellón de la Plana/Castelló de la Plana & 170193.0 & Spain \\
+Córdoba & 325812.0 & Spain \\
+Donostia/San Sebastián & 186517.0 & Spain \\
+Dos Hermanas & 132859.0 & Spain \\
+Elche/Elx & 229650.0 & Spain \\
+Fuenlabrada & 194127.0 & Spain \\
+Getafe & 179517.0 & Spain \\
+Gijón & 272104.0 & Spain \\
+Granada & 232489.0 & Spain \\
+Huelva & 144686.0 & Spain \\
+Jaén & 113847.0 & Spain \\
+Jerez de la Frontera & 212897.0 & Spain \\
+Las Palmas de Gran Canaria & 378083.0 & Spain \\
+Leganés & 188072.0 & Spain \\
+León & 125044.0 & Spain \\
+L'Hospitalet de Llobregat & 259208.0 & Spain \\
+Lleida & 137591.0 & Spain \\
+Logroño & 151046.0 & Spain \\
+MADRID & 3203157.0 & Spain \\
+Málaga & 570014.0 & Spain \\
+Marbella & 141317.0 & Spain \\
+Mataró & 126557.0 & Spain \\
+Móstoles & 206842.0 & Spain \\
+Murcia & 445212.0 & Spain \\
+Ourense & 105570.0 & Spain \\
+Oviedo & 220160.0 & Spain \\
+Palma de Mallorca & 408076.0 & Spain \\
+Pamplona/Iruña & 198102.0 & Spain \\
+Parla & 127077.0 & Spain \\
+Reus & 103300.0 & Spain \\
+Sabadell & 210832.0 & Spain \\
+Salamanca & 144207.0 & Spain \\
+San Cristóbal de La Laguna & 154602.0 & Spain \\
+Santa Coloma de Gramenet & 118209.0 & Spain \\
+Santa Cruz de Tenerife & 204274.0 & Spain \\
+Santander & 171997.0 & Spain \\
+Sevilla & 689072.0 & Spain \\
+Tarragona & 131903.0 & Spain \\
+Telde & 102214.0 & Spain \\
+Terrassa & 217481.0 & Spain \\
+Torrejón de Ardoz & 128871.0 & Spain \\
+Valencia & 789610.0 & Spain \\
+Valladolid & 299290.0 & Spain \\
+Vigo & 293314.0 & Spain \\
+Vitoria-Gasteiz & 248076.0 & Spain \\
+Zaragoza & 665909.0 & Spain \\
+Göteborg & 491629.5 & Sweden \\
+Helsingborg & 124187.5 & Sweden \\
+Jönköping & 122951.5 & Sweden \\
+Linköping & 139473.5 & Sweden \\
+Malmö & 278522.5 & Sweden \\
+Norrköping & 126071.5 & Sweden \\
+Orebro & 129703.0 & Sweden \\
+STOCKHOLM & 789024.0 & Sweden \\
+Umeå & 111503.0 & Sweden \\
+Uppsala & 186364.0 & Sweden \\
+Västerås & 133324.0 & Sweden \\
+Baden-Brugg & 30304.0 & Switzerland \\
+Bâle & 171513.0 & Switzerland \\
+BERNE & 133798.0 & Switzerland \\
+Fribourg & 38521.0 & Switzerland \\
+Genève & 200548.0 & Switzerland \\
+Lausanne & 138905.0 & Switzerland \\
+Lugano & 63494.0 & Switzerland \\
+Luzern & 81401.0 & Switzerland \\
+St. Gallen & 75522.0 & Switzerland \\
+Winterthur & 110912.0 & Switzerland \\
+Zug & 30205.0 & Switzerland \\
+Zürich & 409241.0 & Switzerland \\
+Alchevsk & 107542.0 & Ukraine \\
+Berdyansk & 111955.0 & Ukraine \\
+Bila Tserkva & 205247.0 & Ukraine \\
+Cherkasy & 275469.0 & Ukraine \\
+Chernihiv & 283579.0 & Ukraine \\
+Chernivtsi & 261924.0 & Ukraine \\
+Dnepropetrovsk & 990381.0 & Ukraine \\
+Dniprodzerzhynsk & 234516.0 & Ukraine \\
+Donets'k & 910252.0 & Ukraine \\
+Gorlivka & 243536.0 & Ukraine \\
+Ivano-Frankivsk & 232502.0 & Ukraine \\
+Kharkiv & 1430515.0 & Ukraine \\
+Kherson & 287826.0 & Ukraine \\
+Kirovograd & 225489.0 & Ukraine \\
+Kramatorsk & 155155.0 & Ukraine \\
+Krivoy Rog & 628181.0 & Ukraine \\
+KYIV & 2893215.0 & Ukraine \\
+Lugansk & 403254.0 & Ukraine \\
+Luts'k & 213422.0 & Ukraine \\
+Lviv & 720105.0 & Ukraine \\
+Lysychansk & 97935.0 & Ukraine \\
+Makijivka & 343102.0 & Ukraine \\
+Mariupol & 441098.0 & Ukraine \\
+Melitopol & 153839.0 & Ukraine \\
+Nikolaev & 481760.0 & Ukraine \\
+Nikopol & 114156.0 & Ukraine \\
+Odessa & 993831.0 & Ukraine \\
+Pavlograd & 107127.0 & Ukraine \\
+Poltava & 282523.0 & Ukraine \\
+Rivne & 243152.0 & Ukraine \\
+Sievierodonetsk & 104828.0 & Ukraine \\
+Slovyansk & 109374.0 & Ukraine \\
+Sumy & 263681.0 & Ukraine \\
+Ternopil & 217171.0 & Ukraine \\
+Uzhhorod & 112436.0 & Ukraine \\
+Vinnitsa & 370017.0 & Ukraine \\
+Zaporozhye & 741496.0 & Ukraine \\
+Zhytomyr & 265679.0 & Ukraine \\
+Aberdeen & 207932.0 & United Kingdom \\
+Belfast & 280211.0 & United Kingdom \\
+Birmingham & 1085810.0 & United Kingdom \\
+Bolton & 194189.0 & United Kingdom \\
+Bournemouth & 187503.0 & United Kingdom \\
+Bradford & 349561.0 & United Kingdom \\
+Brighton and Hove & 229700.0 & United Kingdom \\
+Bristol & 535907.0 & United Kingdom \\
+Cardiff & 335145.0 & United Kingdom \\
+Coventry & 325949.0 & United Kingdom \\
+Derby & 255394.0 & United Kingdom \\
+Edinburgh & 482005.0 & United Kingdom \\
+Kingston-upon-Hull & 284321.0 & United Kingdom \\
+Leeds & 474632.0 & United Kingdom \\
+Leicester & 443760.0 & United Kingdom \\
+Liverpool & 552267.0 & United Kingdom \\
+Luton & 211228.0 & United Kingdom \\
+Manchester & 510746.0 & United Kingdom \\
+Newcastle-upon-Tyne & 268064.0 & United Kingdom \\
+Northampton & 215173.0 & United Kingdom \\
+Nottingham & 289301.0 & United Kingdom \\
+Plymouth & 234982.0 & United Kingdom \\
+Portsmouth & 238137.0 & United Kingdom \\
+Reading & 218705.0 & United Kingdom \\
+Sheffield & 518090.0 & United Kingdom \\
+Southampton & 253651.0 & United Kingdom \\
+Stoke-on-Trent & 270726.0 & United Kingdom \\
+Wolverhampton & 210319.0 & United Kingdom \\
+PAGO PAGO & 3656.0 & American Samoa \\
+Adelaide & 24193.0 & Australia \\
+Ballarat & 105438.0 & Australia \\
+Brisbane & 1209322.0 & Australia \\
+Cairns & 163814.0 & Australia \\
+CANBERRA & 411667.0 & Australia \\
+Canberra-Queanbeyan & 470438.0 & Australia \\
+Central Coast & 339196.0 & Australia \\
+Darwin & 85914.0 & Australia \\
+Geelong & 245751.0 & Australia \\
+Gold Coast & 591356.0 & Australia \\
+Gold Coast-Tweed Heads & 686213.0 & Australia \\
+Hobart & 52785.0 & Australia \\
+Melbourne & 158923.0 & Australia \\
+Newcastle & 162358.0 & Australia \\
+Newcastle-Maitland & 243347.0 & Australia \\
+Perth & 27340.0 & Australia \\
+Sunshine Coast & 311211.0 & Australia \\
+Sydney & 232926.0 & Australia \\
+Toowoomba & 166045.0 & Australia \\
+Townsville & 192988.0 & Australia \\
+RAROTONGA & 13044.0 & Cook Islands \\
+SUVA & 74481.0 & Fiji \\
+PAPEETE & 25763.0 & French Polynesia \\
+AGANA & 1051.0 & Guam \\
+MAJURO & 27797.0 & Marshall Islands \\
+PALIKIR & 6227.0 & Micronesia \\
+NOUMEA & 99926.0 & New Caledonia \\
+Auckland & 1695900.0 & New Zealand \\
+Christchurch & 388500.0 & New Zealand \\
+Dunedin & 130700.0 & New Zealand \\
+Hamilton & 169300.0 & New Zealand \\
+Lower Hutt & 105900.0 & New Zealand \\
+Tauranga & 135000.0 & New Zealand \\
+WELLINGTON & 216300.0 & New Zealand \\
+ALOFI & 639.0 & Niue \\
+GARAPAN & 3983.0 & Northern Mariana Islands \\
+PORT MORESBY & 364125.0 & Papua New Guinea \\
+ADAMSTOWN & 49.0 & Pitcairn \\
+APIA & 37391.0 & Samoa \\
+HONIARA & 64609.0 & Solomon Islands \\
+FUNAFUTI & 6152.0 & Tuvalu \\
+PORT VILA & 44039.0 & Vanuatu \\
