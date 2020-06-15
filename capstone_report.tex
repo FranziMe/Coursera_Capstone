@@ -11,43 +11,181 @@
 \begin{document}
 \maketitle
 \section{Introduction}
-In this Capstone project I want to investigate if the population size of a city can be estimated by the amount of different venues within a 5km radius around the city center. Furthermore, I want to determine which type of venue is the best predictor for population size and what type of model is the most accurate. Therefore, I will implement different models introduced in the Machine Learning Course using an Ipython Notebook and the python specific libraries such as numpy, pandas, and sklearn.\\\\
-This analysis could reveal crucial correlations between venues and population size. It could identify outlier cities. Cities with a higher density of venues to population size could possibly be interesting for tourism agencies, while cities with a lower density of venues to population size could possibly be interesting for business developers.\\
+\subsection*{Problem}
+We live in a world of travelers but we also live in a world of individuals with divers interests. It would be preposterous to assume that everybody enjoys exactly the same cities. Some people might enjoy cities with a good night life, while others want to travel to cities with a diverse cultural landscape. 
+
+\subsection*{Background}
+Traveling greatly promotes personal growth, hence I try to travel somewhere new every year. By know I have traveled to most European capitals and other major cities. Each year it becomes harder and harder to pick a city and I have also encountered cities that I did not enjoy visiting. One major reason was that they were too crowded with tourists (I understand irony of the problem). For my next travel destination I would like to select a less popular city, while ensuring that the city is similar to what I have enjoyed before. 
+
+\subsection*{Solution}
+Therefore I will develop a program which is able to find cities a user might find enjoyable based on an input city and venue landscape. I will implement the code in an Ipython notebook and will make use of the python libraries introduced in the Machine Learning Course such as \texttt{numpy}, \texttt{pandas}, and \texttt{sklearn}. The program will return as many similar cities as desired. Besides a table listing the similar cities, the program will return a heat-map visualizing the similarity of these cities by venue occurrence. A scatter-plot using the cities coordinates will also be returned. This material will enable the user to confidently select their next travel destination.
+
+\subsection*{Target audience}
+My idea is intended to be used by people who are looking for a new travel destination spanning further than all the known classics like Paris or New York. A user will be able to make the most of the program if they had already traveled to a considerable amount of cities and know what they appreciated. 
 
 \section{Data}
-I will use the population data made publicly available by the United Nations (\href{https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2018/table08.xls}{Demographic Yearbook – 2018}\footnote{\url{https://unstats.un.org/unsd/demographic-social/products/dyb/dyb_2018/}}). I will use numpy and pandas libraries to clean the data. Secondly, I will use the geopy library to acquire the coordinates for all cities. I will separate cities into different classes/groups based on their population size, i.e. $ < 0.5\text{ Mio}, 0.5-1\text{ Mio}, 1-5\text{ Mio}, 5-10\text{ Mio}, 10-20\text{ Mio}, \text{and} >20\text{ Mio}$.\\
-I will use the foursquare app to look for all venues within a 5km radius of the city's center. In order to deal with the limited amount of requests that can be made to foursquare, I will only use a subset of all cities. The data will be stored in a table with one row per city containing the cities name, country, coordinates, population size, population size category, number of venues from different categories in one-hot encoding.\\
-Finally, this data set will be split into a training and test data set to train different models and evaluate their accuracy.
+I will use the population data made publicly available by the United Nations (\href{https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2018/table08.xls}{Demographic Yearbook – 2018}\footnote{\url{https://unstats.un.org/unsd/demographic-social/products/dyb/dyb_2018/}}). I will use \texttt{numpy} and \texttt{pandas} libraries to clean the data. An example of this data is given in table \ref{tab:pop_data}.
+
+\begin{table}[h!]
+\centering
+\scalebox{0.6}{
+\begin{tabular}{|l|r|c|}
+\hline
+\textbf{City} & \textbf{Population Size} & \textbf{Country} \\\hline
+Adrar & 200834.0 & Algeria \\
+Ain Defla & 450280.0 & Algeria \\
+Ain Temouchent & 299341.0 & Algeria \\
+ALGIERS (EL DJAZAIR) & 2712944.0 & Algeria \\
+Annaba & 442230.0 & Algeria \\
+Batna & 768444.0 & Algeria \\
+Béchar & 236213.0 & Algeria \\
+Bejaïa & 559981.0 & Algeria \\
+Beskra (Biskra) & 563245.0 & Algeria \\\hline
+\end{tabular}}\caption{Cleaned population data}\label{tab:pop_data}
+\end{table}
+
+Secondly, I will use the geopy library to acquire the coordinates for all cities. I will separate cities into different classes/groups based on their population size, i.e. $ < 0.5\text{ Mio}, 0.5-1\text{ Mio}, 1-5\text{ Mio}, 5-10\text{ Mio}, 10-20\text{ Mio}, \text{and} >20\text{ Mio}$ (see Table: \ref{tab:pop_coordinates}).\\
+
+\begin{table}[h!]
+\centering
+\scalebox{0.6}{
+\begin{tabular}{|l|r|c|r|r|c|}
+\hline
+\textbf{City} & \textbf{Population Size} & \textbf{Country} & \textbf{Latitude} & \textbf{Longitude} & \textbf{population\_bin} \\\hline
+Adrar & 200834.0 & Algeria & 27.9458867 & -0.1992938330258469 & 1 \\
+Ain Defla & 450280.0 & Algeria & 36.15868425 & 2.084281730358365 & 1 \\
+Ain Temouchent & 299341.0 & Algeria & 35.26665705 & -1.149927622407504 & 1 \\
+ALGIERS (EL DJAZAIR) & 2712944.0 & Algeria & 36.7753606 & 3.0601882 & 3 \\
+Annaba & 442230.0 & Algeria & 36.8982165 & 7.7549272 & 1 \\
+Batna & 768444.0 & Algeria & 35.3384291 & 5.731545299000572 & 2 \\
+Béchar & 236213.0 & Algeria & 31.62298095 & -1.914198993519679 & 1 \\
+Bejaïa & 559981.0 & Algeria & 36.7511783 & 5.0643687 & 2 \\
+Beskra (Biskra) & 563245.0 & Algeria & 34.7845635 & 5.812435334419206 & 2 \\\hline
+\end{tabular}}\caption{Cities with coordinates}\label{tab:pop_coordinates}
+\end{table}
+
+I will use the \texttt{Foursquare API} to look for all venues within a 5km radius of the city's center. In order to deal with the limited amount of requests that can be made to foursquare (see Table: \ref{tab:venues}). 
+
+\begin{table}[h!]
+\centering
+\scalebox{0.6}{
+\begin{tabular}{|l|r|r|l|r|r|l|}
+\hline
+\textbf{City} & \textbf{City Latitude} & \textbf{City Longitude} & \textbf{Venue} & \textbf{Venue Latitude} & \textbf{Venue Longitude} & \textbf{Venue Category} \\\hline
+Adrar & 27.9458867 & -0.1992938330258469 &  &  &  &  \\
+Ain Defla & 36.15868425 & 2.084281730358365 &  &  &  &  \\
+Ain Temouchent & 35.26665705 & -1.149927622407504 & Fast food Le Loft & 35.2949989986954 & -1.137600108318426 & Fast Food Restaurant \\
+ALGIERS (EL DJAZAIR) & 36.7753606 & 3.0601882 & Restaurant Le Thyrolien & 36.77518773893406 & 3.058731268449381 & BBQ Joint \\
+ALGIERS (EL DJAZAIR) & 36.7753606 & 3.0601882 & CARACOYA & 36.76667223648845 & 3.053610267518587 & French Restaurant \\
+ALGIERS (EL DJAZAIR) & 36.7753606 & 3.0601882 & "TNA ""Théâtre National d'Alger""" & 36.78097827704275 & 3.060508018126319 & Theater \\
+ALGIERS (EL DJAZAIR) & 36.7753606 & 3.0601882 & Didouche Mourad & 36.76557038107158 & 3.051074029384855 & Plaza \\
+ALGIERS (EL DJAZAIR) & 36.7753606 & 3.0601882 & Tantonville & 36.780824 & 3.06031 & Café \\
+ALGIERS (EL DJAZAIR) & 36.7753606 & 3.0601882 & Musée d'Art Moderne Algérie & 36.77720262790217 & 3.058272841808561 & Art Museum \\\hline
+\end{tabular}}\caption{Foursquare results}\label{tab:venues}
+\end{table}
 
 
+The data will be stored in a table with one row per city containing the cities name, country, coordinates, population size, population size category, number of venues from different categories in one-hot encoding (see Table \ref{tab:one_hot} ).\\
 
-\section{Methods}
-%\begin{itemize}
-%\item models
-%\begin{itemize}
-%\item KNN
-%\item Decision Tree
-%\item multiple linear regression
-%\item Supported Vector Machines
-%\item NN?
-%\end{itemize}
-%\item Evaluation scores
-%\begin{itemize}
-%\item F1 score
-%\item Jaccard
-%\item Rsquare
-%\end{itemize}
-%\item pictures:
-%\begin{itemize}
-%\item ...
-%\end{itemize}
-%\end{itemize}
-Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
-\section{Results}
-Results section where you discuss the results.
-\section{Discussion}
-Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
-\section{Conclusion}
-Conclusion section where you conclude the report.
+\begin{table}[h!]
+\centering
+\scalebox{0.6}{
+\begin{tabular}{|l|r|l|r|r|c|c|c|c|c|c|}
+\hline
+\textbf{City} & \textbf{Population Size} & \textbf{Country} & \textbf{Latitude} & \textbf{Longitude} & \textbf{population\_bin} & \textbf{ATM}& \textbf{...} & \textbf{Fast Food Restaurant} & \textbf{... }& \textbf{Zoo Exhibit} \\\hline
+Ain Temouchent & 299341.0 & Algeria & 35.26665705 & -1.149927622407504 & 1 & 0 & & 1 & & 0 \\
+ALGIERS (EL DJAZAIR) & 2712944.0 & Algeria & 36.7753606 & 3.0601882 & 3 & 0 & & 0 & & 0 \\
+Annaba & 442230.0 & Algeria & 36.8982165 & 7.7549272 & 1 & 0 & & 0 & & 0 \\
+Bejaïa & 559981.0 & Algeria & 36.7511783 & 5.0643687 & 2 & 0 & & 0 & & 0 \\
+Bordj Bou Arreridj & 422986.0 & Algeria & 36.095506 & 4.661100173631754 & 1 & 0 & ... & 0 & ... & 0 \\
+El Bayadh & 192958.0 & Algeria & 33.63785225 & 1.012203911250456 & 1 & 0 & & 0 & & 0 \\
+Guelma & 363716.0 & Algeria & 36.3491635 & 7.409498952760461 & 1 & 0 & & 0 & & 0 \\
+Jijel & 391096.0 & Algeria & 36.8167305 & 5.771494 & 1 & 0 & & 0 & & 0 \\
+Laghouat & 371204.0 & Algeria & 33.8063518 & 2.8808616 & 1 & 0 & & 0 & & 0 \\\hline
+\end{tabular}}\caption{Foursquare results}\label{tab:one_hot}
+\end{table}
+
+Table \ref{tab:one_hot} will be the input table used for my program. Based on the columns \textbf{ATM} to \textbf{Zoo Exhibit} the function will calculate a similarity score between all cities using the function \texttt{pdist} from the package \texttt{sklearn}.
+
+%
+%
+%\section{Methods}
+%%
+%%Step 1: Data aquisition
+%%
+%%1.1 read and clean city/population data from UN
+%%1.2 get coordinates for all cities using geopy.geocoder
+%%1.3 bin population size
+%%1.4 for each city get all venues within 5km radius of city center using foursquare API
+%%
+%%
+%%Step 2: Data wrangeling
+%%
+%%2.1 redefine groups
+%%2.2 get one-hot encoding for Venue Category and/or Grouped Venue Category
+%%2.3 summarize by ciy either mean or sum
+%%2.4 merge with population data
+%%
+%%
+%%Step 3: Visualize data
+%%
+%%3.1 PCA
+%%3.2 TSNE
+%%3.3 barplot or boxplot for group Venues
+%%3.4 plot number of venues vs. number of categories (showing diversity)
+%%
+%%
+%%Step 4: Write function to find similar city
+%%
+%%4.1 input: population/venue data, favorite city, number of similar cities, choice of algorithm, select or deselect categories
+%%4.2 remove or select specified categories
+%%4.3 use hierachical clustering to find x similar cities
+%%4.4 return similar cities
+%%4.5 make a heatmap showing similar cities and features (!=0)
+%%
+%%
+%%Step 5: Apply functions
+%%
+%%5.1 show the result for 5 examples
+%%5.2 pretend to select a city
+%%5.3 use foursquare to get more information on an example city
+%%
+%%
+%%Possible discussion points and future directions.
+%%
+%%    select more cities and create an average of input cities
+%%    select more cities and use K-means clustering with selected cities as input
+%%        show top venues for each cluster
+%%        build recommender engine for selecting multiple cities
+%%    write a flask app 
+%%
+%
+%%\begin{itemize}
+%%\item models
+%%\begin{itemize}
+%%\item KNN
+%%\item Decision Tree
+%%\item multiple linear regression
+%%\item Supported Vector Machines
+%%\item NN?
+%%\end{itemize}
+%%\item Evaluation scores
+%%\begin{itemize}
+%%\item F1 score
+%%\item Jaccard
+%%\item Rsquare
+%%\end{itemize}
+%%\item pictures:
+%%\begin{itemize}
+%%\item ...
+%%\end{itemize}
+%%\end{itemize}
+%Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
+%\section{Results}
+%Results section where you discuss the results.
+%\section{Discussion}
+%Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+%\section{Conclusion}
+%Conclusion section where you conclude the report.
 
 \end{document}
