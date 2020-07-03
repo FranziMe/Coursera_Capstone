@@ -1,0 +1,21 @@
+City & City Latitude & City Longitude & Venue & Venue Latitude & Venue Longitude & Venue Category \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & De Kaasspeciaalzaak Ed Boele & 52.078563693360294 & 4.269423625840854 & Deli / Bodega \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & cafe madeleine & 52.07875093213555 & 4.276190053614307 & Tea Room \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Zondag lunchroom & 52.079630346555405 & 4.268465460188677 & Café \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Restaurant Rakang Thai & 52.0771097635254 & 4.278414389531412 & Thai Restaurant \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Emma & 52.07672963150343 & 4.282775738593971 & Bar \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Lokaal Duinoord & 52.08186501187415 & 4.28311407916247 & Bar \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Spijssalon & 52.07628392465103 & 4.281959093814119 & Ice Cream Shop \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Indonesisch restaurant Didong & 52.084012194729546 & 4.278235407473984 & Indonesian Restaurant \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & "Koemans Snacks  &  Broodjes" & 52.078317277178954 & 4.269742793899394 & Snack Place \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Gemeentemuseum Den Haag & 52.08928982328055 & 4.280290603637695 & Museum \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Vincenzo's & 52.081676 & 4.292609 & Pizza Place \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Paagman & 52.09112340740675 & 4.273848341283476 & Bookstore \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Appels en peren & 52.06615053488415 & 4.2529184057729825 & Bistro \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & St. Joris en de Draeck & 52.07999 & 4.2888 & Restaurant \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & De Sushimeisjes & 52.081361 & 4.291992 & Restaurant \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Omniversum & 52.08937727145052 & 4.281729695781964 & Movie Theater \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & "Brood  &  Koffie bij Clarence" & 52.082145885945366 & 4.299441124583457 & Sandwich Place \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Strandslag 10 & 52.08805714308507 & 4.246750499408217 & Beach \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Meza Libanese Traiteur & 52.093330543129845 & 4.276219260492493 & Mediterranean Restaurant \\
+s-Gravenhage & 52.07494555 & 4.269680220536451 & Bakkerij Maxima & 52.0815673467081 & 4.292529039328937 & Bakery \\

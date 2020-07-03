@@ -13,7 +13,9 @@
 #     name: python3
 # ---
 
-# Write a little introduction
+# # Capstone Project: find my next travel destination
+
+# In this Ipython notebook I will first aquire necessary data, explore the data, write functions to find similar cities based on the diversity of venues per city and demonstrate the how the functions work based on a few examples
 
 # {{{
 import numpy as np # library to handle data in a vectorized manner
@@ -296,6 +298,10 @@ population_venue_data.head()
 # 3.3 barplot or boxplot for group Venues  
 # 3.4 plot number of venues vs. number of categories (showing diversity)  
 
+population_venue_data = pd.read_excel('population_venue_data.xlsx')
+population_venue_data.drop(['Unnamed: 0'], axis = 1, inplace = True)
+population_venue_data.head()
+
 # ### 3.1 PCA
 
 # {{{
@@ -415,17 +421,24 @@ category_per_city = tmp.mask(tmp > 0, 1).sum(axis = 1)
 category_per_city.head()
 # }}}
 # {{{
+from scipy import stats 
 plt.figure(figsize=(10,10))
 
 sns.set_style('darkgrid')
-ax = sns.scatterplot(x=category_per_city, y=venues_per_city)
+ax = sns.regplot(x=category_per_city, y=venues_per_city)
 plt.xlabel("Venue Categories per City")
 plt.ylabel("Venues per City")
+pearsonR = stats.pearsonr(category_per_city, venues_per_city)
+ax.text(10, 200, 'pearson R: %s' %(np.round(pearsonR[0], 2)), horizontalalignment='left', size='larger', color='black')
+
 
 plt.savefig('figures/venues_per_city_vs_categories.png', format = 'png')
 plt.savefig('figures/venues_per_city_vs_categories.pdf', format = 'pdf')
 
 # }}}
+
+
+np.round(pearsonR[0], 2)
 
 
 # The figure shows a clear indication that most cities are balanced in their repertoire of different venues the more venues they have
@@ -593,8 +606,8 @@ def get_information_on_next_vacation(input_city, population_venue_data, LIMIT = 
 
 # ### 5.1.1 BERLIN, Germany
 
-future_vacation_destination = find_next_vacation('BERLIN', population_venue_data, 10, 'euclidean')
-future_vacation_destination.head()
+future_vacation_destination_Berlin = find_next_vacation('BERLIN', population_venue_data, 10, 'euclidean')
+future_vacation_destination_Berlin.head()
 
 # ### 5.1.2 Chicago (IL), USA
 
@@ -623,10 +636,15 @@ future_vacation_destination.head()
 
 # ### 5.3 use `foursquare` to get more information on an example city  
 
-future_vacation_destination_info = get_information_on_next_vacation('s-Gravenhage', population_venue_data, 20)
-future_vacation_destination_info
+future_vacation_destination_info_Gravenhage = get_information_on_next_vacation('s-Gravenhage', future_vacation_destination_Berlin, 20)
+future_vacation_destination_info_Gravenhage
 
 # It looks like our next vacation will be filled with food and a little bit of culture.
+
+# save output tables of Berlin and Gravenhage for report
+future_vacation_destination_Berlin.iloc[:,[0,1,2,3,4,5,6, 23, 48,64]].to_csv('tables/Berlin.txt', sep = '&', index = False)
+future_vacation_destination_info_Gravenhage.to_csv('tables/Gravenhage.txt', sep = '&', index = False)
+
 
 # ## Possible discussion points and future directions. 
 # - select more cities and create an average of input cities
